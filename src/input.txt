@@ -1,0 +1,3 @@
+ProductID | Name | Quantity | Price | ReorderThreshhold | Time of Entry
+1 | coins | 100 | 2 | 20 | 9-28-2017
+5 | bb gun | 50 | 1.5 | 10 | 9-20-2017

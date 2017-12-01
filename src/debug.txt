@@ -2,14 +2,12 @@ Open Files:
 input.txt OK 
 output.txt OK 
 
-https://www.shopgoodwill.com/Listings?st=coins&sg=&c=&s=&lp=0&hp=999999&sbn=false&spo=false&snpo=false&socs=false&sd=false&sca=false&caed=11/30/2017&cadb=7&scs=false&sis=false&col=0&p=1&ps=40&desc=false&ss=0&UseBuyerPrefs=true
+https://www.shopgoodwill.com/Listings?st=coins&sg=&c=&s=&lp=0&hp=999999&sbn=false&spo=false&snpo=false&socs=false&sd=false&sca=false&caed=12/01/2017&cadb=7&scs=false&sis=false&col=0&p=1&ps=40&desc=false&ss=0&UseBuyerPrefs=true
 Gathering Item numbers from page:1
 Gathering Item numbers from page:2
 Gathering Item numbers from page:3
-returnedItemsList: 46302077
-returnedItemsList: 45726809
-returnedItemsList: 46317871
 returnedItemsList: 46111994
+returnedItemsList: 46346485
 returnedItemsList: 46112016
 returnedItemsList: 46095454
 returnedItemsList: 46200686
@@ -39,7 +37,6 @@ returnedItemsList: 46326268
 returnedItemsList: 46243823
 returnedItemsList: 46230919
 returnedItemsList: 46243252
-returnedItemsList: 46249421
 returnedItemsList: 46250892
 returnedItemsList: 46319271
 returnedItemsList: 46208490
@@ -47,11 +44,16 @@ returnedItemsList: 46217149
 returnedItemsList: 46203723
 returnedItemsList: 46203832
 returnedItemsList: 46283997
+returnedItemsList: 46371609
+returnedItemsList: 46370479
 returnedItemsList: 46292499
 returnedItemsList: 46215870
+returnedItemsList: 46371148
+returnedItemsList: 46371314
 returnedItemsList: 46215616
 returnedItemsList: 46193284
 returnedItemsList: 46287270
+returnedItemsList: 46365556
 returnedItemsList: 46292754
 returnedItemsList: 46333399
 returnedItemsList: 46261155
@@ -59,6 +61,7 @@ returnedItemsList: 46263043
 returnedItemsList: 46255394
 returnedItemsList: 46255685
 returnedItemsList: 46255785
+returnedItemsList: 46339339
 returnedItemsList: 46264142
 returnedItemsList: 46266207
 returnedItemsList: 46331460
@@ -77,21 +80,44 @@ returnedItemsList: 46298477
 returnedItemsList: 46283524
 returnedItemsList: 46285400
 returnedItemsList: 46296022
+returnedItemsList: 46370230
+returnedItemsList: 46371232
 returnedItemsList: 46288696
+returnedItemsList: 46370698
 returnedItemsList: 46285269
 returnedItemsList: 46296935
 returnedItemsList: 46297054
+returnedItemsList: 46341155
 returnedItemsList: 46285198
+returnedItemsList: 46370482
+returnedItemsList: 46371019
+returnedItemsList: 46369384
 returnedItemsList: 46276661
 returnedItemsList: 46289059
+returnedItemsList: 46365381
+returnedItemsList: 46371378
 returnedItemsList: 46295064
 returnedItemsList: 46295116
 returnedItemsList: 46288757
 returnedItemsList: 46291019
+returnedItemsList: 46357702
+returnedItemsList: 46357704
+returnedItemsList: 46369251
+returnedItemsList: 46369509
+returnedItemsList: 46369788
+returnedItemsList: 46369977
 returnedItemsList: 46318717
 returnedItemsList: 46326217
+returnedItemsList: 46335105
+returnedItemsList: 46335010
+returnedItemsList: 46335586
+returnedItemsList: 46335453
 returnedItemsList: 46318878
-https://www.shopgoodwill.com/Listings?st=bb%20gun&sg=&c=&s=&lp=0&hp=999999&sbn=false&spo=false&snpo=false&socs=false&sd=false&sca=false&caed=11/30/2017&cadb=7&scs=false&sis=false&col=0&p=1&ps=40&desc=false&ss=0&UseBuyerPrefs=true
+returnedItemsList: 46335953
+returnedItemsList: 46341451
+returnedItemsList: 46356767
+returnedItemsList: 46371544
+https://www.shopgoodwill.com/Listings?st=bb%20gun&sg=&c=&s=&lp=0&hp=999999&sbn=false&spo=false&snpo=false&socs=false&sd=false&sca=false&caed=12/01/2017&cadb=7&scs=false&sis=false&col=0&p=1&ps=40&desc=false&ss=0&UseBuyerPrefs=true
 Gathering Item numbers from page:1
 returnedItemsList: 46171762
 returnedItemsList: 46262922

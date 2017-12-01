@@ -1,0 +1,4 @@
+ItemNumber | Title | CurrentPrice | Num of Bids | Seller | Shipping | End Date | Last Update
+96111999 | Apples | 12.5 | 2 | NY Seller | Shipping from NY | 12/1/2017 11:55:01 AM | 12/01/2017 12:51:46
+96111999 | Oranges | 92.12 | 3 | NJ Seller | Shipping from NJ | 12/1/2017 12:55:01 AM | 12/01/2017 12:51:46
+

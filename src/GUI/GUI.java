@@ -233,6 +233,13 @@ public class GUI extends JFrame {
 				getContentPane().add(txtMax, gbc_txtMax);
 				txtMax.setColumns(10);
 				
+				JProgressBar progressBar = new JProgressBar();
+				GridBagConstraints gbc_progressBar = new GridBagConstraints();
+				gbc_progressBar.insets = new Insets(0, 0, 5, 5);
+				gbc_progressBar.gridx = 6;
+				gbc_progressBar.gridy = 7;
+				getContentPane().add(progressBar, gbc_progressBar);
+				
 				Button button_2 = new Button("Open Inv.");
 				GridBagConstraints gbc_button_2 = new GridBagConstraints();
 				gbc_button_2.fill = GridBagConstraints.HORIZONTAL;
@@ -290,13 +297,6 @@ public class GUI extends JFrame {
 				gbc_button_1.gridx = 8;
 				gbc_button_1.gridy = 8;
 				getContentPane().add(button_1, gbc_button_1);
-				
-				JProgressBar progressBar = new JProgressBar();
-				GridBagConstraints gbc_progressBar = new GridBagConstraints();
-				gbc_progressBar.insets = new Insets(0, 0, 5, 5);
-				gbc_progressBar.gridx = 4;
-				gbc_progressBar.gridy = 9;
-				getContentPane().add(progressBar, gbc_progressBar);
 				
 				JLabel lblNewLabel = new JLabel("Editing Database:");
 				GridBagConstraints gbc_lblNewLabel = new GridBagConstraints();

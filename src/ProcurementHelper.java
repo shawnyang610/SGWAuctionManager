@@ -1,10 +1,28 @@
+import java.io.FileReader;
 import java.io.IOException;
+import java.util.Scanner;
+
+import Database.CustomizedHashMap;
+import IOManager.IOManager;
 
 public class ProcurementHelper {
     public static void main(String[] args) throws IOException {
         int argsIndex=0;
         String infileName=null;
         String outfileName=null;
+        Scanner inPermanentData = null;
+        //opening the permanent data file.
+        try {
+			inPermanentData = new Scanner(new FileReader("PermanentData.txt"));
+		} catch (Exception e) {
+			System.out.println("Problem opening PermanentData.txt");
+			System.exit(1);
+		}
+        //instantiate storage
+        CustomizedHashMap hashMap =null;
+        hashMap = IOManager.readToHashMap(inPermanentData); //read all data to the hashMap
+        inPermanentData.close();
+        
         if (args.length==0){
             // GUI Mode
             // call main GUI

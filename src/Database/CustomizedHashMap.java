@@ -1,5 +1,7 @@
 package Database;
 
+import java.io.FileNotFoundException;
+import java.io.PrintWriter;
 import java.util.ArrayList;
 import java.util.concurrent.ConcurrentHashMap;
 //basically an hashmap with String key and value of 2-D ArrayLists.
@@ -129,6 +131,32 @@ public class CustomizedHashMap {
 
 	public boolean containsKey(String inKey) {
 		return chMap.containsKey(inKey);
+	}
+	
+	public void dumpToFile (String in_outfileName) throws FileNotFoundException {
+		PrintWriter outFile = new PrintWriter(in_outfileName);
+		String[][] dataJTable=listToString(getAllList());
+		for (int i=0; i<header.length-1;i++)
+			outFile.print(header[i]+" | ");
+		outFile.print(header[header.length-1]);
+		outFile.println("");
+		for (int i=0; i<dataJTable.length;i++) {
+			for (int j=0; j<dataJTable[i].length-1; j++) {
+				outFile.print(dataJTable[i][j]+" | ");				
+			}
+			outFile.print(dataJTable[i][dataJTable[i].length-1]);
+			outFile.println("");
+		}
+		outFile.close();
+	}
+	
+	private String[][] listToString (ArrayList<ArrayList<String>> inList){
+		String[][] newString = new String[inList.size()][];	
+		for (int i=0; i<inList.size();i++) {
+			newString[i]=new String[inList.get(i).size()];				
+			inList.get(i).toArray(newString[i]);			
+		}	
+		return newString;
 	}
 
 }

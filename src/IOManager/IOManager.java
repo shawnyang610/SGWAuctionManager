@@ -34,7 +34,7 @@ public class IOManager {
     	int lineCount=0;
     	String line="";
     	String header[]=null;
-    	ArrayList<String[]> listInputData = null;
+    	ArrayList<String[]> listInputData = new ArrayList<>();;
     	while (inFile.hasNextLine()) {
 			lineCount++;
 			line = inFile.nextLine();

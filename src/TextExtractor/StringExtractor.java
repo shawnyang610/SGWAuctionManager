@@ -10,7 +10,7 @@ import java.util.regex.Pattern;
 
 /**
  *
- * @author alkyo
+ * 
  */
 public class StringExtractor {
     private String wholeString = null;

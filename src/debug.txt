@@ -6,11 +6,8 @@ https://www.shopgoodwill.com/Listings?st=coins&sg=&c=&s=&lp=0&hp=999999&sbn=fals
 Gathering Item numbers from page:1
 Gathering Item numbers from page:2
 Gathering Item numbers from page:3
-returnedItemsList: 46111994
-returnedItemsList: 46346485
-returnedItemsList: 46112016
-returnedItemsList: 46095454
-returnedItemsList: 46200686
+Gathering Item numbers from page:4
+returnedItemsList: 46389438
 returnedItemsList: 46215189
 returnedItemsList: 46215315
 returnedItemsList: 46215415
@@ -23,6 +20,7 @@ returnedItemsList: 46282627
 returnedItemsList: 46289891
 returnedItemsList: 46293574
 returnedItemsList: 46292470
+returnedItemsList: 46379504
 returnedItemsList: 46195536
 returnedItemsList: 46225945
 returnedItemsList: 46263778
@@ -44,13 +42,40 @@ returnedItemsList: 46217149
 returnedItemsList: 46203723
 returnedItemsList: 46203832
 returnedItemsList: 46283997
+returnedItemsList: 46379119
+returnedItemsList: 46380829
+returnedItemsList: 46380353
+returnedItemsList: 46375489
 returnedItemsList: 46371609
+returnedItemsList: 46376402
+returnedItemsList: 46378585
 returnedItemsList: 46370479
+returnedItemsList: 46371842
+returnedItemsList: 46375576
+returnedItemsList: 46376136
+returnedItemsList: 46378019
+returnedItemsList: 46380878
 returnedItemsList: 46292499
 returnedItemsList: 46215870
+returnedItemsList: 46377753
 returnedItemsList: 46371148
+returnedItemsList: 46379898
+returnedItemsList: 46377493
+returnedItemsList: 46379558
 returnedItemsList: 46371314
+returnedItemsList: 46371731
+returnedItemsList: 46380186
+returnedItemsList: 46379492
+returnedItemsList: 46377206
+returnedItemsList: 46381865
 returnedItemsList: 46215616
+returnedItemsList: 46374943
+returnedItemsList: 46380374
+returnedItemsList: 46379320
+returnedItemsList: 46372495
+returnedItemsList: 46381084
+returnedItemsList: 46374895
+returnedItemsList: 46380603
 returnedItemsList: 46193284
 returnedItemsList: 46287270
 returnedItemsList: 46365556
@@ -64,6 +89,7 @@ returnedItemsList: 46255785
 returnedItemsList: 46339339
 returnedItemsList: 46264142
 returnedItemsList: 46266207
+returnedItemsList: 46385334
 returnedItemsList: 46331460
 returnedItemsList: 46230647
 returnedItemsList: 46335447
@@ -92,9 +118,12 @@ returnedItemsList: 46285198
 returnedItemsList: 46370482
 returnedItemsList: 46371019
 returnedItemsList: 46369384
+returnedItemsList: 46381701
 returnedItemsList: 46276661
 returnedItemsList: 46289059
 returnedItemsList: 46365381
+returnedItemsList: 46383627
+returnedItemsList: 46364354
 returnedItemsList: 46371378
 returnedItemsList: 46295064
 returnedItemsList: 46295116
@@ -115,12 +144,16 @@ returnedItemsList: 46335453
 returnedItemsList: 46318878
 returnedItemsList: 46335953
 returnedItemsList: 46341451
+returnedItemsList: 46378054
+returnedItemsList: 46382166
 returnedItemsList: 46356767
+returnedItemsList: 46358808
 returnedItemsList: 46371544
+returnedItemsList: 46384792
+returnedItemsList: 46381117
+returnedItemsList: 46381365
 https://www.shopgoodwill.com/Listings?st=bb%20gun&sg=&c=&s=&lp=0&hp=999999&sbn=false&spo=false&snpo=false&socs=false&sd=false&sca=false&caed=12/01/2017&cadb=7&scs=false&sis=false&col=0&p=1&ps=40&desc=false&ss=0&UseBuyerPrefs=true
 Gathering Item numbers from page:1
-returnedItemsList: 46171762
-returnedItemsList: 46262922
 returnedItemsList: 46213482
 returnedItemsList: 46240511
 returnedItemsList: 46241120
@@ -130,3 +163,4 @@ returnedItemsList: 46263071
 returnedItemsList: 46287211
 returnedItemsList: 46287728
 returnedItemsList: 46283800
+returnedItemsList: 46391354

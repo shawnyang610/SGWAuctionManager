@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 import Database.CustomizedHashMap;
 import Database.LogRecorder;
+import GUI.GUI;
 import IOManager.IOManager;
 
 public class ProcurementHelper {
@@ -30,6 +31,9 @@ public class ProcurementHelper {
         if (args.length==0){
             // GUI Mode
             // call main GUI
+        	System.out.println("Entering GUI Mode");
+        	GUI guiMode = new GUI(hashMap, "PermanentData.txt", logger, "normal Mode");
+        	guiMode.setVisible(true);
         }
         else {
             // Command mode

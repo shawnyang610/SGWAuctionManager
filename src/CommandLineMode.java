@@ -93,10 +93,13 @@ public class CommandLineMode {
             }//step9, repeat step5~8 until no more items in itemsList
         }//step10, repeat step 2~9 until no more keyword in keywordsList.
 
-        //step11, close I/O. terminate program
+        //step11,dump hashMap data, close I/O. terminate program
+        hashMap.dumpToFile("PermanentData.txt");
+        logger.writeInfo("Dump hashMap Data to PermanentData.txt");
         infile.close();
         outfile.close();
         outDebug.close();
+        logger.close();
 
     }
 

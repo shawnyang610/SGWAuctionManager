@@ -14,7 +14,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author alkyo
+ * 
  */
 public class TextExtractor {
 

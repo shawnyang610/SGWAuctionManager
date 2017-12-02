@@ -41,11 +41,11 @@ public class GUI extends JFrame {
 	private CustomizedHashMap cusMap = null;
 	private String[] header = null;
 	private PrintWriter outFile = null;
-	private LogRecorder log= null;
+	private LogRecorder logger= null;
 	private String selector;
 	private String[][] dataJTable;
 	private DefaultTableModel myTableModel = null;
-	private String outputFileName=null;
+	private String dumpFileName=null;
 	private SimpleDateFormat dateFormat;
 	private Date current;
 	private String CurrentDate;
@@ -56,13 +56,13 @@ public class GUI extends JFrame {
 	/**
 	 * Create the panel.
 	 */
-	public GUI(CustomizedHashMap inCusMap, String[] inHeader, String inOutputFileName, LogRecorder inLog, String inSelector) {
+	public GUI(CustomizedHashMap inCusMap, String inDumpfileName, LogRecorder inLog, String inSelector) {
 		getContentPane().setName("");
 		setTitle("Inventory Management");
 		cusMap=inCusMap;
-		header = inHeader;
-		outputFileName = inOutputFileName;
-		log = inLog;
+		header = inCusMap.header;
+		dumpFileName = inDumpfileName;
+		logger = inLog;
 		selector = inSelector;
 		dateFormat=new SimpleDateFormat("MM-dd-yyyy");
 		current =new Date();
@@ -70,7 +70,7 @@ public class GUI extends JFrame {
 		//set closing action
 		this.addWindowListener(new WindowAdapter() {
 			public void windowClosing (WindowEvent e) {
-				log.writeInfo("Program exits.");
+				logger.writeInfo("Program exits.");
 				System.exit(0);
 			}
 		});
@@ -149,6 +149,7 @@ public class GUI extends JFrame {
 		});
 				
 				JRadioButton rdbtnOnlineSearch = new JRadioButton("Online Search");
+				rdbtnOnlineSearch.setSelected(true);
 				GridBagConstraints gbc_rdbtnOnlineSearch = new GridBagConstraints();
 				gbc_rdbtnOnlineSearch.insets = new Insets(0, 0, 5, 5);
 				gbc_rdbtnOnlineSearch.gridx = 1;
@@ -454,11 +455,11 @@ public class GUI extends JFrame {
 	
 	private void deleteEntry (String inPrimaryKey) {
 		cusMap.deleteList("PrimaryKey="+inPrimaryKey);
-		log.writeInfo("Deleted Entry with key: "+inPrimaryKey);
+		logger.writeInfo("Deleted Entry with key: "+inPrimaryKey);
 		
 	}
 	private void dumpToFile () throws FileNotFoundException {
-		outFile = new PrintWriter(outputFileName);
+		outFile = new PrintWriter(dumpFileName);
 		dataJTable=listToString(cusMap.getAllList());
 		for (int i=0; i<header.length-1;i++)
 			outFile.print(header[i]+" | ");
@@ -472,7 +473,7 @@ public class GUI extends JFrame {
 			outFile.println("");
 		}
 		outFile.close();
-		log.writeInfo("Data dumped to: "+ outputFileName);
+		logger.writeInfo("Data dumped to: "+ dumpFileName);
 	}
 	private void newEntry() {
 		myTableModel.setRowCount(0);
@@ -499,7 +500,7 @@ public class GUI extends JFrame {
 					newEntry.add((String)myTableModel.getValueAt(table.getSelectedRow(), i));
 				}		
 				cusMap.putList(newEntry);	
-				log.writeInfo("Updated Entry with key: "+ myTableModel.getValueAt(table.getSelectedRow(), 0));
+				logger.writeInfo("Updated Entry with key: "+ myTableModel.getValueAt(table.getSelectedRow(), 0));
 				showAll();
 				
 				

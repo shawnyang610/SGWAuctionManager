@@ -1,4 +1,6 @@
 
+import Database.CustomizedHashMap;
+import Database.LogRecorder;
 import IOManager.*;
 import URL_Processor.*;
 import java.io.FileNotFoundException;
@@ -18,10 +20,15 @@ public class CommandLineMode {
     Scanner infile;
     PrintWriter outfile;
     PrintWriter outDebug;
+    CustomizedHashMap hashMap;
+    LogRecorder logger;
 
 
-    CommandLineMode(String inInfileName, String inOutfileName){
+
+    CommandLineMode(String inInfileName, String inOutfileName, CustomizedHashMap in_hashMap, LogRecorder in_logger){
         System.out.println("* * * Command Line Mode * * *");
+        logger = in_logger;
+        hashMap = in_hashMap;
         try {
             infile = new Scanner(new FileReader(inInfileName));
             outfile= new PrintWriter(inOutfileName);
@@ -50,7 +57,6 @@ public class CommandLineMode {
             System.out.println(url);//debug use
             outDebug.println(url);
             outDebug.flush();
-            //step2 ends
             //step3, search online using each keyword
             //step4, analyze the return page, returnedItemsList <- get item# for each item
             OnlineSearch2ItemsList onlineSearch2ItemsList = new OnlineSearch2ItemsList(url, outDebug);
@@ -71,14 +77,15 @@ public class CommandLineMode {
                 itemImageNamesList = item2data.getItemImageNamesList();
 
                 //step6, database <- insert the dataEntry into database
-
-
+                CustomizedHashMap.appendList2Header(hashMap.header, itemDataList);//give each element a header
+                hashMap.putList(itemDataList);
+                CustomizedHashMap.appendList2Header("ImagesForItemNum", itemImageNamesList);
+                hashMap.putList(itemImageNamesList);
                 //step7, log <- write to log
-
+                logger.writeInfo("Write to database", itemDataList);
+                logger.writeInfo("Save images to database", itemImageNamesList);
 
                 //step8, outfile <- write the dataEntry to outfile.
-
-
                 for (String j: itemDataList) {
                     outfile.print(j+" ");
                 }

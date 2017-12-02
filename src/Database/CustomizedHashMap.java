@@ -7,11 +7,13 @@ import java.util.concurrent.ConcurrentHashMap;
 public class CustomizedHashMap {
 	ConcurrentHashMap<String, ArrayList<ArrayList<String>>> chMap;
 	//ConcurrentHashMap<String, ArrayList<String>> wholeListMap;
-	int numOfCol;
+	public int numOfCol;
+	public String[] header;
 	
-	public CustomizedHashMap(int inNumOfCol) {
-		chMap = new ConcurrentHashMap <String, ArrayList<ArrayList<String>>>(); 
-		numOfCol = inNumOfCol;
+	public CustomizedHashMap(String[] in_header) {
+	    header=in_header;
+	    numOfCol=header.length;
+		chMap = new ConcurrentHashMap <>();
 	}
 	//returns an ArrayList of ArrayLists (if any)
 	public ArrayList<ArrayList<String>> getList(String key) {
@@ -31,25 +33,42 @@ public class CustomizedHashMap {
 	//put the input ArrayList<String> in ArrayList<ArrayList> if key already exists,
 	//otherwise create a new ArrayList<ArrayList> and put the input ArrayList<String> in it.
 	public void putList (ArrayList<String> list) {
-			//wholeListMap.put(list.get(0) ,list); //this list stores only one pointer to each entry.
-			for (int i = 0; i<list.size();i++) {
-				//set first column as primary key, so when I run a search for pk, other values dont mix in
-				if (i==0) {
-					ArrayList<ArrayList<String>> newList=new ArrayList<>();
-					newList.add(list);
-					chMap.put("PrimaryKey="+list.get(0), newList);
-				}
-				else if (chMap.containsKey(list.get(i))) {
-						(chMap.get(list.get(i))).add(list);
-				}
-				else {
-					ArrayList<ArrayList<String>> newList = new ArrayList<>();
-					newList.add(list);
-					chMap.put((String)list.get(i), newList);
-				}
+		//wholeListMap.put(list.get(0) ,list); //this list stores only one pointer to each entry.
+		for (int i = 0; i<list.size();i++) {
+			//set first column as primary key, so when I run a search for pk, other values dont mix in
+			if (i==0) {
+				ArrayList<ArrayList<String>> newList=new ArrayList<>();
+				newList.add(list);
+				chMap.put("PrimaryKey="+list.get(0), newList);
 			}
-		
+			else if (chMap.containsKey(list.get(i))) {
+					(chMap.get(list.get(i))).add(list);
+			}
+			else {
+				ArrayList<ArrayList<String>> newList = new ArrayList<>();
+				newList.add(list);
+				chMap.put((String)list.get(i), newList);
+			}
+		}
 	};
+
+	//Append each element in the list to each element in the header and save to the save list.
+    //purpose is to give each element of the list a column name it belongs to.
+	public static void appendList2Header(String[] in_header, ArrayList<String> in_list){
+	    if(in_header.length!=in_list.size()){
+	        System.out.println("appendList2Header() error, header and list are of different sizes");
+	        System.exit(1);
+        }
+        int i=0;
+        for (String s:in_header) {
+            in_list.set(i, s+"="+in_list.get(i));
+            i++;
+        }
+    }
+
+    public static void appendList2Header(String in_header, ArrayList<String> in_list){
+        in_list.set(0, in_header+"="+in_list.get(0));
+    }
 
 	//Remember that, the first String value of the list has to be a unique Primary Key.
 	public void deleteList (String inPrimaryKey) {

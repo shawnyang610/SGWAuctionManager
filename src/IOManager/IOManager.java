@@ -47,7 +47,7 @@ public class IOManager {
 		}
     	
     	//use hash, store all data except the first row(header) into hash
-		temp_hashMap = new CustomizedHashMap(header.length);
+		temp_hashMap = new CustomizedHashMap(header);
 		for (String[] e: listInputData) {
 			ArrayList<String> newList =new ArrayList<>(Arrays.asList(e)); //convert each row of data into a new instance of ArrayList<String>
 			temp_hashMap.putList(newList); //add it to hash

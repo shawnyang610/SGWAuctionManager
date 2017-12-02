@@ -118,6 +118,7 @@ public class Item2Data {
     }
 
     public ArrayList<String> getItemDataList(){
+
         return listSingleItem;
     }
 

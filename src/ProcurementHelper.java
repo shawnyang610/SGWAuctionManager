@@ -3,6 +3,7 @@ import java.io.IOException;
 import java.util.Scanner;
 
 import Database.CustomizedHashMap;
+import Database.LogRecorder;
 import IOManager.IOManager;
 
 public class ProcurementHelper {
@@ -11,6 +12,9 @@ public class ProcurementHelper {
         String infileName=null;
         String outfileName=null;
         Scanner inPermanentData = null;
+        //instantiate logging module
+        LogRecorder logger = new LogRecorder("logFile.txt");
+
         //opening the permanent data file.
         try {
 			inPermanentData = new Scanner(new FileReader("PermanentData.txt"));
@@ -54,7 +58,7 @@ public class ProcurementHelper {
                     throw new IllegalArgumentException("no flags recognizable.");
             }
             // instantiate the main class for the CommandLineMode
-            CommandLineMode cmdMode = new CommandLineMode(infileName, outfileName);
+            CommandLineMode cmdMode = new CommandLineMode(infileName, outfileName, hashMap, logger);
             cmdMode.start();
         }
     }

@@ -6,6 +6,7 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.sql.Timestamp;
 import java.text.SimpleDateFormat;
+import java.util.ArrayList;
 
 
 public class LogRecorder {
@@ -13,7 +14,7 @@ public class LogRecorder {
 	private PrintWriter outFile;
 	private SimpleDateFormat sdf = new SimpleDateFormat("yyyy.MM.dd.HH.mm.ss");
 	private Timestamp timeStamp;
-	LogRecorder (String inFileName) throws IOException{
+	public LogRecorder (String inFileName) throws IOException{
 		fileName = inFileName;
 		timeStamp = new Timestamp (System.currentTimeMillis());
 		
@@ -21,10 +22,20 @@ public class LogRecorder {
 		outFile.println(sdf.format(timeStamp)+": New system session, Log starts here.");
 		outFile.flush();
 	}
-	public void writeInfo(String input) {
-		System.out.println(input);
-		outFile.println(sdf.format(timeStamp)+": "+input);
+	public void writeInfo(String eventDescription) {
+		System.out.println(eventDescription);
+		outFile.println(sdf.format(timeStamp)+": "+eventDescription);
 		outFile.flush();
+	}
+
+	public void writeInfo(String eventDescription, ArrayList<String> in_list) {
+		System.out.println(eventDescription);
+		outFile.println(sdf.format(timeStamp)+": "+eventDescription);
+		for (String e:in_list){
+		    outFile.print(e+" ");
+        }
+        outFile.println("");
+        outFile.flush();
 	}
 	
 	public void close() {

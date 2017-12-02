@@ -1,0 +1,125 @@
+53 AL, Mobile
+13 AR, Little Rock
+148 AZ, Tucson
+71 CA, Bakersfield
+67 CA, Fairfield
+57 CA, Long Beach
+78 CA, Los Angeles
+26 CA, Oxnard
+162 CA, Sacramento
+75 CA, Salinas
+12 CA, San Diego
+119 CA, San Jose
+2 CA, Santa Ana
+120 CA, Santa Rosa
+62 CA, South San Francisco
+73 CO, Colorado Springs
+161 CO, Denver
+16 FL, Fort Lauderdale
+81 FL, Fort Myers
+47 FL, Jacksonville
+34 FL, Lake Worth
+109 FL, Orlando
+176 FL, Tallahassee
+195 GA, Macon
+10 IA, Iowa City
+102 IA, Johnston
+171 IA, Waterloo
+137 IA, Sioux City
+159 ID, Boise
+90 IL, East Peoria
+135 IL, Rockford
+132 IL, Springfield
+105 IN, Fort Wayne
+5 IN, Indianapolis
+50 IN, South Bend
+4 IN, Terre Haute
+20 KS, Wichita
+7 LA, Shreveport
+11 MD, Baltimore
+76 MD, Forestville
+69 MD, Frederick
+184 MD, Hagerstown
+111 ME, Portland
+55 MI, Adrian
+68 MI, Charlotte
+196 MI, Detroit
+114 MI, Flint
+9 MI, Grandville
+77 MI, Kalamazoo
+86 MI, Muskegon
+85 MI, Port Huron
+89 MI, Traverse City
+106 MN, Brooklyn Park
+168 MN, Duluth
+58 MO, Blue Springs
+140 MO, St. Louis
+178 MS, Ridgeland
+187 MT, Belgrade
+61 MT, Billings
+99 MT, Great Falls
+190 MT, Helena
+128 MT, Missoula
+80 NC, Charlotte
+46 NC, Greensboro
+181 NC, Statesville
+154 ND, Bismarck
+182 NE, Grand Island
+118 NE, Omaha
+136 NJ, Bellmawr
+147 NV, Las Vegas
+33 NY, New York
+127 NY, Buffalo
+17 NY, Rochester
+197 NY, Wappingers Falls
+27 OH, Akron
+126 OH, Chillicothe
+130 OH, Cincinnati
+87 OH, Cleveland
+107 OH, Columbus
+54 OH, Dayton
+32 OH, Newark
+103 OH, Powell
+28 OH, Toledo
+188 OK, Lawton
+180 ON, London
+59 OR, Eugene
+8 OR, Hillsboro
+15 OR, Medford
+30 PA, Berwyn
+146 PA, Falls Creek
+199 PA, Harrisburg
+18 PA, North Versailles
+60 PA, Reading
+179 PA, Scranton
+193 SC, Columbia
+22 SC, Greenville
+177 SC, North Charleston
+163 SD, Sioux Falls
+124 TN, Chattanooga
+117 TN, Nashville
+43 TX, Austin
+133 TX, Corpus Christi
+100 TX, El Paso
+63 TX, Fort Worth
+189 TX, Houston
+185 TX, Houston
+104 TX, Lubbock
+74 TX, Lufkin
+164 TX, San Antonio
+101 TX, Tyler
+144 TX, Waco
+192 UT, Murray
+145 VA, Fredericksburg
+191 VA, Roanoke
+155 WA, Pasco
+48 WA, Seattle
+19 WA, Spokane
+198 WA, Spokane
+122 WA, Tacoma
+134 WI, Appleton
+108 WI, Madison
+29 WI, Racine
+56 WV, Charleston
+31 WV, Huntington
+150 WY, Cheyenne

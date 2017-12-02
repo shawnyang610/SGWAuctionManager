@@ -14,6 +14,7 @@ import javax.swing.ButtonGroup;
 import javax.swing.JButton;
 import java.awt.event.ActionListener;
 import java.io.FileNotFoundException;
+import java.io.IOException;
 import java.io.PrintWriter;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
@@ -34,6 +35,10 @@ import javax.swing.JCheckBoxMenuItem;
 import javax.swing.JMenuItem;
 import javax.swing.JCheckBox;
 import javax.swing.JProgressBar;
+import javax.swing.JPopupMenu;
+import java.awt.Component;
+import java.awt.event.MouseAdapter;
+import java.awt.event.MouseEvent;
 
 public class GUI extends JFrame {
 	private JTable table;
@@ -55,8 +60,9 @@ public class GUI extends JFrame {
 	
 	/**
 	 * Create the panel.
+	 * @throws IOException 
 	 */
-	public GUI(CustomizedHashMap inCusMap, String inDumpfileName, LogRecorder inLog, String inSelector) {
+	public GUI(CustomizedHashMap inCusMap, String inDumpfileName, LogRecorder inLog, String inSelector) throws IOException {
 		getContentPane().setName("");
 		setTitle("Inventory Management");
 		cusMap=inCusMap;
@@ -190,25 +196,39 @@ public class GUI extends JFrame {
 				gbc_button.gridy = 6;
 				getContentPane().add(button, gbc_button);
 				
-				JComboBox comboBox_1 = new JComboBox();
-				comboBox_1.setName("");
-				GridBagConstraints gbc_comboBox_1 = new GridBagConstraints();
-				gbc_comboBox_1.insets = new Insets(0, 0, 5, 5);
-				gbc_comboBox_1.fill = GridBagConstraints.HORIZONTAL;
-				gbc_comboBox_1.gridx = 1;
-				gbc_comboBox_1.gridy = 7;
-				getContentPane().add(comboBox_1, gbc_comboBox_1);
+				JComboBox comboBox_categories = new JComboBox(GUIAssistant.getCategoriesParametersFromFile());
+				comboBox_categories.setEditable(true);
+				comboBox_categories.setName("");
+				GridBagConstraints gbc_comboBox_categories = new GridBagConstraints();
+				gbc_comboBox_categories.insets = new Insets(0, 0, 5, 5);
+				gbc_comboBox_categories.fill = GridBagConstraints.HORIZONTAL;
+				gbc_comboBox_categories.gridx = 1;
+				gbc_comboBox_categories.gridy = 7;
+				getContentPane().add(comboBox_categories, gbc_comboBox_categories);
 				
-				JComboBox comboBox = new JComboBox();
-				comboBox.setName("fa");
-				GridBagConstraints gbc_comboBox = new GridBagConstraints();
-				gbc_comboBox.insets = new Insets(0, 0, 5, 5);
-				gbc_comboBox.fill = GridBagConstraints.HORIZONTAL;
-				gbc_comboBox.gridx = 2;
-				gbc_comboBox.gridy = 7;
-				getContentPane().add(comboBox, gbc_comboBox);
+				JComboBox comboBox_sellers = new JComboBox(GUIAssistant.getSellersParametersFromFile());
+				comboBox_sellers.setEditable(true);
+				comboBox_sellers.setName("fa");
+				GridBagConstraints gbc_comboBox_sellers = new GridBagConstraints();
+				gbc_comboBox_sellers.insets = new Insets(0, 0, 5, 5);
+				gbc_comboBox_sellers.fill = GridBagConstraints.HORIZONTAL;
+				gbc_comboBox_sellers.gridx = 2;
+				gbc_comboBox_sellers.gridy = 7;
+				getContentPane().add(comboBox_sellers, gbc_comboBox_sellers);
 				
 				JRadioButton rdbtnPriceRange = new JRadioButton("Price Range");
+				rdbtnPriceRange.addActionListener(new ActionListener() {
+					public void actionPerformed(ActionEvent arg0) {
+						if (rdbtnPriceRange.isSelected()) {
+							txtMax.setEditable(true);
+							txtMin.setEditable(true);
+						}
+						else if (!rdbtnPriceRange.isSelected()) {
+							txtMax.setEditable(false);
+							txtMin.setEditable(false);
+						}
+					}
+				});
 				GridBagConstraints gbc_rdbtnPriceRange = new GridBagConstraints();
 				gbc_rdbtnPriceRange.insets = new Insets(0, 0, 5, 5);
 				gbc_rdbtnPriceRange.gridx = 3;
@@ -216,6 +236,7 @@ public class GUI extends JFrame {
 				getContentPane().add(rdbtnPriceRange, gbc_rdbtnPriceRange);
 				
 				txtMin = new JTextField();
+				txtMin.setEditable(false);
 				txtMin.setText("min");
 				GridBagConstraints gbc_txtMin = new GridBagConstraints();
 				gbc_txtMin.insets = new Insets(0, 0, 5, 5);
@@ -226,6 +247,7 @@ public class GUI extends JFrame {
 				txtMin.setColumns(10);
 				
 				txtMax = new JTextField();
+				txtMax.setEditable(false);
 				txtMax.setText("max");
 				GridBagConstraints gbc_txtMax = new GridBagConstraints();
 				gbc_txtMax.insets = new Insets(0, 0, 5, 5);
@@ -507,5 +529,22 @@ public class GUI extends JFrame {
 				
 			}
 		}
+	}
+	private static void addPopup(Component component, final JPopupMenu popup) {
+		component.addMouseListener(new MouseAdapter() {
+			public void mousePressed(MouseEvent e) {
+				if (e.isPopupTrigger()) {
+					showMenu(e);
+				}
+			}
+			public void mouseReleased(MouseEvent e) {
+				if (e.isPopupTrigger()) {
+					showMenu(e);
+				}
+			}
+			private void showMenu(MouseEvent e) {
+				popup.show(e.getComponent(), e.getX(), e.getY());
+			}
+		});
 	}
 }

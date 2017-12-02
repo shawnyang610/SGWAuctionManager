@@ -80,7 +80,8 @@ public class GUI extends JFrame {
 			
 		}
 		else {
-			dataJTable = listToString(cusMap.getAllList());
+			//dataJTable = listToString(cusMap.getAllList());
+			dataJTable = CHMAssistant.listTo2DStringAry(header, CHMAssistant.filterLists(header, cusMap.getAllList()));
 		}
 
 		
@@ -396,7 +397,7 @@ public class GUI extends JFrame {
 				try {
 					dumpToFile();
 				} catch (FileNotFoundException e) {
-					// TODO Auto-generated catch block
+					
 					e.printStackTrace();
 				}
 			}

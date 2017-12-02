@@ -5,10 +5,9 @@ import java.util.ArrayList;
 public class CHMAssistant {
 	
 	public static ArrayList<ArrayList<String>> filterLists (String[] in_header, ArrayList<ArrayList <String>> in_list){
-		int stringLength = in_header[0].length();
 		ArrayList<ArrayList<String>> tempList = new ArrayList<>();
 		for (ArrayList<String> a: in_list) {
-			if (a.get(0).substring(0, stringLength-1).equals(in_header[0])) {
+			if (a.get(0).startsWith(in_header[0])) {
 				tempList.add(a);
 			}
 		}
@@ -21,7 +20,7 @@ public class CHMAssistant {
 		String[] tempAry = new String[in_list.size()];
 		for (String s:in_list) {
 			temp=s;
-			temp.replaceAll(in_header[i]+"=", "");
+			temp=temp.replaceAll(in_header[i]+"=", "");
 			tempAry[i]=temp;
 			i++;
 		}

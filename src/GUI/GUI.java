@@ -39,6 +39,10 @@ import javax.swing.JPopupMenu;
 import java.awt.Component;
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
+import java.awt.event.FocusAdapter;
+import java.awt.event.FocusEvent;
+import javax.swing.event.ChangeListener;
+import javax.swing.event.ChangeEvent;
 
 public class GUI extends JFrame {
 	private JTable table;
@@ -57,12 +61,14 @@ public class GUI extends JFrame {
 	private JTextField txtEnterKeyWord;
 	private JTextField txtMin;
 	private JTextField txtMax;
+	private GUIAssistant guiAssistant;
 	
 	/**
 	 * Create the panel.
 	 * @throws IOException 
 	 */
 	public GUI(CustomizedHashMap inCusMap, String inDumpfileName, LogRecorder inLog, String inSelector) throws IOException {
+		guiAssistant = new GUIAssistant();
 		getContentPane().setName("");
 		setTitle("Inventory Management");
 		cusMap=inCusMap;
@@ -182,6 +188,16 @@ public class GUI extends JFrame {
 				txtEnterKeyWord.setColumns(10);
 				
 				JCheckBox chckbxSearchDescriptions = new JCheckBox("search descriptions");
+				chckbxSearchDescriptions.addChangeListener(new ChangeListener() {
+					public void stateChanged(ChangeEvent arg0) {
+						if (chckbxSearchDescriptions.isSelected())
+							guiAssistant.sd_searchDescription="true";
+						else
+							guiAssistant.sd_searchDescription="false";
+						System.out.println("guiAssistant.sd_searchDescription="+guiAssistant.sd_searchDescription);
+					}
+					
+				});
 				GridBagConstraints gbc_chckbxSearchDescriptions = new GridBagConstraints();
 				gbc_chckbxSearchDescriptions.insets = new Insets(0, 0, 5, 5);
 				gbc_chckbxSearchDescriptions.gridx = 6;
@@ -197,7 +213,14 @@ public class GUI extends JFrame {
 				getContentPane().add(button, gbc_button);
 				
 				JComboBox comboBox_categories = new JComboBox(GUIAssistant.getCategoriesParametersFromFile());
-				comboBox_categories.setEditable(true);
+				comboBox_categories.addActionListener(new ActionListener() {
+					public void actionPerformed(ActionEvent arg0) {
+						String temp = (String) comboBox_categories.getSelectedItem();
+						System.out.println(temp);
+						guiAssistant.c_category=temp.substring(0, temp.indexOf(" "));
+						System.out.println(guiAssistant.c_category);
+					}
+				});
 				comboBox_categories.setName("");
 				GridBagConstraints gbc_comboBox_categories = new GridBagConstraints();
 				gbc_comboBox_categories.insets = new Insets(0, 0, 5, 5);
@@ -207,7 +230,14 @@ public class GUI extends JFrame {
 				getContentPane().add(comboBox_categories, gbc_comboBox_categories);
 				
 				JComboBox comboBox_sellers = new JComboBox(GUIAssistant.getSellersParametersFromFile());
-				comboBox_sellers.setEditable(true);
+				comboBox_sellers.addActionListener(new ActionListener() {
+					public void actionPerformed(ActionEvent arg0) {
+						String temp = (String) comboBox_categories.getSelectedItem();
+						System.out.println(temp);
+						guiAssistant.s_seller=temp.substring(0, temp.indexOf(" "));
+						System.out.println(guiAssistant.s_seller);
+					}
+				});
 				comboBox_sellers.setName("fa");
 				GridBagConstraints gbc_comboBox_sellers = new GridBagConstraints();
 				gbc_comboBox_sellers.insets = new Insets(0, 0, 5, 5);
@@ -236,6 +266,26 @@ public class GUI extends JFrame {
 				getContentPane().add(rdbtnPriceRange, gbc_rdbtnPriceRange);
 				
 				txtMin = new JTextField();
+				txtMin.addFocusListener(new FocusAdapter() {
+					@Override
+					public void focusLost(FocusEvent arg0) {
+						if (txtMin.isEditable()) {
+							String temp = txtMin.getText();
+							System.out.println(temp);
+							
+							try {
+								if (Integer.parseInt(temp)>100000 || Integer.parseInt(temp)<0) {
+									System.out.println("Please enter valid number");
+								}
+								else {
+									guiAssistant.lp_lowPrice = temp;}
+							} catch (NumberFormatException e) {
+								System.out.println("please enter valid number");
+							}
+						}
+					}
+					
+				});
 				txtMin.setEditable(false);
 				txtMin.setText("min");
 				GridBagConstraints gbc_txtMin = new GridBagConstraints();
@@ -247,6 +297,25 @@ public class GUI extends JFrame {
 				txtMin.setColumns(10);
 				
 				txtMax = new JTextField();
+				txtMax.addFocusListener(new FocusAdapter() {
+					@Override
+					public void focusLost(FocusEvent arg0) {
+						if (txtMax.isEditable()) {
+							String temp = txtMax.getText();
+							System.out.println(temp);
+							try {
+								if (Integer.parseInt(temp)>999999 || Integer.parseInt(temp)<Integer.parseInt(guiAssistant.lp_lowPrice)) {
+									System.out.println("Please enter valid number");
+								}
+								else {
+									guiAssistant.hp_highPrice = temp;
+									System.out.println(guiAssistant.hp_highPrice);}
+							} catch (NumberFormatException e) {
+								System.out.println("please enter valid number");
+							}
+						}
+					}
+				});
 				txtMax.setEditable(false);
 				txtMax.setText("max");
 				GridBagConstraints gbc_txtMax = new GridBagConstraints();

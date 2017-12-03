@@ -177,6 +177,13 @@ public class GUI extends JFrame {
 				getContentPane().add(rdbtnOfflineSearch, gbc_rdbtnOfflineSearch);
 				
 				txtEnterKeyWord = new JTextField();
+				txtEnterKeyWord.addFocusListener(new FocusAdapter() {
+					@Override
+					public void focusLost(FocusEvent e) {
+						guiAssistant.st_keyWord=txtEnterKeyWord.getText();
+						System.out.println("");
+					}
+				});
 				txtEnterKeyWord.setText("enter key word here");
 				GridBagConstraints gbc_txtEnterKeyWord = new GridBagConstraints();
 				gbc_txtEnterKeyWord.gridwidth = 3;
@@ -205,6 +212,11 @@ public class GUI extends JFrame {
 				getContentPane().add(chckbxSearchDescriptions, gbc_chckbxSearchDescriptions);
 				
 				Button button = new Button("Search");
+				button.addActionListener(new ActionListener() {
+					public void actionPerformed(ActionEvent e) {
+						
+					}
+				});
 				GridBagConstraints gbc_button = new GridBagConstraints();
 				gbc_button.fill = GridBagConstraints.HORIZONTAL;
 				gbc_button.insets = new Insets(0, 0, 5, 5);
@@ -342,6 +354,15 @@ public class GUI extends JFrame {
 				getContentPane().add(button_2, gbc_button_2);
 				
 				JCheckBox chckbxBuyItNow = new JCheckBox("Buy it now only");
+				chckbxBuyItNow.addChangeListener(new ChangeListener() {
+					public void stateChanged(ChangeEvent e) {
+						if (chckbxBuyItNow.isSelected()) {
+							guiAssistant.sbn_showBuyItNowOnly="true";
+						}
+						else
+							guiAssistant.sbn_showBuyItNowOnly="false";
+					}
+				});
 				GridBagConstraints gbc_chckbxBuyItNow = new GridBagConstraints();
 				gbc_chckbxBuyItNow.insets = new Insets(0, 0, 5, 5);
 				gbc_chckbxBuyItNow.gridx = 1;
@@ -349,6 +370,15 @@ public class GUI extends JFrame {
 				getContentPane().add(chckbxBuyItNow, gbc_chckbxBuyItNow);
 				
 				JCheckBox chckbxPickUpOnly = new JCheckBox("Pick up only");
+				chckbxPickUpOnly.addChangeListener(new ChangeListener() {
+					public void stateChanged(ChangeEvent e) {
+						if (chckbxPickUpOnly.isSelected()) {
+							guiAssistant.spo_showPickupOnly="true";
+						}
+						else
+							guiAssistant.spo_showPickupOnly="false";
+					}
+				});
 				GridBagConstraints gbc_chckbxPickUpOnly = new GridBagConstraints();
 				gbc_chckbxPickUpOnly.insets = new Insets(0, 0, 5, 5);
 				gbc_chckbxPickUpOnly.gridx = 2;
@@ -356,6 +386,15 @@ public class GUI extends JFrame {
 				getContentPane().add(chckbxPickUpOnly, gbc_chckbxPickUpOnly);
 				
 				JCheckBox chckbxExcludePickup = new JCheckBox("Exclude pick-up");
+				chckbxExcludePickup.addChangeListener(new ChangeListener() {
+					public void stateChanged(ChangeEvent e) {
+						if (chckbxExcludePickup.isSelected()) {
+							guiAssistant.snpo_hidePickupOnlyItems="true";
+						}
+						else
+							guiAssistant.snpo_hidePickupOnlyItems="false";
+					}
+				});
 				GridBagConstraints gbc_chckbxExcludePickup = new GridBagConstraints();
 				gbc_chckbxExcludePickup.insets = new Insets(0, 0, 5, 5);
 				gbc_chckbxExcludePickup.gridx = 3;
@@ -363,6 +402,15 @@ public class GUI extends JFrame {
 				getContentPane().add(chckbxExcludePickup, gbc_chckbxExcludePickup);
 				
 				JCheckBox chckbxcShippingOnly = new JCheckBox("1c shipping only");
+				chckbxcShippingOnly.addChangeListener(new ChangeListener() {
+					public void stateChanged(ChangeEvent e) {
+						if (chckbxcShippingOnly.isSelected()) {
+							guiAssistant.socs_show1CentShippingOnly="true";
+						}
+						else
+							guiAssistant.socs_show1CentShippingOnly="false";
+					}
+				});
 				GridBagConstraints gbc_chckbxcShippingOnly = new GridBagConstraints();
 				gbc_chckbxcShippingOnly.insets = new Insets(0, 0, 5, 5);
 				gbc_chckbxcShippingOnly.gridx = 4;
@@ -370,6 +418,15 @@ public class GUI extends JFrame {
 				getContentPane().add(chckbxcShippingOnly, gbc_chckbxcShippingOnly);
 				
 				JCheckBox chckbxShippingToCanana = new JCheckBox("Shipping to Canana");
+				chckbxShippingToCanana.addChangeListener(new ChangeListener() {
+					public void stateChanged(ChangeEvent e) {
+						if (chckbxShippingToCanana.isSelected()) {
+							guiAssistant.scs_internationalShippingCanada="true";
+						}
+						else
+							guiAssistant.scs_internationalShippingCanada="false";
+					}
+				});
 				GridBagConstraints gbc_chckbxShippingToCanana = new GridBagConstraints();
 				gbc_chckbxShippingToCanana.insets = new Insets(0, 0, 5, 5);
 				gbc_chckbxShippingToCanana.gridx = 5;
@@ -377,6 +434,15 @@ public class GUI extends JFrame {
 				getContentPane().add(chckbxShippingToCanana, gbc_chckbxShippingToCanana);
 				
 				JCheckBox chckbxOutsideOfUs = new JCheckBox("Outside of US & Can.");
+				chckbxOutsideOfUs.addChangeListener(new ChangeListener() {
+					public void stateChanged(ChangeEvent e) {
+						if (chckbxOutsideOfUs.isSelected()) {
+							guiAssistant.sis_internationalShippingOutsideUSCanada="true";
+						}
+						else
+							guiAssistant.sis_internationalShippingOutsideUSCanada="false";
+					}
+				});
 				GridBagConstraints gbc_chckbxOutsideOfUs = new GridBagConstraints();
 				gbc_chckbxOutsideOfUs.insets = new Insets(0, 0, 5, 5);
 				gbc_chckbxOutsideOfUs.gridx = 6;

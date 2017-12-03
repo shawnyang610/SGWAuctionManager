@@ -8,6 +8,8 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.Scanner;
 
+import com.sun.javafx.fxml.builder.URLBuilder;
+
 public class GUIAssistant {
 	String urlBase;
     String st_keyWord;
@@ -60,6 +62,11 @@ public class GUIAssistant {
 	    desc_inDescOrder="false";
 	    ss="0";
 	    useBuyerPrefs="true";  
+	}
+	
+	public String builURL () {
+	
+		return "";
 	}
 
 	public static String[] getSellersParametersFromFile()throws IOException {

@@ -17,6 +17,7 @@ public class CommandLineMode {
     private ArrayList<String>returnedItemsList=null;
     private ArrayList<String>dataEntry=null;
     private String url =null;
+    private boolean enableImage;
     Scanner infile;
     PrintWriter outfile;
     PrintWriter outDebug;
@@ -30,6 +31,7 @@ public class CommandLineMode {
         logger = in_logger;
         hashMap = in_hashMap;
         outDebug = in_outDebug;
+        enableImage=false;
         try {
             infile = new Scanner(new FileReader(inInfileName));
             outfile= new PrintWriter(inOutfileName);
@@ -73,7 +75,7 @@ public class CommandLineMode {
                 //step5, dataEntry <- data mine each item in the itemsList
                 System.out.println("Getting data for item# "+i);
                 item2data =new Item2Data(i, outDebug);
-                item2data.start();
+                item2data.start(enableImage);
                 itemDataList = item2data.getItemDataList();
                 itemImageNamesList = item2data.getItemImageNamesList();
 

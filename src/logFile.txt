@@ -1839,3 +1839,450 @@ ImagesForItemNum=46384864 91813283194645to-thumb.jpg 33380853194645to-thumb.jpg 
 2017.12.03.21.49.25: Program exits.
 2017.12.03.21.58.09: New system session, Log starts here.
 2017.12.03.21.58.09: Program exits.
+2017.12.03.22.35.52: New system session, Log starts here.
+2017.12.03.22.35.52: Write to database
+ItemNumber=46402454 Title=Southern Living The Vegetables Cookbook CurrentPrice=9.99 Num of Bids=0 Seller= Shipping=$0.01 End Date=12/4/2017 4:00:00 PM Last Update=12/03/2017 22:36:12 
+2017.12.03.22.35.52: Save images to database
+ImagesForItemNum=46402454 
+2017.12.03.22.35.52: Write to database
+ItemNumber=46410000 Title=Vegetables  Better home and gardens books CurrentPrice=9.99 Num of Bids=0 Seller= Shipping=$0.01 End Date=12/4/2017 4:00:00 PM Last Update=12/03/2017 22:36:13 
+2017.12.03.22.35.52: Save images to database
+ImagesForItemNum=46410000 
+2017.12.03.22.35.52: Write to database
+ItemNumber=46417309 Title=Bay Books Cookery collection Vegetables for all s CurrentPrice=7.99 Num of Bids=0 Seller= Shipping=$0.01 End Date=12/4/2017 4:00:00 PM Last Update=12/03/2017 22:36:13 
+2017.12.03.22.35.52: Save images to database
+ImagesForItemNum=46417309 
+2017.12.03.22.35.52: Write to database
+ItemNumber=46371096 Title=Martin Burns Sportables 15 34 White Button Shirt CurrentPrice=6.95 Num of Bids=0 Seller=Goodwill Industries of Northwest Ohio Shipping=Estimate Shipping End Date=12/4/2017 6:11:00 PM Last Update=12/03/2017 22:36:13 
+2017.12.03.22.35.52: Save images to database
+ImagesForItemNum=46371096 
+2017.12.03.22.35.52: Write to database
+ItemNumber=46214892 Title=2 DJ Hero Turntables CurrentPrice=5.00 Num of Bids=0 Seller=Shopgoodwill of El Paso Shipping=Estimate Shipping End Date=12/4/2017 9:00:00 PM Last Update=12/03/2017 22:36:13 
+2017.12.03.22.35.52: Save images to database
+ImagesForItemNum=46214892 
+2017.12.03.22.35.52: Write to database
+ItemNumber=46286462 Title=Six Place Logarithmic Tables Wells Book CurrentPrice=9.99 Num of Bids=0 Seller=Goodwill Industries of Greater New York and Northern New Jersey Shipping=$0.01 End Date=12/4/2017 9:00:00 PM Last Update=12/03/2017 22:36:14 
+2017.12.03.22.35.52: Save images to database
+ImagesForItemNum=46286462 
+2017.12.03.22.35.52: Write to database
+ItemNumber=46254105 Title=Mayflower Collectables lucky elephant CurrentPrice=5.99 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/5/2017 9:20:18 AM Last Update=12/03/2017 22:36:14 
+2017.12.03.22.35.52: Save images to database
+ImagesForItemNum=46254105 
+2017.12.03.22.35.52: Write to database
+ItemNumber=46267444 Title=Vintage AdjustableSilver Tone Spoon Ring Size 7.5 CurrentPrice=9.99 Num of Bids=0 Seller= Shipping= End Date=12/5/2017 6:02:00 PM Last Update=12/03/2017 22:36:14 
+2017.12.03.22.35.52: Save images to database
+ImagesForItemNum=46267444 
+2017.12.03.22.35.52: Write to database
+ItemNumber=46252847 Title=Sterling Silver Tablespoon-50.9g CurrentPrice=17.00 Num of Bids=3 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/5/2017 6:15:00 PM Last Update=12/03/2017 22:36:14 
+2017.12.03.22.35.52: Save images to database
+ImagesForItemNum=46252847 
+2017.12.03.22.35.52: Write to database
+ItemNumber=46253969 Title=Sterling Silver Tablespoon-39.0g CurrentPrice=13.01 Num of Bids=2 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/5/2017 6:15:00 PM Last Update=12/03/2017 22:36:15 
+2017.12.03.22.35.52: Save images to database
+ImagesForItemNum=46253969 
+2017.12.03.22.35.52: Write to database
+ItemNumber=46253386 Title=Sterling Silver Tablespoon-50.3g CurrentPrice=15.00 Num of Bids=3 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/5/2017 6:30:00 PM Last Update=12/03/2017 22:36:15 
+2017.12.03.22.35.52: Save images to database
+ImagesForItemNum=46253386 
+2017.12.03.22.35.52: Write to database
+ItemNumber=46253205 Title=Sterling Silver Tablespoon-50.9g CurrentPrice=16.00 Num of Bids=3 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/5/2017 6:36:00 PM Last Update=12/03/2017 22:36:15 
+2017.12.03.22.35.52: Save images to database
+ImagesForItemNum=46253205 
+2017.12.03.22.35.52: Write to database
+ItemNumber=46332489 Title=Still Life Painting of Coffee Grinder, Tablescape CurrentPrice=9.99 Num of Bids=0 Seller=Goodwill Columbus Shipping=Estimate Shipping End Date=12/5/2017 6:44:00 PM Last Update=12/03/2017 22:36:15 
+2017.12.03.22.35.52: Save images to database
+ImagesForItemNum=46332489 
+2017.12.03.22.35.52: Write to database
+ItemNumber=46329591 Title=PHILCO: MODEL R - 1576 TURNTABLES CurrentPrice=9.99 Num of Bids=0 Seller=Goodwill Industries of Greater New York and Northern New Jersey Shipping=Estimate Shipping End Date=12/5/2017 9:00:00 PM Last Update=12/03/2017 22:36:16 
+2017.12.03.22.35.52: Save images to database
+ImagesForItemNum=46329591 
+2017.12.03.22.35.52: Write to database
+ItemNumber=46331496 Title=4 Pc Anime Manga Collectables Sailor Moon Naruto CurrentPrice=19.99 Num of Bids=0 Seller=Goodwill of the Olympics and Rainier Region Shipping=Estimate Shipping End Date=12/6/2017 6:00:00 PM Last Update=12/03/2017 22:36:16 
+2017.12.03.22.35.52: Save images to database
+ImagesForItemNum=46331496 
+2017.12.03.22.35.52: Write to database
+ItemNumber=46286045 Title=Smoley&#39;s Vintage Text &amp; Tables - x2 Books on Math CurrentPrice=10.00 Num of Bids=0 Seller=Southern Oregon Goodwill Industries Shipping= End Date=12/6/2017 6:19:00 PM Last Update=12/03/2017 22:36:16 
+2017.12.03.22.35.52: Save images to database
+ImagesForItemNum=46286045 
+2017.12.03.22.35.52: Write to database
+ItemNumber=46374620 Title=11 pc Vintage Homco Inc Plastic Vegetables Decors CurrentPrice=19.99 Num of Bids=0 Seller=Goodwill of the Olympics and Rainier Region Shipping=$0.01 End Date=12/7/2017 6:00:00 PM Last Update=12/03/2017 22:36:17 
+2017.12.03.22.35.52: Save images to database
+ImagesForItemNum=46374620 
+2017.12.03.22.35.52: Write to database
+ItemNumber=46326021 Title=Sterling Silver Tablespoon-Swan Lake-50.6g CurrentPrice=5.00 Num of Bids=1 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/7/2017 6:11:00 PM Last Update=12/03/2017 22:36:17 
+2017.12.03.22.35.52: Save images to database
+ImagesForItemNum=46326021 
+2017.12.03.22.35.52: Write to database
+ItemNumber=46326254 Title=Sterling Silver Tablespoon-Swan Lake-50.0g CurrentPrice=5.00 Num of Bids=1 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/7/2017 6:15:00 PM Last Update=12/03/2017 22:36:17 
+2017.12.03.22.35.52: Save images to database
+ImagesForItemNum=46326254 
+2017.12.03.22.35.52: Write to database
+ItemNumber=46367675 Title=Lego Friends Heartlake Stables CurrentPrice=7.99 Num of Bids=0 Seller=Goodwill Industries of the Southern Piedmont Shipping=Estimate Shipping End Date=12/8/2017 5:00:00 PM Last Update=12/03/2017 22:36:17 
+2017.12.03.22.35.52: Save images to database
+ImagesForItemNum=46367675 
+2017.12.03.21.27.46: Program exits.
+2017.12.03.22.35.52: Program exits.
+2017.12.03.22.37.31: New system session, Log starts here.
+2017.12.03.22.37.31: Write to database
+ItemNumber=46402934 Title=Coral Bay Pink Bicycle Print Slvless Shirt S NWOT CurrentPrice=9.99 Num of Bids=0 Seller= Shipping=$0.01 End Date=12/4/2017 4:00:00 PM Last Update=12/03/2017 22:37:42 
+2017.12.03.22.37.31: Save images to database
+ImagesForItemNum=46402934 
+2017.12.03.22.37.31: Write to database
+ItemNumber=46403476 Title=EUC WonderKids Blue Bicycle Shirt W/Buttons sz3T CurrentPrice=7.99 Num of Bids=0 Seller= Shipping=$0.01 End Date=12/4/2017 4:00:00 PM Last Update=12/03/2017 22:37:42 
+2017.12.03.22.37.31: Save images to database
+ImagesForItemNum=46403476 
+2017.12.03.22.37.31: Write to database
+ItemNumber=46405066 Title=Handcrafted Bicycle Riding Couple Plastic Brooch CurrentPrice=7.49 Num of Bids=0 Seller= Shipping=$0.01 End Date=12/4/2017 4:00:00 PM Last Update=12/03/2017 22:37:42 
+2017.12.03.22.37.31: Save images to database
+ImagesForItemNum=46405066 
+2017.12.03.22.37.31: Write to database
+ItemNumber=46208741 Title=Stow Away Blue Folding 5-Speed Bicycle SD Local CurrentPrice=58.00 Num of Bids=9 Seller=Goodwill Industries of San Diego County Shipping=Pickup Only End Date=12/4/2017 6:00:00 PM Last Update=12/03/2017 22:37:43 
+2017.12.03.22.37.31: Save images to database
+ImagesForItemNum=46208741 
+2017.12.03.22.37.31: Write to database
+ItemNumber=46209930 Title=Iron Bicycle Wine Rack CurrentPrice=9.99 Num of Bids=0 Seller=Goodwill of Greater Grand Rapids Shipping=Estimate Shipping End Date=12/4/2017 6:00:00 PM Last Update=12/03/2017 22:37:43 
+2017.12.03.22.37.31: Save images to database
+ImagesForItemNum=46209930 
+2017.12.03.22.37.31: Write to database
+ItemNumber=46204079 Title=Gensis Bicycle Seat +Cover Break Pads and Cable CurrentPrice=14.99 Num of Bids=0 Seller=Goodwill of the Olympics and Rainier Region Shipping=Estimate Shipping End Date=12/4/2017 6:30:00 PM Last Update=12/03/2017 22:37:43 
+2017.12.03.22.37.31: Save images to database
+ImagesForItemNum=46204079 
+2017.12.03.22.37.31: Write to database
+ItemNumber=46219227 Title=Dyna Craft Speed Freak Hot Wheels Bicycle CurrentPrice=9.99 Num of Bids=0 Seller=Goodwill of the Olympics and Rainier Region Shipping=Pickup Only End Date=12/4/2017 6:30:00 PM Last Update=12/03/2017 22:37:44 
+2017.12.03.22.37.31: Save images to database
+ImagesForItemNum=46219227 
+2017.12.03.22.37.31: Write to database
+ItemNumber=46210437 Title=Vintage Bicycle Propeller Wind Up Toy. CurrentPrice=9.99 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/4/2017 6:53:00 PM Last Update=12/03/2017 22:37:44 
+2017.12.03.22.37.31: Save images to database
+ImagesForItemNum=46210437 
+2017.12.03.22.37.31: Write to database
+ItemNumber=46197249 Title=Homemade bicycle clock with mirror CurrentPrice=7.99 Num of Bids=0 Seller=Missoula Goodwill Shipping=Estimate Shipping End Date=12/4/2017 7:16:00 PM Last Update=12/03/2017 22:37:44 
+2017.12.03.22.37.31: Save images to database
+ImagesForItemNum=46197249 
+2017.12.03.22.37.31: Write to database
+ItemNumber=46337899 Title=Vintage Yellow Schwinn World Traveler Bicycle CurrentPrice=19.99 Num of Bids=0 Seller= Shipping=Pickup Only End Date=12/5/2017 12:34:08 PM Last Update=12/03/2017 22:37:44 
+2017.12.03.22.37.31: Save images to database
+ImagesForItemNum=46337899 
+2017.12.03.22.37.31: Write to database
+ItemNumber=46299102 Title=1971 Raleigh Grand Prix Road Champion Bicycle CurrentPrice=12.00 Num of Bids=2 Seller=Goodwill of Silicon Valley Shipping=Estimate Shipping End Date=12/5/2017 5:00:00 PM Last Update=12/03/2017 22:37:45 
+2017.12.03.22.37.31: Save images to database
+ImagesForItemNum=46299102 
+2017.12.03.22.37.31: Write to database
+ItemNumber=46249169 Title=Sigma ROX 5.0 Wireless Bicycle Computer CurrentPrice=17.00 Num of Bids=5 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/5/2017 5:15:00 PM Last Update=12/03/2017 22:37:45 
+2017.12.03.22.37.31: Save images to database
+ImagesForItemNum=46249169 
+2017.12.03.22.37.31: Write to database
+ItemNumber=46229011 Title=Huffy Girls Stone Mountain Bicycle Blue CurrentPrice=19.00 Num of Bids=0 Seller= Shipping=Pickup Only End Date=12/5/2017 6:00:00 PM Last Update=12/03/2017 22:37:45 
+2017.12.03.22.37.31: Save images to database
+ImagesForItemNum=46229011 
+2017.12.03.22.37.31: Write to database
+ItemNumber=46396685 Title=Bell and Unbranded Bicycle Safety Lights CurrentPrice=3.99 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/5/2017 6:00:00 PM Last Update=12/03/2017 22:37:46 
+2017.12.03.22.37.31: Save images to database
+ImagesForItemNum=46396685 
+2017.12.03.22.37.31: Write to database
+ItemNumber=46257952 Title=Blue Lumin Trail Metal Mountain Bicycle Pedals CurrentPrice=9.95 Num of Bids=2 Seller=Goodwill Industries of San Diego County Shipping=Estimate Shipping End Date=12/5/2017 6:05:00 PM Last Update=12/03/2017 22:37:46 
+2017.12.03.22.37.31: Save images to database
+ImagesForItemNum=46257952 
+2017.12.03.22.37.31: Write to database
+ItemNumber=46262710 Title=Selle Anatomica Leather Bicycle Saddle CurrentPrice=6.00 Num of Bids=2 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/5/2017 6:15:00 PM Last Update=12/03/2017 22:37:46 
+2017.12.03.22.37.31: Save images to database
+ImagesForItemNum=46262710 
+2017.12.03.22.37.31: Write to database
+ItemNumber=46262707 Title=Rechargeable bicycle light with speaker. CurrentPrice=8.99 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/5/2017 6:30:00 PM Last Update=12/03/2017 22:37:46 
+2017.12.03.22.37.31: Save images to database
+ImagesForItemNum=46262707 
+2017.12.03.22.37.31: Write to database
+ItemNumber=46321626 Title=CycleOps Fluid Indoor Bicycle Trainer CurrentPrice=21.00 Num of Bids=5 Seller= Shipping=Pickup Only End Date=12/5/2017 6:30:00 PM Last Update=12/03/2017 22:37:47 
+2017.12.03.22.37.31: Save images to database
+ImagesForItemNum=46321626 
+2017.12.03.22.37.31: Write to database
+ItemNumber=46235773 Title=Bicycle Playing Cards. 2 sets. Holiday Tin CurrentPrice=9.95 Num of Bids=0 Seller= Shipping=$0.01 End Date=12/5/2017 7:00:00 PM Last Update=12/03/2017 22:37:47 
+2017.12.03.22.37.31: Save images to database
+ImagesForItemNum=46235773 
+2017.12.03.22.37.31: Write to database
+ItemNumber=46251100 Title=Huffy Green Machine 20in Pink/Black Bicycle CurrentPrice=24.99 Num of Bids=0 Seller= Shipping=Pickup Only End Date=12/5/2017 7:24:00 PM Last Update=12/03/2017 22:37:47 
+2017.12.03.22.37.31: Save images to database
+ImagesForItemNum=46251100 
+2017.12.03.22.37.31: Write to database
+ItemNumber=46367325 Title=Bicycle Ride Though the City Art Print CurrentPrice=4.99 Num of Bids=0 Seller=Goodwill of Orange County Shipping= End Date=12/5/2017 7:35:00 PM Last Update=12/03/2017 22:37:47 
+2017.12.03.22.37.31: Save images to database
+ImagesForItemNum=46367325 
+2017.12.03.22.37.31: Write to database
+ItemNumber=46274134 Title=Mongoose Malus 7 Speed Bicycle CurrentPrice=149.99 Num of Bids=0 Seller= Shipping=Pickup Only End Date=12/6/2017 5:00:00 PM Last Update=12/03/2017 22:37:48 
+2017.12.03.22.37.31: Save images to database
+ImagesForItemNum=46274134 
+2017.12.03.22.37.31: Write to database
+ItemNumber=46296137 Title=Bicycle Helmet with Rear Light CurrentPrice=7.99 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/6/2017 6:15:00 PM Last Update=12/03/2017 22:37:48 
+2017.12.03.22.37.31: Save images to database
+ImagesForItemNum=46296137 
+2017.12.03.22.37.31: Write to database
+ItemNumber=46272325 Title=Schwinn Bicycle Seat CurrentPrice=9.99 Num of Bids=0 Seller=Goodwill of Greater Grand Rapids Shipping=Estimate Shipping End Date=12/6/2017 6:25:00 PM Last Update=12/03/2017 22:37:48 
+2017.12.03.22.37.31: Save images to database
+ImagesForItemNum=46272325 
+2017.12.03.22.37.31: Write to database
+ItemNumber=46288202 Title=Desk Bicycle Clock 009 CurrentPrice=10.00 Num of Bids=1 Seller=Goodwill Easter Seals Miami Valley Shipping=Estimate Shipping End Date=12/6/2017 6:30:00 PM Last Update=12/03/2017 22:37:49 
+2017.12.03.22.37.31: Save images to database
+ImagesForItemNum=46288202 
+2017.12.03.22.37.31: Write to database
+ItemNumber=46297432 Title=Bicycle Package Phone Case for a Bicycle CurrentPrice=6.99 Num of Bids=0 Seller=Goodwill Industries of Southern Arizona Shipping=Estimate Shipping End Date=12/6/2017 6:30:00 PM Last Update=12/03/2017 22:37:49 
+2017.12.03.22.37.31: Save images to database
+ImagesForItemNum=46297432 
+2017.12.03.22.37.31: Write to database
+ItemNumber=46278303 Title=Diamondback 8 Speed Bicycle W/26&quot; Tires CurrentPrice=24.99 Num of Bids=0 Seller= Shipping=Pickup Only End Date=12/6/2017 7:43:00 PM Last Update=12/03/2017 22:37:49 
+2017.12.03.22.37.31: Save images to database
+ImagesForItemNum=46278303 
+2017.12.03.22.37.31: Write to database
+ItemNumber=46278960 Title=Schwinn Spirit Retro Style Girl&#39;s Bicycle White CurrentPrice=9.99 Num of Bids=0 Seller=Discover Goodwill of Southern and Western Colorado Shipping=Pickup Only End Date=12/6/2017 7:45:00 PM Last Update=12/03/2017 22:37:49 
+2017.12.03.22.37.31: Save images to database
+ImagesForItemNum=46278960 
+2017.12.03.22.37.31: Write to database
+ItemNumber=46341143 Title=Whimsical Sheffield Bicycle Quartz Watch Pin CurrentPrice=14.95 Num of Bids=0 Seller= Shipping= End Date=12/7/2017 2:31:19 PM Last Update=12/03/2017 22:37:50 
+2017.12.03.22.37.31: Save images to database
+ImagesForItemNum=46341143 
+2017.12.03.22.37.31: Write to database
+ItemNumber=46332568 Title=Closca Bicycle / Skateboarding Helmet with Pouch CurrentPrice=5.00 Num of Bids=1 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/7/2017 5:45:00 PM Last Update=12/03/2017 22:37:50 
+2017.12.03.22.37.31: Save images to database
+ImagesForItemNum=46332568 
+2017.12.03.22.37.31: Write to database
+ItemNumber=46376950 Title=Sidi Mens Bicycle Cycling Shoes Approx Size 7.5 CurrentPrice=14.99 Num of Bids=0 Seller=Goodwill of the Olympics and Rainier Region Shipping=$0.01 End Date=12/7/2017 6:00:00 PM Last Update=12/03/2017 22:37:50 
+2017.12.03.22.37.31: Save images to database
+ImagesForItemNum=46376950 
+2017.12.03.22.37.31: Write to database
+ItemNumber=46334927 Title=Vintage Perigee Giant Bicycle CurrentPrice=21.00 Num of Bids=2 Seller=Goodwill of Greater Grand Rapids Shipping=Pickup Only End Date=12/7/2017 6:05:00 PM Last Update=12/03/2017 22:37:50 
+2017.12.03.22.37.31: Save images to database
+ImagesForItemNum=46334927 
+2017.12.03.22.37.31: Write to database
+ItemNumber=46335007 Title=Eurotour Ross Bicycle CurrentPrice=9.99 Num of Bids=0 Seller=Goodwill of Greater Grand Rapids Shipping=Pickup Only End Date=12/7/2017 6:28:00 PM Last Update=12/03/2017 22:37:51 
+2017.12.03.22.37.31: Save images to database
+ImagesForItemNum=46335007 
+2017.12.03.22.37.31: Write to database
+ItemNumber=46335543 Title=Roll N Fold Folding Bicycle #1 CurrentPrice=26.99 Num of Bids=4 Seller=Goodwill of Greater Grand Rapids Shipping=Pickup Only End Date=12/7/2017 6:45:00 PM Last Update=12/03/2017 22:37:51 
+2017.12.03.22.37.31: Save images to database
+ImagesForItemNum=46335543 
+2017.12.03.22.37.31: Write to database
+ItemNumber=46335598 Title=Roll N Fold Folding Bicycle #2 CurrentPrice=25.00 Num of Bids=5 Seller=Goodwill of Greater Grand Rapids Shipping=Pickup Only End Date=12/7/2017 6:45:00 PM Last Update=12/03/2017 22:37:51 
+2017.12.03.22.37.31: Save images to database
+ImagesForItemNum=46335598 
+2017.12.03.22.37.31: Write to database
+ItemNumber=46397570 Title=BICYCLE SPORT COLLECTION BASEBALL CARDS CurrentPrice=4.99 Num of Bids=0 Seller=Goodwill Industries of Greater New York and Northern New Jersey Shipping=Estimate Shipping End Date=12/7/2017 9:00:00 PM Last Update=12/03/2017 22:37:52 
+2017.12.03.22.37.31: Save images to database
+ImagesForItemNum=46397570 
+2017.12.03.22.37.31: Write to database
+ItemNumber=46397759 Title=BICYCLE PENDANT /WATCH CurrentPrice=4.99 Num of Bids=0 Seller=Goodwill Industries of Greater New York and Northern New Jersey Shipping=Estimate Shipping End Date=12/7/2017 9:00:00 PM Last Update=12/03/2017 22:37:52 
+2017.12.03.22.37.31: Save images to database
+ImagesForItemNum=46397759 
+2017.12.03.22.37.31: Write to database
+ItemNumber=46282365 Title=Teku Children Bicycle Pads 18-9217 CurrentPrice=4.99 Num of Bids=0 Seller=Heart of Texas Goodwill Shipping=Estimate Shipping End Date=12/8/2017 6:00:00 PM Last Update=12/03/2017 22:37:52 
+2017.12.03.22.37.31: Save images to database
+ImagesForItemNum=46282365 
+2017.12.03.22.37.31: Write to database
+ItemNumber=46380679 Title=Rhode Gear Rhack Bicycle Rack R054644 CurrentPrice=4.99 Num of Bids=0 Seller=Goodwill of Greater Grand Rapids Shipping=Pickup Only End Date=12/8/2017 6:00:00 PM Last Update=12/03/2017 22:37:52 
+2017.12.03.22.37.31: Save images to database
+ImagesForItemNum=46380679 
+2017.12.03.22.37.31: Write to database
+ItemNumber=46377891 Title=2 Vittoria Origin 8 Open Corsa Bicycle Wheels CurrentPrice=23.00 Num of Bids=2 Seller=Goodwill Industries of San Diego County Shipping=Estimate Shipping End Date=12/8/2017 6:27:00 PM Last Update=12/03/2017 22:37:53 
+2017.12.03.22.37.31: Save images to database
+ImagesForItemNum=46377891 
+2017.12.03.22.37.31: Write to database
+ItemNumber=46404963 Title=Bell 3 Wheel Bicycle w/Basket CurrentPrice=8.99 Num of Bids=2 Seller=Goodwill of North Florida Shipping=Pickup Only End Date=12/8/2017 7:15:00 PM Last Update=12/03/2017 22:37:53 
+2017.12.03.22.37.31: Save images to database
+ImagesForItemNum=46404963 
+2017.12.03.22.37.31: Write to database
+ItemNumber=46268461 Title=Marin Novato 17 Inch Alloy Road Bicycle CurrentPrice=16.00 Num of Bids=2 Seller=Discover Goodwill of Southern and Western Colorado Shipping=Pickup Only End Date=12/8/2017 7:30:00 PM Last Update=12/03/2017 22:37:53 
+2017.12.03.22.37.31: Save images to database
+ImagesForItemNum=46268461 
+2017.12.03.22.37.31: Write to database
+ItemNumber=46341469 Title=Landrider AutoShift Dual Suspension Bicycle CurrentPrice=9.99 Num of Bids=0 Seller=Discover Goodwill of Southern and Western Colorado Shipping=Pickup Only End Date=12/9/2017 7:30:00 PM Last Update=12/03/2017 22:37:54 
+2017.12.03.22.37.31: Save images to database
+ImagesForItemNum=46341469 
+2017.12.03.22.37.31: Write to database
+ItemNumber=46418620 Title=Cycle Ops 81612 Indoor Bicycle Fluid Trainer #1 CurrentPrice=10.00 Num of Bids=3 Seller=Goodwill Industries of the Inland Northwest Shipping=Estimate Shipping End Date=12/10/2017 11:24:05 AM Last Update=12/03/2017 22:37:54 
+2017.12.03.22.37.31: Save images to database
+ImagesForItemNum=46418620 
+2017.12.03.22.37.31: Write to database
+ItemNumber=46418635 Title=Cycle Ops 81612 Indoor Bicycle Fluid Trainer #2 CurrentPrice=9.00 Num of Bids=2 Seller=Goodwill Industries of the Inland Northwest Shipping=Estimate Shipping End Date=12/10/2017 11:27:06 AM Last Update=12/03/2017 22:37:54 
+2017.12.03.22.37.31: Save images to database
+ImagesForItemNum=46418635 
+2017.12.03.22.37.31: Write to database
+ItemNumber=46379974 Title=Bontrager RaceXLite Tubeless Bicycle Tire CurrentPrice=9.99 Num of Bids=1 Seller=Discover Goodwill of Southern and Western Colorado Shipping=Pickup Only End Date=12/10/2017 6:30:00 PM Last Update=12/03/2017 22:37:55 
+2017.12.03.22.37.31: Save images to database
+ImagesForItemNum=46379974 
+2017.12.03.22.37.31: Program exits.
+2017.12.03.22.44.47: New system session, Log starts here.
+2017.12.03.22.44.47: Write to database
+ItemNumber=46402454 Title=Southern Living The Vegetables Cookbook CurrentPrice=9.99 Num of Bids=0 Seller= Shipping=$0.01 End Date=12/4/2017 4:00:00 PM Last Update=12/03/2017 22:45:09 
+2017.12.03.22.44.47: Save images to database
+ImagesForItemNum=46402454 
+2017.12.03.22.44.47: Write to database
+ItemNumber=46410000 Title=Vegetables  Better home and gardens books CurrentPrice=9.99 Num of Bids=0 Seller= Shipping=$0.01 End Date=12/4/2017 4:00:00 PM Last Update=12/03/2017 22:45:09 
+2017.12.03.22.44.47: Save images to database
+ImagesForItemNum=46410000 
+2017.12.03.22.44.47: Write to database
+ItemNumber=46417309 Title=Bay Books Cookery collection Vegetables for all s CurrentPrice=7.99 Num of Bids=0 Seller= Shipping=$0.01 End Date=12/4/2017 4:00:00 PM Last Update=12/03/2017 22:45:09 
+2017.12.03.22.44.47: Save images to database
+ImagesForItemNum=46417309 
+2017.12.03.22.44.47: Write to database
+ItemNumber=46371096 Title=Martin Burns Sportables 15 34 White Button Shirt CurrentPrice=6.95 Num of Bids=0 Seller=Goodwill Industries of Northwest Ohio Shipping=Estimate Shipping End Date=12/4/2017 6:11:00 PM Last Update=12/03/2017 22:45:10 
+2017.12.03.22.44.47: Save images to database
+ImagesForItemNum=46371096 
+2017.12.03.22.44.47: Write to database
+ItemNumber=46214892 Title=2 DJ Hero Turntables CurrentPrice=5.00 Num of Bids=0 Seller=Shopgoodwill of El Paso Shipping=Estimate Shipping End Date=12/4/2017 9:00:00 PM Last Update=12/03/2017 22:45:10 
+2017.12.03.22.44.47: Save images to database
+ImagesForItemNum=46214892 
+2017.12.03.22.44.47: Write to database
+ItemNumber=46286462 Title=Six Place Logarithmic Tables Wells Book CurrentPrice=9.99 Num of Bids=0 Seller=Goodwill Industries of Greater New York and Northern New Jersey Shipping=$0.01 End Date=12/4/2017 9:00:00 PM Last Update=12/03/2017 22:45:10 
+2017.12.03.22.44.47: Save images to database
+ImagesForItemNum=46286462 
+2017.12.03.22.44.47: Write to database
+ItemNumber=46254105 Title=Mayflower Collectables lucky elephant CurrentPrice=5.99 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/5/2017 9:20:18 AM Last Update=12/03/2017 22:45:10 
+2017.12.03.22.44.47: Save images to database
+ImagesForItemNum=46254105 
+2017.12.03.22.44.47: Write to database
+ItemNumber=46267444 Title=Vintage AdjustableSilver Tone Spoon Ring Size 7.5 CurrentPrice=9.99 Num of Bids=0 Seller= Shipping= End Date=12/5/2017 6:02:00 PM Last Update=12/03/2017 22:45:11 
+2017.12.03.22.44.47: Save images to database
+ImagesForItemNum=46267444 
+2017.12.03.22.44.47: Write to database
+ItemNumber=46252847 Title=Sterling Silver Tablespoon-50.9g CurrentPrice=17.00 Num of Bids=3 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/5/2017 6:15:00 PM Last Update=12/03/2017 22:45:11 
+2017.12.03.22.44.47: Save images to database
+ImagesForItemNum=46252847 
+2017.12.03.22.44.47: Write to database
+ItemNumber=46253969 Title=Sterling Silver Tablespoon-39.0g CurrentPrice=13.01 Num of Bids=2 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/5/2017 6:15:00 PM Last Update=12/03/2017 22:45:11 
+2017.12.03.22.44.47: Save images to database
+ImagesForItemNum=46253969 
+2017.12.03.22.44.47: Write to database
+ItemNumber=46253386 Title=Sterling Silver Tablespoon-50.3g CurrentPrice=15.00 Num of Bids=3 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/5/2017 6:30:00 PM Last Update=12/03/2017 22:45:11 
+2017.12.03.22.44.47: Save images to database
+ImagesForItemNum=46253386 
+2017.12.03.22.44.47: Write to database
+ItemNumber=46253205 Title=Sterling Silver Tablespoon-50.9g CurrentPrice=16.00 Num of Bids=3 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/5/2017 6:36:00 PM Last Update=12/03/2017 22:45:12 
+2017.12.03.22.44.47: Save images to database
+ImagesForItemNum=46253205 
+2017.12.03.22.44.47: Write to database
+ItemNumber=46332489 Title=Still Life Painting of Coffee Grinder, Tablescape CurrentPrice=9.99 Num of Bids=0 Seller=Goodwill Columbus Shipping=Estimate Shipping End Date=12/5/2017 6:44:00 PM Last Update=12/03/2017 22:45:12 
+2017.12.03.22.44.47: Save images to database
+ImagesForItemNum=46332489 
+2017.12.03.22.44.47: Write to database
+ItemNumber=46329591 Title=PHILCO: MODEL R - 1576 TURNTABLES CurrentPrice=9.99 Num of Bids=0 Seller=Goodwill Industries of Greater New York and Northern New Jersey Shipping=Estimate Shipping End Date=12/5/2017 9:00:00 PM Last Update=12/03/2017 22:45:13 
+2017.12.03.22.44.47: Save images to database
+ImagesForItemNum=46329591 
+2017.12.03.22.44.47: Write to database
+ItemNumber=46331496 Title=4 Pc Anime Manga Collectables Sailor Moon Naruto CurrentPrice=19.99 Num of Bids=0 Seller=Goodwill of the Olympics and Rainier Region Shipping=Estimate Shipping End Date=12/6/2017 6:00:00 PM Last Update=12/03/2017 22:45:13 
+2017.12.03.22.44.47: Save images to database
+ImagesForItemNum=46331496 
+2017.12.03.22.44.47: Write to database
+ItemNumber=46286045 Title=Smoley&#39;s Vintage Text &amp; Tables - x2 Books on Math CurrentPrice=10.00 Num of Bids=0 Seller=Southern Oregon Goodwill Industries Shipping= End Date=12/6/2017 6:19:00 PM Last Update=12/03/2017 22:45:13 
+2017.12.03.22.44.47: Save images to database
+ImagesForItemNum=46286045 
+2017.12.03.22.44.47: Write to database
+ItemNumber=46374620 Title=11 pc Vintage Homco Inc Plastic Vegetables Decors CurrentPrice=19.99 Num of Bids=0 Seller=Goodwill of the Olympics and Rainier Region Shipping=$0.01 End Date=12/7/2017 6:00:00 PM Last Update=12/03/2017 22:45:13 
+2017.12.03.22.44.47: Save images to database
+ImagesForItemNum=46374620 
+2017.12.03.22.44.47: Write to database
+ItemNumber=46326021 Title=Sterling Silver Tablespoon-Swan Lake-50.6g CurrentPrice=5.00 Num of Bids=1 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/7/2017 6:11:00 PM Last Update=12/03/2017 22:45:14 
+2017.12.03.22.44.47: Save images to database
+ImagesForItemNum=46326021 
+2017.12.03.22.44.47: Write to database
+ItemNumber=46326254 Title=Sterling Silver Tablespoon-Swan Lake-50.0g CurrentPrice=5.00 Num of Bids=1 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/7/2017 6:15:00 PM Last Update=12/03/2017 22:45:14 
+2017.12.03.22.44.47: Save images to database
+ImagesForItemNum=46326254 
+2017.12.03.22.44.47: Write to database
+ItemNumber=46367675 Title=Lego Friends Heartlake Stables CurrentPrice=7.99 Num of Bids=0 Seller=Goodwill Industries of the Southern Piedmont Shipping=Estimate Shipping End Date=12/8/2017 5:00:00 PM Last Update=12/03/2017 22:45:14 
+2017.12.03.22.44.47: Save images to database
+ImagesForItemNum=46367675 
+2017.12.03.22.44.47: Deleted Entry with key: 46267444
+2017.12.03.22.44.47: Deleted Entry with key: 46254105
+2017.12.03.22.44.47: Deleted Entry with key: 46254105
+2017.12.03.22.44.47: Deleted Entry with key: 46253205
+2017.12.03.22.44.47: Deleted Entry with key: 46253386
+2017.12.03.22.44.47: Program exits.
+2017.12.03.22.48.23: New system session, Log starts here.
+2017.12.03.22.48.23: Data dumped to: PermanentData.txt
+2017.12.03.22.48.23: Program exits.
+2017.12.03.22.48.42: New system session, Log starts here.
+2017.12.03.22.48.42: Write to database
+ItemNumber=46402454 Title=Southern Living The Vegetables Cookbook CurrentPrice=9.99 Num of Bids=0 Seller= Shipping=$0.01 End Date=12/4/2017 4:00:00 PM Last Update=12/03/2017 22:48:52 
+2017.12.03.22.48.42: Save images to database
+ImagesForItemNum=46402454 
+2017.12.03.22.48.42: Write to database
+ItemNumber=46410000 Title=Vegetables  Better home and gardens books CurrentPrice=9.99 Num of Bids=0 Seller= Shipping=$0.01 End Date=12/4/2017 4:00:00 PM Last Update=12/03/2017 22:48:52 
+2017.12.03.22.48.42: Save images to database
+ImagesForItemNum=46410000 
+2017.12.03.22.48.42: Write to database
+ItemNumber=46417309 Title=Bay Books Cookery collection Vegetables for all s CurrentPrice=7.99 Num of Bids=0 Seller= Shipping=$0.01 End Date=12/4/2017 4:00:00 PM Last Update=12/03/2017 22:48:53 
+2017.12.03.22.48.42: Save images to database
+ImagesForItemNum=46417309 
+2017.12.03.22.48.42: Write to database
+ItemNumber=46371096 Title=Martin Burns Sportables 15 34 White Button Shirt CurrentPrice=6.95 Num of Bids=0 Seller=Goodwill Industries of Northwest Ohio Shipping=Estimate Shipping End Date=12/4/2017 6:11:00 PM Last Update=12/03/2017 22:48:53 
+2017.12.03.22.48.42: Save images to database
+ImagesForItemNum=46371096 
+2017.12.03.22.48.42: Write to database
+ItemNumber=46214892 Title=2 DJ Hero Turntables CurrentPrice=5.00 Num of Bids=0 Seller=Shopgoodwill of El Paso Shipping=Estimate Shipping End Date=12/4/2017 9:00:00 PM Last Update=12/03/2017 22:48:53 
+2017.12.03.22.48.42: Save images to database
+ImagesForItemNum=46214892 
+2017.12.03.22.48.42: Write to database
+ItemNumber=46286462 Title=Six Place Logarithmic Tables Wells Book CurrentPrice=9.99 Num of Bids=0 Seller=Goodwill Industries of Greater New York and Northern New Jersey Shipping=$0.01 End Date=12/4/2017 9:00:00 PM Last Update=12/03/2017 22:48:53 
+2017.12.03.22.48.42: Save images to database
+ImagesForItemNum=46286462 
+2017.12.03.22.48.42: Write to database
+ItemNumber=46254105 Title=Mayflower Collectables lucky elephant CurrentPrice=5.99 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/5/2017 9:20:18 AM Last Update=12/03/2017 22:48:54 
+2017.12.03.22.48.42: Save images to database
+ImagesForItemNum=46254105 
+2017.12.03.22.48.42: Write to database
+ItemNumber=46267444 Title=Vintage AdjustableSilver Tone Spoon Ring Size 7.5 CurrentPrice=9.99 Num of Bids=0 Seller= Shipping= End Date=12/5/2017 6:02:00 PM Last Update=12/03/2017 22:48:54 
+2017.12.03.22.48.42: Save images to database
+ImagesForItemNum=46267444 
+2017.12.03.22.48.42: Write to database
+ItemNumber=46252847 Title=Sterling Silver Tablespoon-50.9g CurrentPrice=17.00 Num of Bids=3 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/5/2017 6:15:00 PM Last Update=12/03/2017 22:48:54 
+2017.12.03.22.48.42: Save images to database
+ImagesForItemNum=46252847 
+2017.12.03.22.48.42: Write to database
+ItemNumber=46253969 Title=Sterling Silver Tablespoon-39.0g CurrentPrice=13.01 Num of Bids=2 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/5/2017 6:15:00 PM Last Update=12/03/2017 22:48:55 
+2017.12.03.22.48.42: Save images to database
+ImagesForItemNum=46253969 
+2017.12.03.22.48.42: Write to database
+ItemNumber=46253386 Title=Sterling Silver Tablespoon-50.3g CurrentPrice=15.00 Num of Bids=3 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/5/2017 6:30:00 PM Last Update=12/03/2017 22:48:55 
+2017.12.03.22.48.42: Save images to database
+ImagesForItemNum=46253386 
+2017.12.03.22.48.42: Write to database
+ItemNumber=46253205 Title=Sterling Silver Tablespoon-50.9g CurrentPrice=16.00 Num of Bids=3 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/5/2017 6:36:00 PM Last Update=12/03/2017 22:48:55 
+2017.12.03.22.48.42: Save images to database
+ImagesForItemNum=46253205 
+2017.12.03.22.48.42: Write to database
+ItemNumber=46332489 Title=Still Life Painting of Coffee Grinder, Tablescape CurrentPrice=9.99 Num of Bids=0 Seller=Goodwill Columbus Shipping=Estimate Shipping End Date=12/5/2017 6:44:00 PM Last Update=12/03/2017 22:48:56 
+2017.12.03.22.48.42: Save images to database
+ImagesForItemNum=46332489 
+2017.12.03.22.48.42: Write to database
+ItemNumber=46329591 Title=PHILCO: MODEL R - 1576 TURNTABLES CurrentPrice=9.99 Num of Bids=0 Seller=Goodwill Industries of Greater New York and Northern New Jersey Shipping=Estimate Shipping End Date=12/5/2017 9:00:00 PM Last Update=12/03/2017 22:48:56 
+2017.12.03.22.48.42: Save images to database
+ImagesForItemNum=46329591 
+2017.12.03.22.48.42: Write to database
+ItemNumber=46331496 Title=4 Pc Anime Manga Collectables Sailor Moon Naruto CurrentPrice=19.99 Num of Bids=0 Seller=Goodwill of the Olympics and Rainier Region Shipping=Estimate Shipping End Date=12/6/2017 6:00:00 PM Last Update=12/03/2017 22:48:56 
+2017.12.03.22.48.42: Save images to database
+ImagesForItemNum=46331496 
+2017.12.03.22.48.42: Write to database
+ItemNumber=46286045 Title=Smoley&#39;s Vintage Text &amp; Tables - x2 Books on Math CurrentPrice=10.00 Num of Bids=0 Seller=Southern Oregon Goodwill Industries Shipping= End Date=12/6/2017 6:19:00 PM Last Update=12/03/2017 22:48:56 
+2017.12.03.22.48.42: Save images to database
+ImagesForItemNum=46286045 
+2017.12.03.22.48.42: Write to database
+ItemNumber=46374620 Title=11 pc Vintage Homco Inc Plastic Vegetables Decors CurrentPrice=19.99 Num of Bids=0 Seller=Goodwill of the Olympics and Rainier Region Shipping=$0.01 End Date=12/7/2017 6:00:00 PM Last Update=12/03/2017 22:48:57 
+2017.12.03.22.48.42: Save images to database
+ImagesForItemNum=46374620 
+2017.12.03.22.48.42: Write to database
+ItemNumber=46326021 Title=Sterling Silver Tablespoon-Swan Lake-50.6g CurrentPrice=5.00 Num of Bids=1 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/7/2017 6:11:00 PM Last Update=12/03/2017 22:48:57 
+2017.12.03.22.48.42: Save images to database
+ImagesForItemNum=46326021 
+2017.12.03.22.48.42: Write to database
+ItemNumber=46326254 Title=Sterling Silver Tablespoon-Swan Lake-50.0g CurrentPrice=5.00 Num of Bids=1 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/7/2017 6:15:00 PM Last Update=12/03/2017 22:48:57 
+2017.12.03.22.48.42: Save images to database
+ImagesForItemNum=46326254 
+2017.12.03.22.48.42: Write to database
+ItemNumber=46367675 Title=Lego Friends Heartlake Stables CurrentPrice=7.99 Num of Bids=0 Seller=Goodwill Industries of the Southern Piedmont Shipping=Estimate Shipping End Date=12/8/2017 5:00:00 PM Last Update=12/03/2017 22:48:57 
+2017.12.03.22.48.42: Save images to database
+ImagesForItemNum=46367675 
+2017.12.03.22.48.42: Data dumped to: PermanentData.txt
+2017.12.03.22.48.42: Deleted Entry with key: 46253205
+2017.12.03.22.48.42: Program exits.
+2017.12.03.22.52.13: New system session, Log starts here.
+2017.12.03.22.52.13: Deleted Entry with key: 46253205
+2017.12.03.22.52.13: Deleted Entry with key: 46253205
+2017.12.03.22.52.13: Program exits.

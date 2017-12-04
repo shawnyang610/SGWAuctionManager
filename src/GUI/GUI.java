@@ -66,11 +66,13 @@ public class GUI extends JFrame {
 	private JTextField txtMax;
 	private GUIAssistant guiAssistant;
 	private PrintWriter outDebug;
+	private boolean enableImage;
 	/**
 	 * Create the panel.
 	 * @throws IOException 
 	 */
 	public GUI(CustomizedHashMap inCusMap, String inDumpfileName, LogRecorder inLog, String inSelector, PrintWriter in_outDebug) throws IOException {
+		enableImage=false;
 		outDebug=in_outDebug;
 		guiAssistant = new GUIAssistant();
 		getContentPane().setName("");
@@ -112,6 +114,13 @@ public class GUI extends JFrame {
 		menuBar.add(mnOptions);
 		
 		JCheckBoxMenuItem chckbxmntmObtainImages = new JCheckBoxMenuItem("Obtain images");
+		chckbxmntmObtainImages.addChangeListener(new ChangeListener() {
+			public void stateChanged(ChangeEvent arg0) {
+				if (chckbxmntmObtainImages.isSelected()) {
+					enableImage=true;
+				}
+			}
+		});
 		mnOptions.add(chckbxmntmObtainImages);
 		GridBagLayout gridBagLayout = new GridBagLayout();
 		
@@ -257,7 +266,7 @@ public class GUI extends JFrame {
 								//step3 Data entry <-- data mine each item in the itemslist
 								Item2Data item2Data = new Item2Data(s, outDebug);
 								try {
-									item2Data.start();
+									item2Data.start(enableImage);
 								} catch (IOException e1) {
 									System.out.println("Problem with item2data.start() from online search button");
 									e1.printStackTrace();
@@ -689,8 +698,8 @@ public class GUI extends JFrame {
 					
 		}
 		else {
-			dataJTable=listToString(cusMap.getAllList());
-
+			//dataJTable=listToString(cusMap.getAllList());
+			dataJTable = CHMAssistant.listTo2DStringAry(header, CHMAssistant.filterLists(header, cusMap.getAllList())) ;
 			int rowCount= myTableModel.getRowCount();
 			for (int i=0; i<rowCount;i++) {
 				myTableModel.removeRow(0);
@@ -702,7 +711,7 @@ public class GUI extends JFrame {
 	}
 	
 	private void deleteEntry (String inPrimaryKey) {
-		cusMap.deleteList("PrimaryKey="+inPrimaryKey);
+		cusMap.deleteList("PrimaryKey="+header[0]+inPrimaryKey);
 		logger.writeInfo("Deleted Entry with key: "+inPrimaryKey);
 		
 	}

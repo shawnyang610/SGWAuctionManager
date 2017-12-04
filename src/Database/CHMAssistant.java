@@ -11,7 +11,7 @@ public class CHMAssistant {
 				tempList.add(a);
 			}
 		}
-		return tempList;
+		return tempList; //return new instance of list
 	}
 
 	public static String[] removeHeadersFromListThenToArray(String[] in_header, ArrayList<String> in_list){

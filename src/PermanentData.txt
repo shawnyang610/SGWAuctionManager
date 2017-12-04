@@ -1,5 +1,45 @@
 ItemNumber | Title | CurrentPrice | Num of Bids | Seller | Shipping | End Date | Last Update
 ItemNumber=46371731 | Title=Lot of Foreign Coins and Tokens | CurrentPrice=9.99 | Num of Bids=0 | Seller=Goodwill Industries of the Valleys | Shipping=Estimate Shipping | End Date=12/4/2017 6:38:00 PM | Last Update=12/01/2017 23:34:38
+ImagesForItemNum=46374620
 ImagesForItemNum=46374895 | 62171561103137ld-thumb.jpg | 16202501103137ld-thumb.jpg | 46373481103138ld-thumb.jpg | 4589481103138ld-thumb.jpg | 73270351103138ld-thumb.jpg | 24358161103138ld-thumb.jpg
-96111999 | Apples | 12.5 | 2 | NY Seller | Shipping from NY | 12/1/2017 11:55:01 AM | 12/01/2017 12:51:46
+ItemNumber=46286045 | Title=Smoley&#39;s Vintage Text &amp; Tables - x2 Books on Math | CurrentPrice=10.00 | Num of Bids=0 | Seller=Southern Oregon Goodwill Industries | Shipping= | End Date=12/6/2017 6:19:00 PM | Last Update=12/03/2017 22:48:56
+ImagesForItemNum=46410000
+ImagesForItemNum=46286045
+ItemNumber=46252847 | Title=Sterling Silver Tablespoon-50.9g | CurrentPrice=17.00 | Num of Bids=3 | Seller=Goodwill Industries of the Columbia Willamette | Shipping=Estimate Shipping | End Date=12/5/2017 6:15:00 PM | Last Update=12/03/2017 22:48:54
+ItemNumber=46253969 | Title=Sterling Silver Tablespoon-39.0g | CurrentPrice=13.01 | Num of Bids=2 | Seller=Goodwill Industries of the Columbia Willamette | Shipping=Estimate Shipping | End Date=12/5/2017 6:15:00 PM | Last Update=12/03/2017 22:48:55
+ItemNumber=46417309 | Title=Bay Books Cookery collection Vegetables for all s | CurrentPrice=7.99 | Num of Bids=0 | Seller= | Shipping=$0.01 | End Date=12/4/2017 4:00:00 PM | Last Update=12/03/2017 22:48:53
+ItemNumber=46267444 | Title=Vintage AdjustableSilver Tone Spoon Ring Size 7.5 | CurrentPrice=9.99 | Num of Bids=0 | Seller= | Shipping= | End Date=12/5/2017 6:02:00 PM | Last Update=12/03/2017 22:48:54
+ItemNumber=46329591 | Title=PHILCO: MODEL R - 1576 TURNTABLES | CurrentPrice=9.99 | Num of Bids=0 | Seller=Goodwill Industries of Greater New York and Northern New Jersey | Shipping=Estimate Shipping | End Date=12/5/2017 9:00:00 PM | Last Update=12/03/2017 22:48:56
+ImagesForItemNum=46326021
+ItemNumber=46374620 | Title=11 pc Vintage Homco Inc Plastic Vegetables Decors | CurrentPrice=19.99 | Num of Bids=0 | Seller=Goodwill of the Olympics and Rainier Region | Shipping=$0.01 | End Date=12/7/2017 6:00:00 PM | Last Update=12/03/2017 22:48:57
+ItemNumber=46402454 | Title=Southern Living The Vegetables Cookbook | CurrentPrice=9.99 | Num of Bids=0 | Seller= | Shipping=$0.01 | End Date=12/4/2017 4:00:00 PM | Last Update=12/03/2017 22:48:52
+ItemNumber=46410000 | Title=Vegetables  Better home and gardens books | CurrentPrice=9.99 | Num of Bids=0 | Seller= | Shipping=$0.01 | End Date=12/4/2017 4:00:00 PM | Last Update=12/03/2017 22:48:52
+ItemNumber=46371096 | Title=Martin Burns Sportables 15 34 White Button Shirt | CurrentPrice=6.95 | Num of Bids=0 | Seller=Goodwill Industries of Northwest Ohio | Shipping=Estimate Shipping | End Date=12/4/2017 6:11:00 PM | Last Update=12/03/2017 22:48:53
+ItemNumber=46214892 | Title=2 DJ Hero Turntables | CurrentPrice=5.00 | Num of Bids=0 | Seller=Shopgoodwill of El Paso | Shipping=Estimate Shipping | End Date=12/4/2017 9:00:00 PM | Last Update=12/03/2017 22:48:53
+ItemNumber=46286462 | Title=Six Place Logarithmic Tables Wells Book | CurrentPrice=9.99 | Num of Bids=0 | Seller=Goodwill Industries of Greater New York and Northern New Jersey | Shipping=$0.01 | End Date=12/4/2017 9:00:00 PM | Last Update=12/03/2017 22:48:53
+ItemNumber=46254105 | Title=Mayflower Collectables lucky elephant | CurrentPrice=5.99 | Num of Bids=0 | Seller= | Shipping=Estimate Shipping | End Date=12/5/2017 9:20:18 AM | Last Update=12/03/2017 22:48:54
+ItemNumber=46332489 | Title=Still Life Painting of Coffee Grinder, Tablescape | CurrentPrice=9.99 | Num of Bids=0 | Seller=Goodwill Columbus | Shipping=Estimate Shipping | End Date=12/5/2017 6:44:00 PM | Last Update=12/03/2017 22:48:56
+ItemNumber=46331496 | Title=4 Pc Anime Manga Collectables Sailor Moon Naruto | CurrentPrice=19.99 | Num of Bids=0 | Seller=Goodwill of the Olympics and Rainier Region | Shipping=Estimate Shipping | End Date=12/6/2017 6:00:00 PM | Last Update=12/03/2017 22:48:56
+ItemNumber=46367675 | Title=Lego Friends Heartlake Stables | CurrentPrice=7.99 | Num of Bids=0 | Seller=Goodwill Industries of the Southern Piedmont | Shipping=Estimate Shipping | End Date=12/8/2017 5:00:00 PM | Last Update=12/03/2017 22:48:57
+ItemNumber=46326021 | Title=Sterling Silver Tablespoon-Swan Lake-50.6g | CurrentPrice=5.00 | Num of Bids=1 | Seller=Goodwill Industries of the Columbia Willamette | Shipping=Estimate Shipping | End Date=12/7/2017 6:11:00 PM | Last Update=12/03/2017 22:48:57
+ItemNumber=46326254 | Title=Sterling Silver Tablespoon-Swan Lake-50.0g | CurrentPrice=5.00 | Num of Bids=1 | Seller=Goodwill Industries of the Columbia Willamette | Shipping=Estimate Shipping | End Date=12/7/2017 6:15:00 PM | Last Update=12/03/2017 22:48:57
+ItemNumber=46253386 | Title=Sterling Silver Tablespoon-50.3g | CurrentPrice=15.00 | Num of Bids=3 | Seller=Goodwill Industries of the Columbia Willamette | Shipping=Estimate Shipping | End Date=12/5/2017 6:30:00 PM | Last Update=12/03/2017 22:48:55
+ItemNumber=46253205 | Title=Sterling Silver Tablespoon-50.9g | CurrentPrice=16.00 | Num of Bids=3 | Seller=Goodwill Industries of the Columbia Willamette | Shipping=Estimate Shipping | End Date=12/5/2017 6:36:00 PM | Last Update=12/03/2017 22:48:55
 96111999 | Oranges | 92.12 | 3 | NJ Seller | Shipping from NJ | 12/1/2017 12:55:01 AM | 12/01/2017 12:51:46
+ImagesForItemNum=46326254
+96111999 | Apples | 12.5 | 2 | NY Seller | Shipping from NY | 12/1/2017 11:55:01 AM | 12/01/2017 12:51:46
+ImagesForItemNum=46371096
+ImagesForItemNum=46286462
+ImagesForItemNum=46329591
+ImagesForItemNum=46367675
+ImagesForItemNum=46253969
+ImagesForItemNum=46253205
+ImagesForItemNum=46331496
+ImagesForItemNum=46267444
+ImagesForItemNum=46332489
+ImagesForItemNum=46252847
+ImagesForItemNum=46254105
+ImagesForItemNum=46214892
+ImagesForItemNum=46253386
+ImagesForItemNum=46417309
+ImagesForItemNum=46402454

@@ -53,7 +53,7 @@ public class Item2Data {
         //alove line referenced https://stackoverflow.com/questions/23068676/how-to-get-current-timestamp-in-string-format-in-java-yyyy-mm-dd-hh-mm-ss
     }
 
-    public void start () throws IOException{
+    public void start (boolean enableImage) throws IOException{
         String line;
         String temp;
         String tempURL;
@@ -95,12 +95,14 @@ public class Item2Data {
                 itemShippingPolicyFinished=true;
             }
             //hdd <- look for image url and save
-            if (!((tempURL=TextDigger.getImageURLFromItemPage(line)).equals("NOT FOUND"))){
-                //save image to hdd
-                URL_Processor.getImage(getURL(tempURL));
-                //save the image file name to a list
-                String imageName = TextDigger.getImageFileNameFromURL(tempURL);
-                listImageNames4SingleItem.add(imageName);
+            if (enableImage) {
+	            if (!((tempURL=TextDigger.getImageURLFromItemPage(line)).equals("NOT FOUND"))){
+	                //save image to hdd
+	                URL_Processor.getImage(getURL(tempURL));
+	                //save the image file name to a list
+	                String imageName = TextDigger.getImageFileNameFromURL(tempURL);
+	                listImageNames4SingleItem.add(imageName);
+	            }
             }
 
         }//step4 repeat step2, step3 until eof

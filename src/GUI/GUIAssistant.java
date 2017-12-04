@@ -34,6 +34,7 @@ public class GUIAssistant {
     String ss;
     String useBuyerPrefs;
     String inventoryFileName;
+    String reportFileName;
 	
 	public GUIAssistant() {
 	    urlBase = "https://www.shopgoodwill.com/Listings?";
@@ -63,6 +64,7 @@ public class GUIAssistant {
 	    ss="0";
 	    useBuyerPrefs="true";  
 	    inventoryFileName="";
+	    reportFileName="";
 	}
 	
 	public String buildURL () {

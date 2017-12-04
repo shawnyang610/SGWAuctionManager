@@ -58,5 +58,25 @@ public class IOManager {
     	return temp_hashMap;
     }
     
+    public static void reportDataWriter(PrintWriter in_outfile, String[][] in_data) {    	
+    	for (int i=0; i<in_data.length;i++) {
+    		in_outfile.print(in_data[i][0]);
+    		for (int j=1; j<in_data[i].length; j++) {
+    			in_outfile.print(" | "+in_data[i][j]);
+    		}
+    		in_outfile.println("");
+    	}
+    	in_outfile.flush();
+    }
+    
+    public static void reportHeaderWriter (PrintWriter in_outfile, String[] in_header) {
+    	in_outfile.print(in_header[0]);
+    	for (int i=1; i<in_header.length; i++) {
+    		in_outfile.print(" | "+in_header[i]);
+    	}
+    	in_outfile.println("");
+    	in_outfile.flush();
+    }
+    
     
 }

@@ -1,4 +1,5 @@
 
+import Database.CHMAssistant;
 import Database.CustomizedHashMap;
 import Database.LogRecorder;
 import IOManager.*;
@@ -44,6 +45,7 @@ public class CommandLineMode {
         System.out.println("Open Files: \r\n"+ inInfileName+ " OK \r\n" +inOutfileName+ " OK \r\n");
         outDebug.println("Open Files: \r\n"+ inInfileName+ " OK \r\n" +inOutfileName+ " OK \r\n");
         outDebug.flush();
+        IOManager.reportHeaderWriter(outfile, hashMap.header);
     }
     //main sequence for the CommandLineMode
     public void start() throws IOException {
@@ -89,10 +91,17 @@ public class CommandLineMode {
                 logger.writeInfo("Save images to database", itemImageNamesList);
 
                 //step8, outfile <- write the dataEntry to outfile.
-                for (String j: itemDataList) {
-                    outfile.print(j+" ");
+                
+                String[] tempData = CHMAssistant.removeHeadersFromListThenToArray(hashMap.header, itemDataList);
+                for (int k=0; k<tempData.length-1;k++) {
+                	outfile.print(tempData[k]+" | ");
                 }
-                outfile.println("");
+                outfile.println(tempData[tempData.length-1]);
+                
+                //for (String j: itemDataList) {
+                //    outfile.print(j+" ");
+                //}
+                //outfile.println("");
             }//step9, repeat step5~8 until no more items in itemsList
         }//step10, repeat step 2~9 until no more keyword in keywordsList.
 

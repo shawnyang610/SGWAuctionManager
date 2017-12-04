@@ -20,6 +20,7 @@ import javax.swing.JButton;
 import java.awt.event.ActionListener;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.text.SimpleDateFormat;
@@ -656,6 +657,42 @@ public class GUI extends JFrame {
 				getContentPane().add(chckbxOutsideOfUs, gbc_chckbxOutsideOfUs);
 				
 				Button button_1 = new Button("Report");
+				button_1.addActionListener(new ActionListener() {
+					public void actionPerformed(ActionEvent arg0) {
+						//step1 get selected file name
+						JFileChooser fc = new JFileChooser();
+						int response = fc.showSaveDialog(null);
+						if (response == JFileChooser.APPROVE_OPTION) {
+							guiAssistant.reportFileName = fc.getSelectedFile().toString();
+						}
+						
+						//step2.0 execute if the filename is not empty
+						if(!guiAssistant.reportFileName.equals("")) {
+							//step2.1 allTableData[][] <-- if current table is not empty then get all data from table
+							int rowCount = myTableModel.getRowCount();
+							int colCount = myTableModel.getColumnCount();
+							String[][] tableData = new String[rowCount][colCount];
+							if (rowCount>0) {
+								for (int r=0; r<rowCount; r++) {
+									for (int c=0; c<colCount; c++) {
+										tableData[r][c]=(String) myTableModel.getValueAt(r, c);
+									}
+								}
+							}
+							PrintWriter outfileReport = null;
+						//step3 write the header and String ary to outfile
+							try {
+								outfileReport = new PrintWriter(guiAssistant.reportFileName);
+							} catch (IOException e) {
+								System.out.println("unable to open report file: "+ e);
+							}
+							IOManager.reportHeaderWriter(outfileReport, header);
+							IOManager.reportDataWriter(outfileReport, tableData);
+						}
+							
+						
+					}
+				});
 				GridBagConstraints gbc_button_1 = new GridBagConstraints();
 				gbc_button_1.fill = GridBagConstraints.HORIZONTAL;
 				gbc_button_1.insets = new Insets(0, 0, 5, 5);

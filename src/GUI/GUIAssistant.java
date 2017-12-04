@@ -7,8 +7,7 @@ import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.Scanner;
-
-import com.sun.javafx.fxml.builder.URLBuilder;
+import URL_Processor.URLBuilder;
 
 public class GUIAssistant {
 	String urlBase;
@@ -64,9 +63,15 @@ public class GUIAssistant {
 	    useBuyerPrefs="true";  
 	}
 	
-	public String builURL () {
-	
-		return "";
+	public String buildURL () {
+		return URLBuilder.buildURL(st_keyWord, sg_specialGroup, c_category
+				, s_seller, lp_lowPrice, hp_highPrice, sbn_showBuyItNowOnly
+				, spo_showPickupOnly, snpo_hidePickupOnlyItems
+				, socs_show1CentShippingOnly, sd_searchDescription
+				, sca_showClosedAuction, caed_closedAuctionEndingDate
+				, cadb_closedAuctionDateBack, scs_internationalShippingCanada
+				, col, p_page, ps, desc_inDescOrder
+				, ss, useBuyerPrefs);
 	}
 
 	public static String[] getSellersParametersFromFile()throws IOException {

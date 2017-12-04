@@ -996,3 +996,846 @@ ImagesForItemNum=46391354 28605282094223eW-thumb.jpg 26551012094223eW-thumb.jpg 
 2017.12.03.16.26.32: Program exits.
 2017.12.03.17.30.48: New system session, Log starts here.
 2017.12.03.17.30.48: Program exits.
+2017.12.03.17.36.05: New system session, Log starts here.
+2017.12.03.17.36.05: Program exits.
+2017.12.03.18.59.24: New system session, Log starts here.
+2017.12.03.18.59.24: Program exits.
+2017.12.03.19.02.27: New system session, Log starts here.
+2017.12.03.19.02.27: Program exits.
+2017.12.03.19.03.09: New system session, Log starts here.
+2017.12.03.19.03.09: Program exits.
+2017.12.03.20.00.30: New system session, Log starts here.
+2017.12.03.20.00.30: Write to database
+ItemNumber=46106638 Title=Cable Car Clothiers Hooded Beige Toggle Coat CurrentPrice=26.00 Num of Bids=7 Seller=Discover Goodwill of Southern and Western Colorado Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:03:03 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46106638 9412782493633ck-thumb.jpg 63443712493633ck-thumb.jpg 22429392493633ck-thumb.jpg 20379272493634ck-thumb.jpg 95291832493634ck-thumb.jpg 78876282493634ck-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46106921 Title=Assorted Toy Cars/Trucks 14 Pound Grab Bag CurrentPrice=23.00 Num of Bids=3 Seller=Discover Goodwill of Southern and Western Colorado Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:03:04 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46106921 10120792493831we-thumb.jpg 39224962493831we-thumb.jpg 73283882493831we-thumb.jpg 23637032493831we-thumb.jpg 23769322493831we-thumb.jpg 26999452493832we-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46107351 Title=Merrell Jungle Moc Taupe Slip On Shoes Size 10.5 CurrentPrice=12.00 Num of Bids=6 Seller=Discover Goodwill of Southern and Western Colorado Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:03:06 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46107351 9939232249438ff-thumb.jpg 2849651249438ff-thumb.jpg 617726249438ff-thumb.jpg 5163690249438ff-thumb.jpg 4553750249438ff-thumb.jpg 9010064249438ff-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46107800 Title=Jewelry - Sterling 925 Ohm Symbol Necklace CurrentPrice=7.99 Num of Bids=1 Seller=Discover Goodwill of Southern and Western Colorado Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:03:06 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46107800 92293932495353on-thumb.jpg 60419422495353on-thumb.jpg 86615482495353on-thumb.jpg 46882262495354on-thumb.jpg 9331452495354on-thumb.jpg 47369942495354on-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46111673 Title=Mid-Century Magnavox Micromatic Turntable Console CurrentPrice=58.99 Num of Bids=5 Seller=Discover Goodwill of Southern and Western Colorado Shipping=Pickup Only End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:03:08 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46111673 403301324113411er-thumb.jpg 675101824113411er-thumb.jpg 527538424113414er-thumb.jpg 836158324113415er-thumb.jpg 603557724113418er-thumb.jpg 220832424113419er-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46112273 Title=Military Extreme Cold Full Body Sleeping Bag #2 CurrentPrice=17.66 Num of Bids=6 Seller=Discover Goodwill of Southern and Western Colorado Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:03:08 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46112273 35783012412053ff-thumb.jpg 39960432412053ff-thumb.jpg 68080632412053ff-thumb.jpg 46749512412054ff-thumb.jpg 84564902412054ff-thumb.jpg 60286502412054ff-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46112282 Title=Miche 7 Purse Covers and Hanging Organizer Bundle CurrentPrice=20.00 Num of Bids=4 Seller=Discover Goodwill of Southern and Western Colorado Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:03:09 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46112282 21273432412119we-thumb.jpg 87767742412119we-thumb.jpg 21533702412119we-thumb.jpg 25660342412120we-thumb.jpg 38256012412120we-thumb.jpg 89050842412120we-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46115050 Title=Jewelry - Sterling 925 Heart Cuff Bracelet CurrentPrice=11.00 Num of Bids=3 Seller=Discover Goodwill of Southern and Western Colorado Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:03:10 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46115050 695110424125826on-thumb.jpg 757392424125827on-thumb.jpg 344319624125827on-thumb.jpg 694790024125828on-thumb.jpg 877204224125828on-thumb.jpg 717244924125829on-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46115240 Title=Modern Metal Mfg Vintage Brass Ship Lanterns, 2pc CurrentPrice=126.00 Num of Bids=10 Seller=Discover Goodwill of Southern and Western Colorado Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:03:11 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46115240 37922302412595er-thumb.jpg 35575062412595er-thumb.jpg 76158642412595er-thumb.jpg 7523752412595er-thumb.jpg 51570832412595er-thumb.jpg 77145932412595er-thumb.jpg 18363432412596er-thumb.jpg 863312412596er-thumb.jpg 86153272412596er-thumb.jpg 48099522412596er-thumb.jpg 66861312412596er-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46116036 Title=Four Vintage Plastic Elf Christmas Tree Ornaments CurrentPrice=21.01 Num of Bids=5 Seller=Discover Goodwill of Southern and Western Colorado Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:03:12 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46116036 931682624135030er-thumb.jpg 427253324135031er-thumb.jpg 705525624135031er-thumb.jpg 542812524135031er-thumb.jpg 590140724135031er-thumb.jpg 842962024135031er-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46116421 Title=AFX Aurora Racing HO Scale Car Track in Box CurrentPrice=39.01 Num of Bids=7 Seller=Discover Goodwill of Southern and Western Colorado Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:03:12 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46116421 99464042414758ck-thumb.jpg 73947862414759ck-thumb.jpg 8592722414759ck-thumb.jpg 83872612414759ck-thumb.jpg 39504182414759ck-thumb.jpg 97116632414759ck-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46116604 Title=Zhivago Gray Faux Fur Women&#39;s Coat CurrentPrice=7.99 Num of Bids=2 Seller=Discover Goodwill of Southern and Western Colorado Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:03:13 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46116604 8025752414118er-thumb.jpg 76277882414119er-thumb.jpg 49944042414119er-thumb.jpg 6528872414119er-thumb.jpg 88718352414119er-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46117887 Title=Logan Vintage EZ View Illuminated Slide Sorter CurrentPrice=7.99 Num of Bids=0 Seller=Discover Goodwill of Southern and Western Colorado Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:03:13 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46117887 56563962414368er-thumb.jpg 85668132414368er-thumb.jpg 52643322414369er-thumb.jpg 42603702414369er-thumb.jpg 98821192414369er-thumb.jpg 92944882414369er-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46118819 Title=M-Audio Firewire Audiophile Interface In Box CurrentPrice=15.00 Num of Bids=6 Seller=Discover Goodwill of Southern and Western Colorado Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:03:14 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46118819 47640622415630we-thumb.jpg 45879322415630we-thumb.jpg 12854502415631we-thumb.jpg 15278262415631we-thumb.jpg 46569002415631we-thumb.jpg 9241282415631we-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46164557 Title=Central Pneumatic Professional Coil Roofing Nail CurrentPrice=23.00 Num of Bids=4 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:03:15 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46164557 9127442673437to-thumb.jpg 24723012673437to-thumb.jpg 56818122673438to-thumb.jpg 94707882673438to-thumb.jpg 63974702673438to-thumb.jpg 26187692673438to-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46164595 Title=Bluebird Pidion BP80 Business Tablet for PARTS CurrentPrice=9.00 Num of Bids=2 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:03:16 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46164595 6073266267340on-thumb.jpg 3998332267340on-thumb.jpg 6839649267340on-thumb.jpg 4530756267340on-thumb.jpg 7718423267340on-thumb.jpg 4667413267340on-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46164599 Title=Vintage Polaroid SX-70 Film Land Camera Model 2 CurrentPrice=31.00 Num of Bids=8 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:03:16 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46164599 9511986267413au-thumb.jpg 9652629267414au-thumb.jpg 7625782267415au-thumb.jpg 3982660267415au-thumb.jpg 2536539267416au-thumb.jpg 3517511267417au-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46164603 Title=Logitech 650 Universal Remote, New in Package CurrentPrice=13.00 Num of Bids=4 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:03:17 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46164603 27878962674324on-thumb.jpg 69446522674324on-thumb.jpg 77533452674324on-thumb.jpg 79371272674324on-thumb.jpg 11247962674324on-thumb.jpg 16789802674324on-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46164605 Title=American Girl Brown Hair/Brown Eyes Doll + Acess CurrentPrice=92.00 Num of Bids=16 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:03:18 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46164605 83550652674257to-thumb.jpg 38167532674257to-thumb.jpg 65994762674257to-thumb.jpg 41860602674257to-thumb.jpg 73151332674257to-thumb.jpg 5837042674257to-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46164608 Title=Vintage Polaroid SX-70 Land Film Camera CurrentPrice=41.00 Num of Bids=7 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:03:19 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46164608 56928642674557au-thumb.jpg 11545522674557au-thumb.jpg 39372752674557au-thumb.jpg 43427672674557au-thumb.jpg 95044642674557au-thumb.jpg 27730352674557au-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46164612 Title=Electronics Diversified TCC2-6/T Control Console CurrentPrice=5.00 Num of Bids=0 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:03:20 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46164612 25503172674113er-thumb.jpg 78362232674113er-thumb.jpg 97827642674114er-thumb.jpg 36176702674114er-thumb.jpg 96495752674115er-thumb.jpg 86969542674116er-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46164676 Title=Speed Tran Slot Cars + Controllers CurrentPrice=22.01 Num of Bids=7 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:03:20 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46164676 56284722674830to-thumb.jpg 85388902674830to-thumb.jpg 76118962674830to-thumb.jpg 28689212674830to-thumb.jpg 35346162674830to-thumb.jpg 54982542674830to-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46164731 Title=Minolta 35-70mm &amp; 80-200mm AF Zoom Camera Lenses CurrentPrice=9.08 Num of Bids=3 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:03:21 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46164731 42753232674632on-thumb.jpg 84906722674632on-thumb.jpg 51755262674632on-thumb.jpg 44059392674633on-thumb.jpg 38252962674633on-thumb.jpg 70352722674633on-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46164783 Title=Yamaha MD8 Multitrack MD Recorder CurrentPrice=36.00 Num of Bids=10 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:03:21 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46164783 77529532675037er-thumb.jpg 19683032675037er-thumb.jpg 47510262675037er-thumb.jpg 37470642675037er-thumb.jpg 81224762675037er-thumb.jpg 26080872675037er-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46164801 Title=Fitbit Flex Wireless Water Resistant Wristband CurrentPrice=22.00 Num of Bids=8 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:03:22 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46164801 39637382674944au-thumb.jpg 20812182674944au-thumb.jpg 48639412674944au-thumb.jpg 53406922674945au-thumb.jpg 84697662674945au-thumb.jpg 29846742674945au-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46164803 Title=Glen Weber Signed and Numbered Colored Etching CurrentPrice=41.00 Num of Bids=12 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:03:23 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46164803 54273612675459er-thumb.jpg 8597522675459er-thumb.jpg 34666942675459er-thumb.jpg 36504762675459er-thumb.jpg 80844812675459er-thumb.jpg 75847412675459er-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46164805 Title=Old Angler Brown Leather Valise-Italy CurrentPrice=66.01 Num of Bids=9 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:03:23 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46164805 84150322675411to-thumb.jpg 52861742675411to-thumb.jpg 54131052675411to-thumb.jpg 16560002675412to-thumb.jpg 73656402675412to-thumb.jpg 80829402675412to-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46164813 Title=Black Nike+ Fuelband Size XL - Factory Sealed CurrentPrice=12.00 Num of Bids=6 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:03:24 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46164813 86756522675841au-thumb.jpg 15860712675841au-thumb.jpg 56737252675841au-thumb.jpg 46404662675841au-thumb.jpg 90451752675841au-thumb.jpg 20500742675841au-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46164814 Title=Fujinon 6x30 and Bell &amp; Howell 8x40 Binoculars CurrentPrice=160.00 Num of Bids=16 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:03:24 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46164814 8999291267599er-thumb.jpg 9283213267599er-thumb.jpg 848897267599er-thumb.jpg 2471430267599er-thumb.jpg 4383462267599er-thumb.jpg 4966943267599er-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46164820 Title=SONY Reel-to-Reel Tape Deck 500A with Speakers CurrentPrice=25.00 Num of Bids=0 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:03:25 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46164820 2643243267590on-thumb.jpg 2927165267590on-thumb.jpg 8394977267590on-thumb.jpg 7361718267590on-thumb.jpg 520090267590on-thumb.jpg 3759363267590on-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46164824 Title=Black Nike+ Fuelband Size Small - Factory Sealed CurrentPrice=21.00 Num of Bids=5 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:03:25 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46164824 5754357268320au-thumb.jpg 1186748268320au-thumb.jpg 8524067268320au-thumb.jpg 6244470268320au-thumb.jpg 9402840268320au-thumb.jpg 2642115268320au-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46164826 Title=Crafter Hilite-Te CD/N Electric Guitar CurrentPrice=178.55 Num of Bids=12 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:03:26 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46164826 3209954268138to-thumb.jpg 7396007268138to-thumb.jpg 8932392268138to-thumb.jpg 9409142268139to-thumb.jpg 2567514268139to-thumb.jpg 4531152268139to-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46164835 Title=Pearl Speed Seat Drummer&#39;s Adjustable Seat CurrentPrice=31.00 Num of Bids=10 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:03:26 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46164835 9646721268555on-thumb.jpg 2586437268555on-thumb.jpg 4122822268555on-thumb.jpg 1843225268555on-thumb.jpg 6411050268555on-thumb.jpg 8403985268555on-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46164836 Title=Handpresso Wild Portable Espresso Machine CurrentPrice=44.00 Num of Bids=8 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:03:27 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46164836 1762353268424er-thumb.jpg 4702068268424er-thumb.jpg 6238453268424er-thumb.jpg 3724481268424er-thumb.jpg 7045968268424er-thumb.jpg 9009607268424er-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46164842 Title=Yamaha G-55 Acoustic Guitar CurrentPrice=35.00 Num of Bids=5 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:03:27 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46164842 367397426881to-thumb.jpg 51581926881to-thumb.jpg 332783926881to-thumb.jpg 229458026881to-thumb.jpg 545295126881to-thumb.jpg 744588626881to-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46164846 Title=Two Fitbit Charge 2 FB407 &amp; One Additional Band CurrentPrice=62.01 Num of Bids=10 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:03:28 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46164846 781520926891au-thumb.jpg 600394726892au-thumb.jpg 754033326892au-thumb.jpg 902904626892au-thumb.jpg 218741826892au-thumb.jpg 418035326892au-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46164850 Title=3 Muscle Machines Vintage Style Car Models CurrentPrice=9.69 Num of Bids=3 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:03:29 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46164850 3424493268116er-thumb.jpg 6364207268116er-thumb.jpg 422566268116er-thumb.jpg 9389306268116er-thumb.jpg 3957132268116er-thumb.jpg 5950067268116er-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46164851 Title=Winnie the Pooh Ceramic Figurine and Cookie Stamp CurrentPrice=8.00 Num of Bids=4 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:03:30 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46164851 2447778268101on-thumb.jpg 6633830268101on-thumb.jpg 9445850268101on-thumb.jpg 8412591268101on-thumb.jpg 295328268101on-thumb.jpg 2288263268101on-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46164858 Title=15 As-Is Digital Cameras For Parts/Repair CurrentPrice=71.00 Num of Bids=10 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:03:31 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46164858 60474782681529au-thumb.jpg 2335322681529au-thumb.jpg 30455522681529au-thumb.jpg 82732782681529au-thumb.jpg 14316502681529au-thumb.jpg 49052982681530au-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46164859 Title=Kieth Urban Inlaid Mother Of Pearl Electric CurrentPrice=40.00 Num of Bids=10 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:03:32 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46164859 16054932681349to-thumb.jpg 31357532681349to-thumb.jpg 70602912681349to-thumb.jpg 86828242681349to-thumb.jpg 16780792681349to-thumb.jpg 59586122681349to-thumb.jpg 23679592681349to-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46106638 Title=Cable Car Clothiers Hooded Beige Toggle Coat CurrentPrice=26.00 Num of Bids=7 Seller=Discover Goodwill of Southern and Western Colorado Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:05:24 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46106638 9412782493633ck-thumb.jpg 63443712493633ck-thumb.jpg 22429392493633ck-thumb.jpg 20379272493634ck-thumb.jpg 95291832493634ck-thumb.jpg 78876282493634ck-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46106921 Title=Assorted Toy Cars/Trucks 14 Pound Grab Bag CurrentPrice=23.00 Num of Bids=3 Seller=Discover Goodwill of Southern and Western Colorado Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:05:24 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46106921 10120792493831we-thumb.jpg 39224962493831we-thumb.jpg 73283882493831we-thumb.jpg 23637032493831we-thumb.jpg 23769322493831we-thumb.jpg 26999452493832we-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46107351 Title=Merrell Jungle Moc Taupe Slip On Shoes Size 10.5 CurrentPrice=12.00 Num of Bids=6 Seller=Discover Goodwill of Southern and Western Colorado Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:05:26 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46107351 9939232249438ff-thumb.jpg 2849651249438ff-thumb.jpg 617726249438ff-thumb.jpg 5163690249438ff-thumb.jpg 4553750249438ff-thumb.jpg 9010064249438ff-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46107800 Title=Jewelry - Sterling 925 Ohm Symbol Necklace CurrentPrice=7.99 Num of Bids=1 Seller=Discover Goodwill of Southern and Western Colorado Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:05:26 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46107800 92293932495353on-thumb.jpg 60419422495353on-thumb.jpg 86615482495353on-thumb.jpg 46882262495354on-thumb.jpg 9331452495354on-thumb.jpg 47369942495354on-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46111673 Title=Mid-Century Magnavox Micromatic Turntable Console CurrentPrice=58.99 Num of Bids=5 Seller=Discover Goodwill of Southern and Western Colorado Shipping=Pickup Only End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:05:27 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46111673 403301324113411er-thumb.jpg 675101824113411er-thumb.jpg 527538424113414er-thumb.jpg 836158324113415er-thumb.jpg 603557724113418er-thumb.jpg 220832424113419er-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46112273 Title=Military Extreme Cold Full Body Sleeping Bag #2 CurrentPrice=17.66 Num of Bids=6 Seller=Discover Goodwill of Southern and Western Colorado Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:05:28 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46112273 35783012412053ff-thumb.jpg 39960432412053ff-thumb.jpg 68080632412053ff-thumb.jpg 46749512412054ff-thumb.jpg 84564902412054ff-thumb.jpg 60286502412054ff-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46112282 Title=Miche 7 Purse Covers and Hanging Organizer Bundle CurrentPrice=20.00 Num of Bids=4 Seller=Discover Goodwill of Southern and Western Colorado Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:05:28 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46112282 21273432412119we-thumb.jpg 87767742412119we-thumb.jpg 21533702412119we-thumb.jpg 25660342412120we-thumb.jpg 38256012412120we-thumb.jpg 89050842412120we-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46115050 Title=Jewelry - Sterling 925 Heart Cuff Bracelet CurrentPrice=11.00 Num of Bids=3 Seller=Discover Goodwill of Southern and Western Colorado Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:05:29 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46115050 695110424125826on-thumb.jpg 757392424125827on-thumb.jpg 344319624125827on-thumb.jpg 694790024125828on-thumb.jpg 877204224125828on-thumb.jpg 717244924125829on-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46115240 Title=Modern Metal Mfg Vintage Brass Ship Lanterns, 2pc CurrentPrice=126.00 Num of Bids=10 Seller=Discover Goodwill of Southern and Western Colorado Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:05:29 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46115240 37922302412595er-thumb.jpg 35575062412595er-thumb.jpg 76158642412595er-thumb.jpg 7523752412595er-thumb.jpg 51570832412595er-thumb.jpg 77145932412595er-thumb.jpg 18363432412596er-thumb.jpg 863312412596er-thumb.jpg 86153272412596er-thumb.jpg 48099522412596er-thumb.jpg 66861312412596er-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46116036 Title=Four Vintage Plastic Elf Christmas Tree Ornaments CurrentPrice=21.01 Num of Bids=5 Seller=Discover Goodwill of Southern and Western Colorado Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:05:30 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46116036 931682624135030er-thumb.jpg 427253324135031er-thumb.jpg 705525624135031er-thumb.jpg 542812524135031er-thumb.jpg 590140724135031er-thumb.jpg 842962024135031er-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46116421 Title=AFX Aurora Racing HO Scale Car Track in Box CurrentPrice=39.01 Num of Bids=7 Seller=Discover Goodwill of Southern and Western Colorado Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:05:31 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46116421 99464042414758ck-thumb.jpg 73947862414759ck-thumb.jpg 8592722414759ck-thumb.jpg 83872612414759ck-thumb.jpg 39504182414759ck-thumb.jpg 97116632414759ck-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46116604 Title=Zhivago Gray Faux Fur Women&#39;s Coat CurrentPrice=7.99 Num of Bids=2 Seller=Discover Goodwill of Southern and Western Colorado Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:05:31 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46116604 8025752414118er-thumb.jpg 76277882414119er-thumb.jpg 49944042414119er-thumb.jpg 6528872414119er-thumb.jpg 88718352414119er-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46117887 Title=Logan Vintage EZ View Illuminated Slide Sorter CurrentPrice=7.99 Num of Bids=0 Seller=Discover Goodwill of Southern and Western Colorado Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:05:32 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46117887 56563962414368er-thumb.jpg 85668132414368er-thumb.jpg 52643322414369er-thumb.jpg 42603702414369er-thumb.jpg 98821192414369er-thumb.jpg 92944882414369er-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46118819 Title=M-Audio Firewire Audiophile Interface In Box CurrentPrice=15.00 Num of Bids=6 Seller=Discover Goodwill of Southern and Western Colorado Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:05:33 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46118819 47640622415630we-thumb.jpg 45879322415630we-thumb.jpg 12854502415631we-thumb.jpg 15278262415631we-thumb.jpg 46569002415631we-thumb.jpg 9241282415631we-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46164557 Title=Central Pneumatic Professional Coil Roofing Nail CurrentPrice=23.00 Num of Bids=4 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:05:33 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46164557 9127442673437to-thumb.jpg 24723012673437to-thumb.jpg 56818122673438to-thumb.jpg 94707882673438to-thumb.jpg 63974702673438to-thumb.jpg 26187692673438to-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46164595 Title=Bluebird Pidion BP80 Business Tablet for PARTS CurrentPrice=9.00 Num of Bids=2 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:05:34 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46164595 6073266267340on-thumb.jpg 3998332267340on-thumb.jpg 6839649267340on-thumb.jpg 4530756267340on-thumb.jpg 7718423267340on-thumb.jpg 4667413267340on-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46164599 Title=Vintage Polaroid SX-70 Film Land Camera Model 2 CurrentPrice=31.00 Num of Bids=8 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:05:34 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46164599 9511986267413au-thumb.jpg 9652629267414au-thumb.jpg 7625782267415au-thumb.jpg 3982660267415au-thumb.jpg 2536539267416au-thumb.jpg 3517511267417au-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46164603 Title=Logitech 650 Universal Remote, New in Package CurrentPrice=13.00 Num of Bids=4 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:05:35 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46164603 27878962674324on-thumb.jpg 69446522674324on-thumb.jpg 77533452674324on-thumb.jpg 79371272674324on-thumb.jpg 11247962674324on-thumb.jpg 16789802674324on-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46164605 Title=American Girl Brown Hair/Brown Eyes Doll + Acess CurrentPrice=92.00 Num of Bids=16 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:05:35 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46164605 83550652674257to-thumb.jpg 38167532674257to-thumb.jpg 65994762674257to-thumb.jpg 41860602674257to-thumb.jpg 73151332674257to-thumb.jpg 5837042674257to-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46164608 Title=Vintage Polaroid SX-70 Land Film Camera CurrentPrice=41.00 Num of Bids=7 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:05:36 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46164608 56928642674557au-thumb.jpg 11545522674557au-thumb.jpg 39372752674557au-thumb.jpg 43427672674557au-thumb.jpg 95044642674557au-thumb.jpg 27730352674557au-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46164612 Title=Electronics Diversified TCC2-6/T Control Console CurrentPrice=5.00 Num of Bids=0 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:05:36 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46164612 25503172674113er-thumb.jpg 78362232674113er-thumb.jpg 97827642674114er-thumb.jpg 36176702674114er-thumb.jpg 96495752674115er-thumb.jpg 86969542674116er-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46164676 Title=Speed Tran Slot Cars + Controllers CurrentPrice=22.01 Num of Bids=7 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:05:37 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46164676 56284722674830to-thumb.jpg 85388902674830to-thumb.jpg 76118962674830to-thumb.jpg 28689212674830to-thumb.jpg 35346162674830to-thumb.jpg 54982542674830to-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46164731 Title=Minolta 35-70mm &amp; 80-200mm AF Zoom Camera Lenses CurrentPrice=13.00 Num of Bids=4 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:05:37 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46164731 42753232674632on-thumb.jpg 84906722674632on-thumb.jpg 51755262674632on-thumb.jpg 44059392674633on-thumb.jpg 38252962674633on-thumb.jpg 70352722674633on-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46164783 Title=Yamaha MD8 Multitrack MD Recorder CurrentPrice=36.00 Num of Bids=10 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:05:38 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46164783 77529532675037er-thumb.jpg 19683032675037er-thumb.jpg 47510262675037er-thumb.jpg 37470642675037er-thumb.jpg 81224762675037er-thumb.jpg 26080872675037er-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46164801 Title=Fitbit Flex Wireless Water Resistant Wristband CurrentPrice=22.00 Num of Bids=8 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:05:38 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46164801 39637382674944au-thumb.jpg 20812182674944au-thumb.jpg 48639412674944au-thumb.jpg 53406922674945au-thumb.jpg 84697662674945au-thumb.jpg 29846742674945au-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46164803 Title=Glen Weber Signed and Numbered Colored Etching CurrentPrice=41.00 Num of Bids=12 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:05:39 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46164803 54273612675459er-thumb.jpg 8597522675459er-thumb.jpg 34666942675459er-thumb.jpg 36504762675459er-thumb.jpg 80844812675459er-thumb.jpg 75847412675459er-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46164805 Title=Old Angler Brown Leather Valise-Italy CurrentPrice=66.01 Num of Bids=9 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:05:39 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46164805 84150322675411to-thumb.jpg 52861742675411to-thumb.jpg 54131052675411to-thumb.jpg 16560002675412to-thumb.jpg 73656402675412to-thumb.jpg 80829402675412to-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46164813 Title=Black Nike+ Fuelband Size XL - Factory Sealed CurrentPrice=12.00 Num of Bids=6 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:05:40 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46164813 86756522675841au-thumb.jpg 15860712675841au-thumb.jpg 56737252675841au-thumb.jpg 46404662675841au-thumb.jpg 90451752675841au-thumb.jpg 20500742675841au-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46164814 Title=Fujinon 6x30 and Bell &amp; Howell 8x40 Binoculars CurrentPrice=160.00 Num of Bids=16 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:05:40 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46164814 8999291267599er-thumb.jpg 9283213267599er-thumb.jpg 848897267599er-thumb.jpg 2471430267599er-thumb.jpg 4383462267599er-thumb.jpg 4966943267599er-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46164820 Title=SONY Reel-to-Reel Tape Deck 500A with Speakers CurrentPrice=25.00 Num of Bids=0 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:05:41 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46164820 2643243267590on-thumb.jpg 2927165267590on-thumb.jpg 8394977267590on-thumb.jpg 7361718267590on-thumb.jpg 520090267590on-thumb.jpg 3759363267590on-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46164824 Title=Black Nike+ Fuelband Size Small - Factory Sealed CurrentPrice=21.00 Num of Bids=5 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:05:41 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46164824 5754357268320au-thumb.jpg 1186748268320au-thumb.jpg 8524067268320au-thumb.jpg 6244470268320au-thumb.jpg 9402840268320au-thumb.jpg 2642115268320au-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46164826 Title=Crafter Hilite-Te CD/N Electric Guitar CurrentPrice=178.55 Num of Bids=12 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:05:42 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46164826 3209954268138to-thumb.jpg 7396007268138to-thumb.jpg 8932392268138to-thumb.jpg 9409142268139to-thumb.jpg 2567514268139to-thumb.jpg 4531152268139to-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46164835 Title=Pearl Speed Seat Drummer&#39;s Adjustable Seat CurrentPrice=31.00 Num of Bids=10 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:05:42 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46164835 9646721268555on-thumb.jpg 2586437268555on-thumb.jpg 4122822268555on-thumb.jpg 1843225268555on-thumb.jpg 6411050268555on-thumb.jpg 8403985268555on-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46164836 Title=Handpresso Wild Portable Espresso Machine CurrentPrice=44.00 Num of Bids=8 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:05:43 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46164836 1762353268424er-thumb.jpg 4702068268424er-thumb.jpg 6238453268424er-thumb.jpg 3724481268424er-thumb.jpg 7045968268424er-thumb.jpg 9009607268424er-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46164842 Title=Yamaha G-55 Acoustic Guitar CurrentPrice=35.00 Num of Bids=5 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:05:43 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46164842 367397426881to-thumb.jpg 51581926881to-thumb.jpg 332783926881to-thumb.jpg 229458026881to-thumb.jpg 545295126881to-thumb.jpg 744588626881to-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46164846 Title=Two Fitbit Charge 2 FB407 &amp; One Additional Band CurrentPrice=62.01 Num of Bids=10 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:05:44 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46164846 781520926891au-thumb.jpg 600394726892au-thumb.jpg 754033326892au-thumb.jpg 902904626892au-thumb.jpg 218741826892au-thumb.jpg 418035326892au-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46164850 Title=3 Muscle Machines Vintage Style Car Models CurrentPrice=9.69 Num of Bids=3 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:05:44 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46164850 3424493268116er-thumb.jpg 6364207268116er-thumb.jpg 422566268116er-thumb.jpg 9389306268116er-thumb.jpg 3957132268116er-thumb.jpg 5950067268116er-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46164851 Title=Winnie the Pooh Ceramic Figurine and Cookie Stamp CurrentPrice=8.00 Num of Bids=4 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:05:45 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46164851 2447778268101on-thumb.jpg 6633830268101on-thumb.jpg 9445850268101on-thumb.jpg 8412591268101on-thumb.jpg 295328268101on-thumb.jpg 2288263268101on-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46164858 Title=15 As-Is Digital Cameras For Parts/Repair CurrentPrice=71.00 Num of Bids=10 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:05:45 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46164858 60474782681529au-thumb.jpg 2335322681529au-thumb.jpg 30455522681529au-thumb.jpg 82732782681529au-thumb.jpg 14316502681529au-thumb.jpg 49052982681530au-thumb.jpg 
+2017.12.03.20.00.30: Write to database
+ItemNumber=46164859 Title=Kieth Urban Inlaid Mother Of Pearl Electric CurrentPrice=40.00 Num of Bids=10 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:05:46 
+2017.12.03.20.00.30: Save images to database
+ImagesForItemNum=46164859 16054932681349to-thumb.jpg 31357532681349to-thumb.jpg 70602912681349to-thumb.jpg 86828242681349to-thumb.jpg 16780792681349to-thumb.jpg 59586122681349to-thumb.jpg 23679592681349to-thumb.jpg 
+2017.12.03.20.00.30: Program exits.
+2017.12.03.20.06.51: New system session, Log starts here.
+2017.12.03.20.06.51: Write to database
+ItemNumber=46106638 Title=Cable Car Clothiers Hooded Beige Toggle Coat CurrentPrice=31.00 Num of Bids=10 Seller=Discover Goodwill of Southern and Western Colorado Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:07:18 
+2017.12.03.20.06.51: Save images to database
+ImagesForItemNum=46106638 9412782493633ck-thumb.jpg 63443712493633ck-thumb.jpg 22429392493633ck-thumb.jpg 20379272493634ck-thumb.jpg 95291832493634ck-thumb.jpg 78876282493634ck-thumb.jpg 
+2017.12.03.20.06.51: Write to database
+ItemNumber=46106921 Title=Assorted Toy Cars/Trucks 14 Pound Grab Bag CurrentPrice=23.00 Num of Bids=3 Seller=Discover Goodwill of Southern and Western Colorado Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:07:19 
+2017.12.03.20.06.51: Save images to database
+ImagesForItemNum=46106921 10120792493831we-thumb.jpg 39224962493831we-thumb.jpg 73283882493831we-thumb.jpg 23637032493831we-thumb.jpg 23769322493831we-thumb.jpg 26999452493832we-thumb.jpg 
+2017.12.03.20.06.51: Write to database
+ItemNumber=46107351 Title=Merrell Jungle Moc Taupe Slip On Shoes Size 10.5 CurrentPrice=12.00 Num of Bids=6 Seller=Discover Goodwill of Southern and Western Colorado Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:07:19 
+2017.12.03.20.06.51: Save images to database
+ImagesForItemNum=46107351 9939232249438ff-thumb.jpg 2849651249438ff-thumb.jpg 617726249438ff-thumb.jpg 5163690249438ff-thumb.jpg 4553750249438ff-thumb.jpg 9010064249438ff-thumb.jpg 
+2017.12.03.20.06.51: Write to database
+ItemNumber=46107800 Title=Jewelry - Sterling 925 Ohm Symbol Necklace CurrentPrice=7.99 Num of Bids=1 Seller=Discover Goodwill of Southern and Western Colorado Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:07:32 
+2017.12.03.20.06.51: Save images to database
+ImagesForItemNum=46107800 92293932495353on-thumb.jpg 60419422495353on-thumb.jpg 86615482495353on-thumb.jpg 46882262495354on-thumb.jpg 9331452495354on-thumb.jpg 47369942495354on-thumb.jpg 
+2017.12.03.20.06.51: Write to database
+ItemNumber=46111673 Title=Mid-Century Magnavox Micromatic Turntable Console CurrentPrice=58.99 Num of Bids=5 Seller=Discover Goodwill of Southern and Western Colorado Shipping=Pickup Only End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:07:41 
+2017.12.03.20.06.51: Save images to database
+ImagesForItemNum=46111673 403301324113411er-thumb.jpg 675101824113411er-thumb.jpg 527538424113414er-thumb.jpg 836158324113415er-thumb.jpg 603557724113418er-thumb.jpg 220832424113419er-thumb.jpg 
+2017.12.03.20.06.51: Write to database
+ItemNumber=46112273 Title=Military Extreme Cold Full Body Sleeping Bag #2 CurrentPrice=17.66 Num of Bids=6 Seller=Discover Goodwill of Southern and Western Colorado Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:07:41 
+2017.12.03.20.06.51: Save images to database
+ImagesForItemNum=46112273 35783012412053ff-thumb.jpg 39960432412053ff-thumb.jpg 68080632412053ff-thumb.jpg 46749512412054ff-thumb.jpg 84564902412054ff-thumb.jpg 60286502412054ff-thumb.jpg 
+2017.12.03.20.06.51: Write to database
+ItemNumber=46112282 Title=Miche 7 Purse Covers and Hanging Organizer Bundle CurrentPrice=20.00 Num of Bids=4 Seller=Discover Goodwill of Southern and Western Colorado Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:07:42 
+2017.12.03.20.06.51: Save images to database
+ImagesForItemNum=46112282 21273432412119we-thumb.jpg 87767742412119we-thumb.jpg 21533702412119we-thumb.jpg 25660342412120we-thumb.jpg 38256012412120we-thumb.jpg 89050842412120we-thumb.jpg 
+2017.12.03.20.06.51: Write to database
+ItemNumber=46115050 Title=Jewelry - Sterling 925 Heart Cuff Bracelet CurrentPrice=11.00 Num of Bids=3 Seller=Discover Goodwill of Southern and Western Colorado Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:07:43 
+2017.12.03.20.06.51: Save images to database
+ImagesForItemNum=46115050 695110424125826on-thumb.jpg 757392424125827on-thumb.jpg 344319624125827on-thumb.jpg 694790024125828on-thumb.jpg 877204224125828on-thumb.jpg 717244924125829on-thumb.jpg 
+2017.12.03.20.06.51: Write to database
+ItemNumber=46115240 Title=Modern Metal Mfg Vintage Brass Ship Lanterns, 2pc CurrentPrice=126.00 Num of Bids=10 Seller=Discover Goodwill of Southern and Western Colorado Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:07:43 
+2017.12.03.20.06.51: Save images to database
+ImagesForItemNum=46115240 37922302412595er-thumb.jpg 35575062412595er-thumb.jpg 76158642412595er-thumb.jpg 7523752412595er-thumb.jpg 51570832412595er-thumb.jpg 77145932412595er-thumb.jpg 18363432412596er-thumb.jpg 863312412596er-thumb.jpg 86153272412596er-thumb.jpg 48099522412596er-thumb.jpg 66861312412596er-thumb.jpg 
+2017.12.03.20.06.51: Write to database
+ItemNumber=46116036 Title=Four Vintage Plastic Elf Christmas Tree Ornaments CurrentPrice=21.01 Num of Bids=5 Seller=Discover Goodwill of Southern and Western Colorado Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:07:44 
+2017.12.03.20.06.51: Save images to database
+ImagesForItemNum=46116036 931682624135030er-thumb.jpg 427253324135031er-thumb.jpg 705525624135031er-thumb.jpg 542812524135031er-thumb.jpg 590140724135031er-thumb.jpg 842962024135031er-thumb.jpg 
+2017.12.03.20.06.51: Write to database
+ItemNumber=46116421 Title=AFX Aurora Racing HO Scale Car Track in Box CurrentPrice=39.01 Num of Bids=7 Seller=Discover Goodwill of Southern and Western Colorado Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:07:49 
+2017.12.03.20.06.51: Save images to database
+ImagesForItemNum=46116421 99464042414758ck-thumb.jpg 73947862414759ck-thumb.jpg 8592722414759ck-thumb.jpg 83872612414759ck-thumb.jpg 39504182414759ck-thumb.jpg 97116632414759ck-thumb.jpg 
+2017.12.03.20.06.51: Write to database
+ItemNumber=46116604 Title=Zhivago Gray Faux Fur Women&#39;s Coat CurrentPrice=7.99 Num of Bids=2 Seller=Discover Goodwill of Southern and Western Colorado Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:07:49 
+2017.12.03.20.06.51: Save images to database
+ImagesForItemNum=46116604 8025752414118er-thumb.jpg 76277882414119er-thumb.jpg 49944042414119er-thumb.jpg 6528872414119er-thumb.jpg 88718352414119er-thumb.jpg 
+2017.12.03.20.06.51: Write to database
+ItemNumber=46117887 Title=Logan Vintage EZ View Illuminated Slide Sorter CurrentPrice=7.99 Num of Bids=0 Seller=Discover Goodwill of Southern and Western Colorado Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:07:50 
+2017.12.03.20.06.51: Save images to database
+ImagesForItemNum=46117887 56563962414368er-thumb.jpg 85668132414368er-thumb.jpg 52643322414369er-thumb.jpg 42603702414369er-thumb.jpg 98821192414369er-thumb.jpg 92944882414369er-thumb.jpg 
+2017.12.03.20.06.51: Write to database
+ItemNumber=46118819 Title=M-Audio Firewire Audiophile Interface In Box CurrentPrice=15.00 Num of Bids=6 Seller=Discover Goodwill of Southern and Western Colorado Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:07:51 
+2017.12.03.20.06.51: Save images to database
+ImagesForItemNum=46118819 47640622415630we-thumb.jpg 45879322415630we-thumb.jpg 12854502415631we-thumb.jpg 15278262415631we-thumb.jpg 46569002415631we-thumb.jpg 9241282415631we-thumb.jpg 
+2017.12.03.20.06.51: Write to database
+ItemNumber=46164557 Title=Central Pneumatic Professional Coil Roofing Nail CurrentPrice=23.00 Num of Bids=4 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:07:52 
+2017.12.03.20.06.51: Save images to database
+ImagesForItemNum=46164557 9127442673437to-thumb.jpg 24723012673437to-thumb.jpg 56818122673438to-thumb.jpg 94707882673438to-thumb.jpg 63974702673438to-thumb.jpg 26187692673438to-thumb.jpg 
+2017.12.03.20.06.51: Write to database
+ItemNumber=46164595 Title=Bluebird Pidion BP80 Business Tablet for PARTS CurrentPrice=9.00 Num of Bids=2 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:07:52 
+2017.12.03.20.06.51: Save images to database
+ImagesForItemNum=46164595 6073266267340on-thumb.jpg 3998332267340on-thumb.jpg 6839649267340on-thumb.jpg 4530756267340on-thumb.jpg 7718423267340on-thumb.jpg 4667413267340on-thumb.jpg 
+2017.12.03.20.06.51: Write to database
+ItemNumber=46164599 Title=Vintage Polaroid SX-70 Film Land Camera Model 2 CurrentPrice=31.00 Num of Bids=8 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:07:54 
+2017.12.03.20.06.51: Save images to database
+ImagesForItemNum=46164599 9511986267413au-thumb.jpg 9652629267414au-thumb.jpg 7625782267415au-thumb.jpg 3982660267415au-thumb.jpg 2536539267416au-thumb.jpg 3517511267417au-thumb.jpg 
+2017.12.03.20.06.51: Write to database
+ItemNumber=46164603 Title=Logitech 650 Universal Remote, New in Package CurrentPrice=13.00 Num of Bids=4 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:07:55 
+2017.12.03.20.06.51: Save images to database
+ImagesForItemNum=46164603 27878962674324on-thumb.jpg 69446522674324on-thumb.jpg 77533452674324on-thumb.jpg 79371272674324on-thumb.jpg 11247962674324on-thumb.jpg 16789802674324on-thumb.jpg 
+2017.12.03.20.06.51: Write to database
+ItemNumber=46164605 Title=American Girl Brown Hair/Brown Eyes Doll + Acess CurrentPrice=92.00 Num of Bids=16 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:07:55 
+2017.12.03.20.06.51: Save images to database
+ImagesForItemNum=46164605 83550652674257to-thumb.jpg 38167532674257to-thumb.jpg 65994762674257to-thumb.jpg 41860602674257to-thumb.jpg 73151332674257to-thumb.jpg 5837042674257to-thumb.jpg 
+2017.12.03.20.06.51: Write to database
+ItemNumber=46164608 Title=Vintage Polaroid SX-70 Land Film Camera CurrentPrice=41.00 Num of Bids=7 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:07:56 
+2017.12.03.20.06.51: Save images to database
+ImagesForItemNum=46164608 56928642674557au-thumb.jpg 11545522674557au-thumb.jpg 39372752674557au-thumb.jpg 43427672674557au-thumb.jpg 95044642674557au-thumb.jpg 27730352674557au-thumb.jpg 
+2017.12.03.20.06.51: Write to database
+ItemNumber=46164612 Title=Electronics Diversified TCC2-6/T Control Console CurrentPrice=5.00 Num of Bids=0 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:07:56 
+2017.12.03.20.06.51: Save images to database
+ImagesForItemNum=46164612 25503172674113er-thumb.jpg 78362232674113er-thumb.jpg 97827642674114er-thumb.jpg 36176702674114er-thumb.jpg 96495752674115er-thumb.jpg 86969542674116er-thumb.jpg 
+2017.12.03.20.06.51: Write to database
+ItemNumber=46164676 Title=Speed Tran Slot Cars + Controllers CurrentPrice=22.01 Num of Bids=7 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:07:57 
+2017.12.03.20.06.51: Save images to database
+ImagesForItemNum=46164676 56284722674830to-thumb.jpg 85388902674830to-thumb.jpg 76118962674830to-thumb.jpg 28689212674830to-thumb.jpg 35346162674830to-thumb.jpg 54982542674830to-thumb.jpg 
+2017.12.03.20.06.51: Write to database
+ItemNumber=46164731 Title=Minolta 35-70mm &amp; 80-200mm AF Zoom Camera Lenses CurrentPrice=13.00 Num of Bids=4 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:07:57 
+2017.12.03.20.06.51: Save images to database
+ImagesForItemNum=46164731 42753232674632on-thumb.jpg 84906722674632on-thumb.jpg 51755262674632on-thumb.jpg 44059392674633on-thumb.jpg 38252962674633on-thumb.jpg 70352722674633on-thumb.jpg 
+2017.12.03.20.06.51: Write to database
+ItemNumber=46164783 Title=Yamaha MD8 Multitrack MD Recorder CurrentPrice=36.00 Num of Bids=10 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:07:58 
+2017.12.03.20.06.51: Save images to database
+ImagesForItemNum=46164783 77529532675037er-thumb.jpg 19683032675037er-thumb.jpg 47510262675037er-thumb.jpg 37470642675037er-thumb.jpg 81224762675037er-thumb.jpg 26080872675037er-thumb.jpg 
+2017.12.03.20.06.51: Write to database
+ItemNumber=46164801 Title=Fitbit Flex Wireless Water Resistant Wristband CurrentPrice=22.00 Num of Bids=8 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:07:58 
+2017.12.03.20.06.51: Save images to database
+ImagesForItemNum=46164801 39637382674944au-thumb.jpg 20812182674944au-thumb.jpg 48639412674944au-thumb.jpg 53406922674945au-thumb.jpg 84697662674945au-thumb.jpg 29846742674945au-thumb.jpg 
+2017.12.03.20.06.51: Write to database
+ItemNumber=46164803 Title=Glen Weber Signed and Numbered Colored Etching CurrentPrice=41.00 Num of Bids=12 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:07:59 
+2017.12.03.20.06.51: Save images to database
+ImagesForItemNum=46164803 54273612675459er-thumb.jpg 8597522675459er-thumb.jpg 34666942675459er-thumb.jpg 36504762675459er-thumb.jpg 80844812675459er-thumb.jpg 75847412675459er-thumb.jpg 
+2017.12.03.20.06.51: Write to database
+ItemNumber=46164805 Title=Old Angler Brown Leather Valise-Italy CurrentPrice=66.01 Num of Bids=9 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:07:59 
+2017.12.03.20.06.51: Save images to database
+ImagesForItemNum=46164805 84150322675411to-thumb.jpg 52861742675411to-thumb.jpg 54131052675411to-thumb.jpg 16560002675412to-thumb.jpg 73656402675412to-thumb.jpg 80829402675412to-thumb.jpg 
+2017.12.03.20.06.51: Write to database
+ItemNumber=46164813 Title=Black Nike+ Fuelband Size XL - Factory Sealed CurrentPrice=16.00 Num of Bids=7 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:08:00 
+2017.12.03.20.06.51: Save images to database
+ImagesForItemNum=46164813 86756522675841au-thumb.jpg 15860712675841au-thumb.jpg 56737252675841au-thumb.jpg 46404662675841au-thumb.jpg 90451752675841au-thumb.jpg 20500742675841au-thumb.jpg 
+2017.12.03.20.06.51: Write to database
+ItemNumber=46164814 Title=Fujinon 6x30 and Bell &amp; Howell 8x40 Binoculars CurrentPrice=160.00 Num of Bids=16 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:08:01 
+2017.12.03.20.06.51: Save images to database
+ImagesForItemNum=46164814 8999291267599er-thumb.jpg 9283213267599er-thumb.jpg 848897267599er-thumb.jpg 2471430267599er-thumb.jpg 4383462267599er-thumb.jpg 4966943267599er-thumb.jpg 
+2017.12.03.20.06.51: Write to database
+ItemNumber=46164820 Title=SONY Reel-to-Reel Tape Deck 500A with Speakers CurrentPrice=25.00 Num of Bids=0 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:08:01 
+2017.12.03.20.06.51: Save images to database
+ImagesForItemNum=46164820 2643243267590on-thumb.jpg 2927165267590on-thumb.jpg 8394977267590on-thumb.jpg 7361718267590on-thumb.jpg 520090267590on-thumb.jpg 3759363267590on-thumb.jpg 
+2017.12.03.20.06.51: Write to database
+ItemNumber=46164824 Title=Black Nike+ Fuelband Size Small - Factory Sealed CurrentPrice=21.00 Num of Bids=5 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:08:03 
+2017.12.03.20.06.51: Save images to database
+ImagesForItemNum=46164824 5754357268320au-thumb.jpg 1186748268320au-thumb.jpg 8524067268320au-thumb.jpg 6244470268320au-thumb.jpg 9402840268320au-thumb.jpg 2642115268320au-thumb.jpg 
+2017.12.03.20.06.51: Write to database
+ItemNumber=46164826 Title=Crafter Hilite-Te CD/N Electric Guitar CurrentPrice=189.55 Num of Bids=13 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:08:03 
+2017.12.03.20.06.51: Save images to database
+ImagesForItemNum=46164826 3209954268138to-thumb.jpg 7396007268138to-thumb.jpg 8932392268138to-thumb.jpg 9409142268139to-thumb.jpg 2567514268139to-thumb.jpg 4531152268139to-thumb.jpg 
+2017.12.03.20.06.51: Write to database
+ItemNumber=46164835 Title=Pearl Speed Seat Drummer&#39;s Adjustable Seat CurrentPrice=31.00 Num of Bids=10 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:08:04 
+2017.12.03.20.06.51: Save images to database
+ImagesForItemNum=46164835 9646721268555on-thumb.jpg 2586437268555on-thumb.jpg 4122822268555on-thumb.jpg 1843225268555on-thumb.jpg 6411050268555on-thumb.jpg 8403985268555on-thumb.jpg 
+2017.12.03.20.06.51: Write to database
+ItemNumber=46164836 Title=Handpresso Wild Portable Espresso Machine CurrentPrice=44.00 Num of Bids=8 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:08:04 
+2017.12.03.20.06.51: Save images to database
+ImagesForItemNum=46164836 1762353268424er-thumb.jpg 4702068268424er-thumb.jpg 6238453268424er-thumb.jpg 3724481268424er-thumb.jpg 7045968268424er-thumb.jpg 9009607268424er-thumb.jpg 
+2017.12.03.20.06.51: Write to database
+ItemNumber=46164842 Title=Yamaha G-55 Acoustic Guitar CurrentPrice=35.00 Num of Bids=5 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:08:05 
+2017.12.03.20.06.51: Save images to database
+ImagesForItemNum=46164842 367397426881to-thumb.jpg 51581926881to-thumb.jpg 332783926881to-thumb.jpg 229458026881to-thumb.jpg 545295126881to-thumb.jpg 744588626881to-thumb.jpg 
+2017.12.03.20.06.51: Write to database
+ItemNumber=46164846 Title=Two Fitbit Charge 2 FB407 &amp; One Additional Band CurrentPrice=62.01 Num of Bids=10 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:08:06 
+2017.12.03.20.06.51: Save images to database
+ImagesForItemNum=46164846 781520926891au-thumb.jpg 600394726892au-thumb.jpg 754033326892au-thumb.jpg 902904626892au-thumb.jpg 218741826892au-thumb.jpg 418035326892au-thumb.jpg 
+2017.12.03.20.06.51: Write to database
+ItemNumber=46164850 Title=3 Muscle Machines Vintage Style Car Models CurrentPrice=9.69 Num of Bids=3 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:08:06 
+2017.12.03.20.06.51: Save images to database
+ImagesForItemNum=46164850 3424493268116er-thumb.jpg 6364207268116er-thumb.jpg 422566268116er-thumb.jpg 9389306268116er-thumb.jpg 3957132268116er-thumb.jpg 5950067268116er-thumb.jpg 
+2017.12.03.20.06.51: Write to database
+ItemNumber=46164851 Title=Winnie the Pooh Ceramic Figurine and Cookie Stamp CurrentPrice=8.00 Num of Bids=4 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:08:07 
+2017.12.03.20.06.51: Save images to database
+ImagesForItemNum=46164851 2447778268101on-thumb.jpg 6633830268101on-thumb.jpg 9445850268101on-thumb.jpg 8412591268101on-thumb.jpg 295328268101on-thumb.jpg 2288263268101on-thumb.jpg 
+2017.12.03.20.06.51: Write to database
+ItemNumber=46164858 Title=15 As-Is Digital Cameras For Parts/Repair CurrentPrice=71.00 Num of Bids=10 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:08:08 
+2017.12.03.20.06.51: Save images to database
+ImagesForItemNum=46164858 60474782681529au-thumb.jpg 2335322681529au-thumb.jpg 30455522681529au-thumb.jpg 82732782681529au-thumb.jpg 14316502681529au-thumb.jpg 49052982681530au-thumb.jpg 
+2017.12.03.20.06.51: Write to database
+ItemNumber=46164859 Title=Kieth Urban Inlaid Mother Of Pearl Electric CurrentPrice=40.00 Num of Bids=10 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 5:15:00 PM Last Update=12/03/2017 20:08:08 
+2017.12.03.20.06.51: Save images to database
+ImagesForItemNum=46164859 16054932681349to-thumb.jpg 31357532681349to-thumb.jpg 70602912681349to-thumb.jpg 86828242681349to-thumb.jpg 16780792681349to-thumb.jpg 59586122681349to-thumb.jpg 23679592681349to-thumb.jpg 
+2017.12.03.20.06.51: Program exits.
+2017.12.03.21.11.33: New system session, Log starts here.
+2017.12.03.21.11.33: Write to database
+ItemNumber=46142885 Title=Metal Collection Ferrari Red CurrentPrice=17.01 Num of Bids=4 Seller=Goodwill Industries of Greater Detroit Shipping=Estimate Shipping End Date=12/3/2017 6:14:00 PM Last Update=12/03/2017 21:13:40 
+2017.12.03.21.11.33: Save images to database
+ImagesForItemNum=46142885 1325647258463is-thumb.jpg 5511699258463is-thumb.jpg 8323719258463is-thumb.jpg 8536798258463is-thumb.jpg 
+2017.12.03.21.11.33: Write to database
+ItemNumber=46173324 Title=RCA Small Wonder VHS Camcorder CurrentPrice=9.99 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/3/2017 6:14:00 PM Last Update=12/03/2017 21:13:41 
+2017.12.03.21.11.33: Save images to database
+ImagesForItemNum=46173324 16524902613348in-thumb.jpg 38811452613348in-thumb.jpg 27617382613348in-thumb.jpg 43383422613349in-thumb.jpg 
+2017.12.03.21.11.33: Write to database
+ItemNumber=46196077 Title=Mixed Lot Of Unsorted Fur Pieces CurrentPrice=35.69 Num of Bids=7 Seller= Shipping=Estimate Shipping End Date=12/3/2017 6:14:00 PM Last Update=12/03/2017 21:13:41 
+2017.12.03.21.11.33: Save images to database
+ImagesForItemNum=46196077 40600212765636rd-thumb.jpg 95217082765636rd-thumb.jpg 23044322765636rd-thumb.jpg 13004702765636rd-thumb.jpg 
+2017.12.03.21.11.33: Write to database
+ItemNumber=46201355 Title=Longaberger Framed Fruit Medley Print CurrentPrice=10.00 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/3/2017 6:14:00 PM Last Update=12/03/2017 21:13:42 
+2017.12.03.21.11.33: Save images to database
+ImagesForItemNum=46201355 17599122783619rd-thumb.jpg 22069512783619rd-thumb.jpg 87579842783619rd-thumb.jpg 72646722783619rd-thumb.jpg 
+2017.12.03.21.11.33: Write to database
+ItemNumber=46219457 Title=13.37 LB Of Assorted Legos CurrentPrice=62.00 Num of Bids=8 Seller=Goodwill Industries of Central Florida Shipping=Estimate Shipping End Date=12/3/2017 6:14:00 PM Last Update=12/03/2017 21:13:43 
+2017.12.03.21.11.33: Save images to database
+ImagesForItemNum=46219457 80830012834250dt-thumb.jpg 43479552834253dt-thumb.jpg 42818842834257dt-thumb.jpg 3288995283430dt-thumb.jpg 4719048283433dt-thumb.jpg 7013817283437dt-thumb.jpg 
+2017.12.03.21.11.33: Write to database
+ItemNumber=46220766 Title=Certified International Bowls &quot;Tuscany&quot; CurrentPrice=8.99 Num of Bids=1 Seller=Goodwill Industries of Central Florida Shipping=Estimate Shipping End Date=12/3/2017 6:14:00 PM Last Update=12/03/2017 21:13:44 
+2017.12.03.21.11.33: Save images to database
+ImagesForItemNum=46220766 2380002843614ms-thumb.jpg 43575682843625ms-thumb.jpg 82780082843641ms-thumb.jpg 53803642843649ms-thumb.jpg 85825732843656ms-thumb.jpg 1773645284373ms-thumb.jpg 
+2017.12.03.21.11.33: Write to database
+ItemNumber=46225692 Title=Kodak EasyShare Sport 12 MP WP Digital Camera CurrentPrice=8.99 Num of Bids=0 Seller=Goodwill Industries of Central Florida Shipping=Estimate Shipping End Date=12/3/2017 6:14:00 PM Last Update=12/03/2017 21:13:45 
+2017.12.03.21.11.33: Save images to database
+ImagesForItemNum=46225692 7035485285144011-thumb.jpg 4652062285144311-thumb.jpg 5124017285144711-thumb.jpg 4010735285145111-thumb.jpg 5444756285145511-thumb.jpg 5071832285145911-thumb.jpg 
+2017.12.03.21.11.33: Write to database
+ItemNumber=46227522 Title=Cambridge Luggage Bag w/ Rollers CurrentPrice=14.99 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/3/2017 6:14:00 PM Last Update=12/03/2017 21:13:47 
+2017.12.03.21.11.33: Save images to database
+ImagesForItemNum=46227522 77863702853747dw-thumb.jpg 4782832853748dw-thumb.jpg 95093272853748dw-thumb.jpg 72297302853748dw-thumb.jpg 55785312853749dw-thumb.jpg 25861152853749dw-thumb.jpg 30567412853750dw-thumb.jpg 
+2017.12.03.21.11.33: Write to database
+ItemNumber=46229227 Title=Disney Through The Years Volume 1 CurrentPrice=51.00 Num of Bids=7 Seller=Goodwill Industries of Central Florida Shipping=Estimate Shipping End Date=12/3/2017 6:14:00 PM Last Update=12/03/2017 21:13:48 
+2017.12.03.21.11.33: Save images to database
+ImagesForItemNum=46229227 86790092862211dt-thumb.jpg 10949342862218dt-thumb.jpg 70835502862222dt-thumb.jpg 20527282862229dt-thumb.jpg 97944262862230dt-thumb.jpg 98482902862235dt-thumb.jpg 
+2017.12.03.21.11.33: Write to database
+ItemNumber=46231298 Title=Samsung Blu-ray / DVD Player BD-C6500 CurrentPrice=13.00 Num of Bids=3 Seller=Goodwill Industries of Central Texas Shipping=Estimate Shipping End Date=12/3/2017 6:14:00 PM Last Update=12/03/2017 21:13:49 
+2017.12.03.21.11.33: Save images to database
+ImagesForItemNum=46231298 14658752863358dm-thumb.jpg 16912042863358dm-thumb.jpg 57495612863358dm-thumb.jpg 47036382863358dm-thumb.jpg 89159332863358dm-thumb.jpg 
+2017.12.03.21.11.33: Write to database
+ItemNumber=46231984 Title=Sonic 3/The Hedgehog / Sonic Classics Games CurrentPrice=9.95 Num of Bids=2 Seller= Shipping=Estimate Shipping End Date=12/3/2017 6:14:00 PM Last Update=12/03/2017 21:13:50 
+2017.12.03.21.11.33: Save images to database
+ImagesForItemNum=46231984 79247672864431eH-thumb.jpg 5580862864432eH-thumb.jpg 58920782864432eH-thumb.jpg 54986202864432eH-thumb.jpg 
+2017.12.03.21.11.33: Write to database
+ItemNumber=46233187 Title=Harry Potter&#39;s Replica Ollivanders Wand CurrentPrice=8.99 Num of Bids=0 Seller=Goodwill Industries of Central Florida Shipping=Estimate Shipping End Date=12/3/2017 6:14:00 PM Last Update=12/03/2017 21:13:51 
+2017.12.03.21.11.33: Save images to database
+ImagesForItemNum=46233187 3992272286497ms-thumb.jpg 67159662864939ms-thumb.jpg 87470632864946ms-thumb.jpg 37110532864951ms-thumb.jpg 
+2017.12.03.21.11.33: Write to database
+ItemNumber=46234894 Title=Nautical &amp; Lands End Men&#39;s XXL 2pc CurrentPrice=9.99 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/3/2017 6:14:00 PM Last Update=12/03/2017 21:13:52 
+2017.12.03.21.11.33: Save images to database
+ImagesForItemNum=46234894 56690602865020dw-thumb.jpg 89476732865021dw-thumb.jpg 91498302865021dw-thumb.jpg 
+2017.12.03.21.11.33: Write to database
+ItemNumber=46243355 Title=LIME BEYOND THE LIMIT SHORTS SZ 32 CurrentPrice=8.99 Num of Bids=0 Seller=Goodwill Industries of Central Florida Shipping= End Date=12/3/2017 6:14:00 PM Last Update=12/03/2017 21:13:52 
+2017.12.03.21.11.33: Save images to database
+ImagesForItemNum=46243355 42292412873945rs-thumb.jpg 92257312873952rs-thumb.jpg 44993222873958rs-thumb.jpg 4641076287403rs-thumb.jpg 
+2017.12.03.21.11.33: Write to database
+ItemNumber=46249789 Title=Lot of Men&#39;s Watches Grab Bag CurrentPrice=21.00 Num of Bids=4 Seller=Goodwill Industries of Central Florida Shipping=Estimate Shipping End Date=12/3/2017 6:14:00 PM Last Update=12/03/2017 21:13:53 
+2017.12.03.21.11.33: Save images to database
+ImagesForItemNum=46249789 44254692882512en-thumb.jpg 68635182882519en-thumb.jpg 48586662882526en-thumb.jpg 30588922882533en-thumb.jpg 58156972882540en-thumb.jpg 51711662882546en-thumb.jpg 
+2017.12.03.21.11.33: Write to database
+ItemNumber=46254698 Title=Sterling 925 Necklace W 3 Cute Pendants 3.99g CurrentPrice=9.99 Num of Bids=0 Seller=Goodwill Industries of Central Texas Shipping= End Date=12/3/2017 6:14:00 PM Last Update=12/03/2017 21:13:54 
+2017.12.03.21.11.33: Save images to database
+ImagesForItemNum=46254698 60483942893746am-thumb.jpg 41199452893747am-thumb.jpg 82954902893748am-thumb.jpg 3487802893748am-thumb.jpg 47241912893748am-thumb.jpg 13596132893749am-thumb.jpg 54227682893750am-thumb.jpg 37899442893751am-thumb.jpg 
+2017.12.03.21.11.33: Write to database
+ItemNumber=46256290 Title=JVC Video VHS Recorder, Parts &amp; Repair CurrentPrice=5.99 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/3/2017 6:14:00 PM Last Update=12/03/2017 21:13:55 
+2017.12.03.21.11.33: Save images to database
+ImagesForItemNum=46256290 75790032895032ns-thumb.jpg 92430832895032ns-thumb.jpg 14026382895032ns-thumb.jpg 78474062895032ns-thumb.jpg 78606352895032ns-thumb.jpg 85779362895032ns-thumb.jpg 
+2017.12.03.21.11.33: Write to database
+ItemNumber=46258383 Title=4PC Women&#39;s American Apparel Belts SZ 4-XS CurrentPrice=9.99 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/3/2017 6:14:00 PM Last Update=12/03/2017 21:13:56 
+2017.12.03.21.11.33: Save images to database
+ImagesForItemNum=46258383 45324332810144le-thumb.jpg 39089162810145le-thumb.jpg 5644732810145le-thumb.jpg 
+2017.12.03.21.11.33: Write to database
+ItemNumber=46258714 Title=3PC Women&#39;s American Apparel Belts SZ 3-XS CurrentPrice=9.99 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/3/2017 6:14:00 PM Last Update=12/03/2017 21:13:57 
+2017.12.03.21.11.33: Save images to database
+ImagesForItemNum=46258714 866390328102722le-thumb.jpg 866355428102723le-thumb.jpg 
+2017.12.03.21.11.33: Write to database
+ItemNumber=46259541 Title=Coach Suede Metallic Shimmer Wristlet CurrentPrice=9.99 Num of Bids=1 Seller= Shipping=Estimate Shipping End Date=12/3/2017 6:14:00 PM Last Update=12/03/2017 21:13:58 
+2017.12.03.21.11.33: Save images to database
+ImagesForItemNum=46259541 680568828104335na-thumb.jpg 345511928104335na-thumb.jpg 810734928104335na-thumb.jpg 81310528104335na-thumb.jpg 
+2017.12.03.21.11.33: Write to database
+ItemNumber=46260533 Title=Audrey&#39;s, Candle Holder &amp; Candle Sticks CurrentPrice=9.99 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/3/2017 6:14:00 PM Last Update=12/03/2017 21:13:59 
+2017.12.03.21.11.33: Save images to database
+ImagesForItemNum=46260533 31545652811856kw-thumb.jpg 72820232811856kw-thumb.jpg 2698262811857kw-thumb.jpg 73084652811857kw-thumb.jpg 29302152811857kw-thumb.jpg 69684392811858kw-thumb.jpg 
+2017.12.03.21.11.33: Write to database
+ItemNumber=46260866 Title=Donald J Pliner Slate Grey Leather Heels Sz 9 CurrentPrice=9.99 Num of Bids=0 Seller=Goodwill Industries of Central Texas Shipping=Estimate Shipping End Date=12/3/2017 6:14:00 PM Last Update=12/03/2017 21:14:01 
+2017.12.03.21.11.33: Save images to database
+ImagesForItemNum=46260866 375072628111916yR-thumb.jpg 437354628111917yR-thumb.jpg 460500028111917yR-thumb.jpg 997921128111918yR-thumb.jpg 373145428111918yR-thumb.jpg 691213428111918yR-thumb.jpg 
+2017.12.03.21.11.33: Write to database
+ItemNumber=46262338 Title=Framed Old English Art Print CurrentPrice=43.00 Num of Bids=4 Seller=Goodwill Columbus Shipping=Estimate Shipping End Date=12/3/2017 6:14:00 PM Last Update=12/03/2017 21:14:02 
+2017.12.03.21.11.33: Save images to database
+ImagesForItemNum=46262338 722118428115244er-thumb.jpg 823279828115244er-thumb.jpg 976918428115244er-thumb.jpg 811275628115244er-thumb.jpg 833106328115245er-thumb.jpg 29470328115245er-thumb.jpg 
+2017.12.03.21.11.33: Write to database
+ItemNumber=46262460 Title=Vintage FEATHERWEIGHT Sewing Machine in Case (B) CurrentPrice=126.00 Num of Bids=23 Seller= Shipping=Estimate Shipping End Date=12/3/2017 6:14:00 PM Last Update=12/03/2017 21:14:02 
+2017.12.03.21.11.33: Save images to database
+ImagesForItemNum=46262460 6104672812441eH-thumb.jpg 78830672812441eH-thumb.jpg 21172072812442eH-thumb.jpg 28655642812442eH-thumb.jpg 25945222812443eH-thumb.jpg 51813292812443eH-thumb.jpg 67518092812444eH-thumb.jpg 
+2017.12.03.21.11.33: Write to database
+ItemNumber=46263271 Title=11 lbs Lot of Gold and Silver Tone Jewelry w/925 CurrentPrice=203.99 Num of Bids=15 Seller= Shipping=Estimate Shipping End Date=12/3/2017 6:14:00 PM Last Update=12/03/2017 21:14:03 
+2017.12.03.21.11.33: Save images to database
+ImagesForItemNum=46263271 59313592812274os-thumb.jpg 85701702812276os-thumb.jpg 33395882812277os-thumb.jpg 9721012812277os-thumb.jpg 
+2017.12.03.21.11.33: Write to database
+ItemNumber=46264194 Title=Western Style Brown Calf Hair Rhinestone Belt NSI CurrentPrice=9.99 Num of Bids=1 Seller=Goodwill Industries of Central Texas Shipping=Estimate Shipping End Date=12/3/2017 6:14:00 PM Last Update=12/03/2017 21:14:04 
+2017.12.03.21.11.33: Save images to database
+ImagesForItemNum=46264194 664333428124656ks-thumb.jpg 142325928124656ks-thumb.jpg 355351728124656ks-thumb.jpg 
+2017.12.03.21.11.33: Write to database
+ItemNumber=46264269 Title=Alegria Kyra Floral Leather Mary Jane Shoes Sz8.5 CurrentPrice=18.00 Num of Bids=6 Seller=Goodwill Industries of Central Texas Shipping=Estimate Shipping End Date=12/3/2017 6:14:00 PM Last Update=12/03/2017 21:14:04 
+2017.12.03.21.11.33: Save images to database
+ImagesForItemNum=46264269 171291528125041ks-thumb.jpg 975516828125042ks-thumb.jpg 829289628125043ks-thumb.jpg 65578628125044ks-thumb.jpg 191535328125044ks-thumb.jpg 697820428125045ks-thumb.jpg 
+2017.12.03.21.11.33: Write to database
+ItemNumber=46264299 Title=Coach Red Patent Leather Studded Wristlet CurrentPrice=15.88 Num of Bids=2 Seller= Shipping=Estimate Shipping End Date=12/3/2017 6:14:00 PM Last Update=12/03/2017 21:14:05 
+2017.12.03.21.11.33: Save images to database
+ImagesForItemNum=46264299 474315728125436ma-thumb.jpg 453773028125436ma-thumb.jpg 984242628125436ma-thumb.jpg 130184328125436ma-thumb.jpg 315528328125436ma-thumb.jpg 
+2017.12.03.21.11.33: Write to database
+ItemNumber=46266653 Title=Signed Sterling Cute Catch a Falling Star Pendant CurrentPrice=17.66 Num of Bids=4 Seller=Goodwill Industries of Central Texas Shipping= End Date=12/3/2017 6:14:00 PM Last Update=12/03/2017 21:14:05 
+2017.12.03.21.11.33: Save images to database
+ImagesForItemNum=46266653 868068728133815na-thumb.jpg 45646328133816na-thumb.jpg 406743328133818na-thumb.jpg 952953428133820na-thumb.jpg 592093828133821na-thumb.jpg 
+2017.12.03.21.11.33: Write to database
+ItemNumber=46268162 Title=Bridgecraft USA Acoustic Guitar CurrentPrice=9.99 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/3/2017 6:14:00 PM Last Update=12/03/2017 21:14:06 
+2017.12.03.21.11.33: Save images to database
+ImagesForItemNum=46268162 386821828142834od-thumb.jpg 866080728142835od-thumb.jpg 156071928142836od-thumb.jpg 981640028142836od-thumb.jpg 691886228142837od-thumb.jpg 
+2017.12.03.21.11.33: Write to database
+ItemNumber=46321706 Title=Vintage B.W. Buenilum Aluminum Pot W/ Lid CurrentPrice=6.95 Num of Bids=0 Seller=Goodwill Industries of Northwest Ohio Shipping=Estimate Shipping End Date=12/3/2017 6:14:00 PM Last Update=12/03/2017 21:14:07 
+2017.12.03.21.11.33: Save images to database
+ImagesForItemNum=46321706 9458886306911eP-thumb.jpg 3221355306912eP-thumb.jpg 5836994306913eP-thumb.jpg 4072076306914eP-thumb.jpg 
+2017.12.03.21.11.33: Write to database
+ItemNumber=46323664 Title=Hull USA Ovenproof Brown Creamer CurrentPrice=6.95 Num of Bids=0 Seller=Goodwill Industries of Northwest Ohio Shipping=Estimate Shipping End Date=12/3/2017 6:14:00 PM Last Update=12/03/2017 21:14:08 
+2017.12.03.21.11.33: Save images to database
+ImagesForItemNum=46323664 19984073065210ee-thumb.jpg 69374803065211ee-thumb.jpg 3964733065212ee-thumb.jpg 49052063065214ee-thumb.jpg 
+2017.12.03.21.11.33: Write to database
+ItemNumber=46324035 Title=Glittery Gray Hoodie by Juicy Couture CurrentPrice=9.76 Num of Bids=2 Seller=Goodwill Industries of Northwest Ohio Shipping=Estimate Shipping End Date=12/3/2017 6:14:00 PM Last Update=12/03/2017 21:14:08 
+2017.12.03.21.11.33: Save images to database
+ImagesForItemNum=46324035 63920223065857no-thumb.jpg 70021773065857no-thumb.jpg 24074293065858no-thumb.jpg 88814943065858no-thumb.jpg 
+2017.12.03.21.11.33: Write to database
+ItemNumber=46325253 Title=IOB Block City Toy For 3 years and older CurrentPrice=6.95 Num of Bids=0 Seller=Goodwill Industries of Northwest Ohio Shipping=Estimate Shipping End Date=12/3/2017 6:14:00 PM Last Update=12/03/2017 21:14:09 
+2017.12.03.21.11.33: Save images to database
+ImagesForItemNum=46325253 65140923073844aM-thumb.jpg 44684563073844aM-thumb.jpg 98317453073844aM-thumb.jpg 23324223073844aM-thumb.jpg 5054413073844aM-thumb.jpg 
+2017.12.03.21.11.33: Write to database
+ItemNumber=46326482 Title=Ralph Lauren Women&#39;s Longsleeve Sweater Dress CurrentPrice=10.00 Num of Bids=3 Seller= Shipping=Estimate Shipping End Date=12/3/2017 6:14:00 PM Last Update=12/03/2017 21:14:10 
+2017.12.03.21.11.33: Save images to database
+ImagesForItemNum=46326482 657940030759341-thumb.jpg 666144930759441-thumb.jpg 327107630759441-thumb.jpg 458400930759441-thumb.jpg 429633530759541-thumb.jpg 
+2017.12.03.21.11.33: Write to database
+ItemNumber=46329793 Title=Polaroid Land Camera Model 320 CurrentPrice=4.97 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/3/2017 6:14:00 PM Last Update=12/03/2017 21:14:11 
+2017.12.03.21.11.33: Save images to database
+ImagesForItemNum=46329793 1576348308575638-thumb.jpg 2023387308575638-thumb.jpg 9615680308575638-thumb.jpg 6089746308575638-thumb.jpg 
+2017.12.03.21.11.33: Write to database
+ItemNumber=46331012 Title=Boyds Collection 1998 White Bear CurrentPrice=6.95 Num of Bids=0 Seller=Goodwill Industries of Northwest Ohio Shipping=Estimate Shipping End Date=12/3/2017 6:14:00 PM Last Update=12/03/2017 21:14:12 
+2017.12.03.21.11.33: Save images to database
+ImagesForItemNum=46331012 65501033092950kS-thumb.jpg 56629133092950kS-thumb.jpg 11433913092951kS-thumb.jpg 19503423092951kS-thumb.jpg 63257533092951kS-thumb.jpg 
+2017.12.03.21.11.33: Write to database
+ItemNumber=46332596 Title=Lauren Ralph Lauren Ladies Floral Dress Size 4 CurrentPrice=5.97 Num of Bids=2 Seller= Shipping=Estimate Shipping End Date=12/3/2017 6:14:00 PM Last Update=12/03/2017 21:14:13 
+2017.12.03.21.11.33: Save images to database
+ImagesForItemNum=46332596 90734493010173826-thumb.jpg 13606983010173826-thumb.jpg 66653943010173826-thumb.jpg 
+2017.12.03.21.11.33: Write to database
+ItemNumber=46333046 Title=NWT $14 Xhilaration Xl Brown Women 2 PC Swim Wear CurrentPrice=6.95 Num of Bids=0 Seller=Goodwill Industries of Northwest Ohio Shipping=Estimate Shipping End Date=12/3/2017 6:14:00 PM Last Update=12/03/2017 21:14:14 
+2017.12.03.21.11.33: Save images to database
+ImagesForItemNum=46333046 587169730102816aM-thumb.jpg 317359530102816aM-thumb.jpg 533314930102816aM-thumb.jpg 237179030102816aM-thumb.jpg 550086330102816aM-thumb.jpg 
+2017.12.03.21.11.33: Write to database
+ItemNumber=46337315 Title=Women&#39;s Large Black Harley Davidson Sweater CurrentPrice=6.95 Num of Bids=1 Seller=Goodwill Industries of Northwest Ohio Shipping=Estimate Shipping End Date=12/3/2017 6:14:00 PM Last Update=12/03/2017 21:14:15 
+2017.12.03.21.11.33: Save images to database
+ImagesForItemNum=46337315 70653923012130eP-thumb.jpg 76003223012131eP-thumb.jpg 81706733012132eP-thumb.jpg 3704473012133eP-thumb.jpg 
+2017.12.03.21.11.33: Program exits.
+2017.12.03.21.19.47: New system session, Log starts here.
+2017.12.03.21.19.47: Write to database
+ItemNumber=45928448 Title=Lot Of 5ct Ast. Sony Playstation 2 Games 5-3137 CurrentPrice=19.99 Num of Bids=1 Seller=Heart of Texas Goodwill Shipping=Estimate Shipping End Date=12/3/2017 6:21:00 PM Last Update=12/03/2017 21:20:03 
+2017.12.03.21.19.47: Save images to database
+ImagesForItemNum=45928448 789226619145818LT-thumb.jpg 605205619145818LT-thumb.jpg 556270719145818LT-thumb.jpg 446285319145819LT-thumb.jpg 386898119145819LT-thumb.jpg 440426019145819LT-thumb.jpg 
+2017.12.03.21.19.47: Write to database
+ItemNumber=46105508 Title=Sterling Silver sz 8 Ring w/ Red Glass Stone 2.8g CurrentPrice=7.99 Num of Bids=0 Seller= Shipping= End Date=12/3/2017 6:21:00 PM Last Update=12/03/2017 21:20:03 
+2017.12.03.21.19.47: Save images to database
+ImagesForItemNum=46105508 63509762491032n9-thumb.jpg 86382242491032n9-thumb.jpg 15840652491032n9-thumb.jpg 5215092491032n9-thumb.jpg 5347382491032n9-thumb.jpg 31215462491032n9-thumb.jpg 
+2017.12.03.21.19.47: Write to database
+ItemNumber=46106002 Title=Sterling Silver Earrings w/ Amethyst &amp; Marcasites CurrentPrice=7.99 Num of Bids=1 Seller= Shipping= End Date=12/3/2017 6:21:00 PM Last Update=12/03/2017 21:20:04 
+2017.12.03.21.19.47: Save images to database
+ImagesForItemNum=46106002 77868282492658n9-thumb.jpg 13204152492658n9-thumb.jpg 28568002492658n9-thumb.jpg 11710762492658n9-thumb.jpg 99379662492658n9-thumb.jpg 31479432492658n9-thumb.jpg 
+2017.12.03.21.19.47: Write to database
+ItemNumber=46108013 Title=Sterling Silver sz 7.25 Woven Design Ring 2.4g CurrentPrice=7.99 Num of Bids=0 Seller= Shipping= End Date=12/3/2017 6:21:00 PM Last Update=12/03/2017 21:20:05 
+2017.12.03.21.19.47: Save images to database
+ImagesForItemNum=46108013 27042782410419n9-thumb.jpg 37451892410419n9-thumb.jpg 34120682410419n9-thumb.jpg 32070562410420n9-thumb.jpg 32202852410420n9-thumb.jpg 64302612410420n9-thumb.jpg 
+2017.12.03.21.19.47: Write to database
+ItemNumber=46166504 Title=Vintage Brass Balance Scale Set with Weights CurrentPrice=25.00 Num of Bids=9 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/3/2017 6:21:00 PM Last Update=12/03/2017 21:20:06 
+2017.12.03.21.19.47: Save images to database
+ImagesForItemNum=46166504 730632826111221er-thumb.jpg 398505726111221er-thumb.jpg 926045626111221er-thumb.jpg 843227526111222er-thumb.jpg 408332226111222er-thumb.jpg 43844026111222er-thumb.jpg 
+2017.12.03.21.19.47: Write to database
+ItemNumber=46197724 Title=Pyrex Pink Flower Dish W/Lid Chipped Handle CurrentPrice=11.00 Num of Bids=2 Seller= Shipping=Estimate Shipping End Date=12/3/2017 6:21:00 PM Last Update=12/03/2017 21:20:07 
+2017.12.03.21.19.47: Save images to database
+ImagesForItemNum=46197724 79536062774257ld-thumb.jpg 84006452774257ld-thumb.jpg 86906932774257ld-thumb.jpg 33958072774258ld-thumb.jpg 53078402774258ld-thumb.jpg 
+2017.12.03.21.19.47: Write to database
+ItemNumber=46202970 Title=Vintage Highway Pioneers Quick Construction Kit CurrentPrice=8.95 Num of Bids=1 Seller= Shipping=Estimate Shipping End Date=12/3/2017 6:21:00 PM Last Update=12/03/2017 21:20:08 
+2017.12.03.21.19.47: Save images to database
+ImagesForItemNum=46202970 55663692792810nP-thumb.jpg 56705432792811nP-thumb.jpg 79765812792812nP-thumb.jpg 20751592792813nP-thumb.jpg 21636142792813nP-thumb.jpg 
+2017.12.03.21.19.47: Write to database
+ItemNumber=46209343 Title=Keurig Quick Coffee Machine Model V700 CurrentPrice=8.95 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/3/2017 6:21:00 PM Last Update=12/03/2017 21:20:09 
+2017.12.03.21.19.47: Save images to database
+ImagesForItemNum=46209343 152767327113410nP-thumb.jpg 707725027113411nP-thumb.jpg 45384727113411nP-thumb.jpg 953777427113412nP-thumb.jpg 641852727113413nP-thumb.jpg 84554527113413nP-thumb.jpg 
+2017.12.03.21.19.47: Write to database
+ItemNumber=46214775 Title=Messianic Tallit w/New Testament Scripural Quotes CurrentPrice=8.95 Num of Bids=1 Seller= Shipping=Estimate Shipping End Date=12/3/2017 6:21:00 PM Last Update=12/03/2017 21:20:10 
+2017.12.03.21.19.47: Save images to database
+ImagesForItemNum=46214775 53426752713423nO-thumb.jpg 59654952713424nO-thumb.jpg 63141362713425nO-thumb.jpg 10065862713426nO-thumb.jpg 
+2017.12.03.21.19.47: Write to database
+ItemNumber=46219469 Title=Chipper Jones Bobble Dobbles Figurine CurrentPrice=8.99 Num of Bids=0 Seller=Goodwill Industries of Central Florida Shipping=Estimate Shipping End Date=12/3/2017 6:21:00 PM Last Update=12/03/2017 21:20:10 
+2017.12.03.21.19.47: Save images to database
+ImagesForItemNum=46219469 2262841283544811-thumb.jpg 4754754283545311-thumb.jpg 2998162283545911-thumb.jpg 323421628355411-thumb.jpg 51037028355811-thumb.jpg 423700283551311-thumb.jpg 
+2017.12.03.21.19.47: Write to database
+ItemNumber=46220263 Title=Life Stride Low Top Ankle Boots Size 8.5 CurrentPrice=9.99 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/3/2017 6:21:00 PM Last Update=12/03/2017 21:20:12 
+2017.12.03.21.19.47: Save images to database
+ImagesForItemNum=46220263 6043511284281dw-thumb.jpg 5913310284281dw-thumb.jpg 1540272284281dw-thumb.jpg 360529284281dw-thumb.jpg 9590676284282dw-thumb.jpg 
+2017.12.03.21.19.47: Write to database
+ItemNumber=46225595 Title=LESUIT LADIES BLACK SKIRT SZ 14 CurrentPrice=8.99 Num of Bids=0 Seller=Goodwill Industries of Central Florida Shipping= End Date=12/3/2017 6:21:00 PM Last Update=12/03/2017 21:20:12 
+2017.12.03.21.19.47: Save images to database
+ImagesForItemNum=46225595 7484072851242ey-thumb.jpg 57076652851244ey-thumb.jpg 82708362851248ey-thumb.jpg 33686462851253ey-thumb.jpg 
+2017.12.03.21.19.47: Write to database
+ItemNumber=46227258 Title=Kodak EasyShare V570 5.0 MP Digital Camera CurrentPrice=8.99 Num of Bids=0 Seller=Goodwill Industries of Central Florida Shipping=Estimate Shipping End Date=12/3/2017 6:21:00 PM Last Update=12/03/2017 21:20:13 
+2017.12.03.21.19.47: Save images to database
+ImagesForItemNum=46227258 9652367285344211-thumb.jpg 7953911285344711-thumb.jpg 1933709285345211-thumb.jpg 3193933285345611-thumb.jpg 389629528535211-thumb.jpg 630901428535711-thumb.jpg 
+2017.12.03.21.19.47: Write to database
+ItemNumber=46227750 Title=Impressions Women&#39;s Bridal Dress Size 12 CurrentPrice=9.99 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/3/2017 6:21:00 PM Last Update=12/03/2017 21:20:14 
+2017.12.03.21.19.47: Save images to database
+ImagesForItemNum=46227750 57439812854949es-thumb.jpg 85079142854949es-thumb.jpg 54105112854950es-thumb.jpg 17507572854950es-thumb.jpg 36208282854950es-thumb.jpg 
+2017.12.03.21.19.47: Write to database
+ItemNumber=46227946 Title=Canon Canonet 28 Film Camera CurrentPrice=9.99 Num of Bids=2 Seller=Goodwill Industries of Central Florida Shipping=Estimate Shipping End Date=12/3/2017 6:21:00 PM Last Update=12/03/2017 21:20:16 
+2017.12.03.21.19.47: Save images to database
+ImagesForItemNum=46227946 7216302285545911-thumb.jpg 411953128555411-thumb.jpg 3010980285551011-thumb.jpg 4994927285551511-thumb.jpg 4386865285552111-thumb.jpg 8706322285553111-thumb.jpg 
+2017.12.03.21.19.47: Write to database
+ItemNumber=46231932 Title=Dooney &amp; Bourke Brown Checkbook Wallet CurrentPrice=9.99 Num of Bids=0 Seller=Goodwill Industries of Central Texas Shipping=Estimate Shipping End Date=12/3/2017 6:21:00 PM Last Update=12/03/2017 21:20:17 
+2017.12.03.21.19.47: Save images to database
+ImagesForItemNum=46231932 69361502864114yR-thumb.jpg 26908072864115yR-thumb.jpg 19269302864115yR-thumb.jpg 96180352864115yR-thumb.jpg 25713292864115yR-thumb.jpg 7500252864115yR-thumb.jpg 31891872864116yR-thumb.jpg 
+2017.12.03.21.19.47: Write to database
+ItemNumber=46238876 Title=Ralph Lauren Women&#39;s Evening Dress Sz 16 CurrentPrice=12.99 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/3/2017 6:21:00 PM Last Update=12/03/2017 21:20:19 
+2017.12.03.21.19.47: Save images to database
+ImagesForItemNum=46238876 793941528793es-thumb.jpg 552878928794es-thumb.jpg 806050528794es-thumb.jpg 210048828794es-thumb.jpg 820762028795es-thumb.jpg 22985328795es-thumb.jpg 35930828798es-thumb.jpg 
+2017.12.03.21.19.47: Write to database
+ItemNumber=46248184 Title=SAE Direct-Line Digital Tuner Model T102 CurrentPrice=36.50 Num of Bids=2 Seller=Goodwill Industries of Central Florida Shipping=Estimate Shipping End Date=12/3/2017 6:21:00 PM Last Update=12/03/2017 21:20:20 
+2017.12.03.21.19.47: Save images to database
+ImagesForItemNum=46248184 4162408288845ms-thumb.jpg 343438288850ms-thumb.jpg 3015288856ms-thumb.jpg 966533728895ms-thumb.jpg 5787774288910ms-thumb.jpg 
+2017.12.03.21.19.47: Write to database
+ItemNumber=46250197 Title=2 Boxes 1988 Score SEALED Cards CurrentPrice=17.00 Num of Bids=5 Seller= Shipping=Estimate Shipping End Date=12/3/2017 6:21:00 PM Last Update=12/03/2017 21:20:20 
+2017.12.03.21.19.47: Save images to database
+ImagesForItemNum=46250197 7757226288322eH-thumb.jpg 856090288323eH-thumb.jpg 7289936288323eH-thumb.jpg 5787164288324eH-thumb.jpg 
+2017.12.03.21.19.47: Write to database
+ItemNumber=46250973 Title=Folkmanis Puppets 14&quot; Fox Plush Hand Puppet CurrentPrice=12.99 Num of Bids=4 Seller= Shipping=Estimate Shipping End Date=12/3/2017 6:21:00 PM Last Update=12/03/2017 21:20:21 
+2017.12.03.21.19.47: Save images to database
+ImagesForItemNum=46250973 4500695288380ya-thumb.jpg 6252666288380ya-thumb.jpg 7642566288380ya-thumb.jpg 8177911288381ya-thumb.jpg 
+2017.12.03.21.19.47: Write to database
+ItemNumber=46251557 Title=St. John Sport Powder Blue Short Jacket Sz.S CurrentPrice=18.00 Num of Bids=3 Seller=Goodwill Industries of Central Texas Shipping=Estimate Shipping End Date=12/3/2017 6:21:00 PM Last Update=12/03/2017 21:20:22 
+2017.12.03.21.19.47: Save images to database
+ImagesForItemNum=46251557 463830288458nn-thumb.jpg 5720439288458nn-thumb.jpg 6069080288458nn-thumb.jpg 7821466288459nn-thumb.jpg 3531106288459nn-thumb.jpg 5972842884510nn-thumb.jpg 
+2017.12.03.21.19.47: Write to database
+ItemNumber=46252101 Title=Dell Optiplex 980 Intel Core i3 540 3.0 GHZ CurrentPrice=40.00 Num of Bids=8 Seller=Goodwill Industries of Central Texas Shipping=Estimate Shipping End Date=12/3/2017 6:21:00 PM Last Update=12/03/2017 21:20:23 
+2017.12.03.21.19.47: Save images to database
+ImagesForItemNum=46252101 745792885231ie-thumb.jpg 17552912885231ie-thumb.jpg 33795662885231ie-thumb.jpg 
+2017.12.03.21.19.47: Write to database
+ItemNumber=46252979 Title=TOMMY BAHAMA Floral Tote Bag Purse CurrentPrice=16.82 Num of Bids=4 Seller=Goodwill Industries of Central Florida Shipping=Estimate Shipping End Date=12/3/2017 6:21:00 PM Last Update=12/03/2017 21:20:24 
+2017.12.03.21.19.47: Save images to database
+ImagesForItemNum=46252979 5846368289726en-thumb.jpg 5933495289733en-thumb.jpg 1039239289738en-thumb.jpg 2277642289743en-thumb.jpg 4459954289748en-thumb.jpg 1150933289755en-thumb.jpg 
+2017.12.03.21.19.47: Write to database
+ItemNumber=46254614 Title=Nintendo DSi CurrentPrice=21.00 Num of Bids=5 Seller=Goodwill Industries of Central Texas Shipping=Estimate Shipping End Date=12/3/2017 6:21:00 PM Last Update=12/03/2017 21:20:24 
+2017.12.03.21.19.47: Save images to database
+ImagesForItemNum=46254614 66267022893458dm-thumb.jpg 35105092893459dm-thumb.jpg 43944282893459dm-thumb.jpg 64477172893459dm-thumb.jpg 20694672893459dm-thumb.jpg 
+2017.12.03.21.19.47: Write to database
+ItemNumber=46258426 Title=Vintage 1919 Hamilton King Theater Magazine Cover CurrentPrice=4.99 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/3/2017 6:21:00 PM Last Update=12/03/2017 21:20:25 
+2017.12.03.21.19.47: Save images to database
+ImagesForItemNum=46258426 754482328101531od-thumb.jpg 358375128101532od-thumb.jpg 277394528101533od-thumb.jpg 
+2017.12.03.21.19.47: Write to database
+ItemNumber=46258492 Title=Lego Friends Adventure Camper CurrentPrice=24.22 Num of Bids=5 Seller=Goodwill Columbus Shipping=Estimate Shipping End Date=12/3/2017 6:21:00 PM Last Update=12/03/2017 21:20:26 
+2017.12.03.21.19.47: Save images to database
+ImagesForItemNum=46258492 531856628101525er-thumb.jpg 383750528101525er-thumb.jpg 433263028101526er-thumb.jpg 638591928101526er-thumb.jpg 
+2017.12.03.21.19.47: Write to database
+ItemNumber=46258573 Title=12 Big Bling Brooches &amp; 1 Pair Of Earrings CurrentPrice=27.00 Num of Bids=8 Seller= Shipping=Estimate Shipping End Date=12/3/2017 6:21:00 PM Last Update=12/03/2017 21:20:27 
+2017.12.03.21.19.47: Save images to database
+ImagesForItemNum=46258573 33303462810221ed-thumb.jpg 93859052810221ed-thumb.jpg 52844732810221ed-thumb.jpg 23524112810221ed-thumb.jpg 80034572810221ed-thumb.jpg 
+2017.12.03.21.19.47: Write to database
+ItemNumber=46259125 Title=BETSEY JOHNSON PINK ARM BAG CurrentPrice=8.99 Num of Bids=1 Seller=Goodwill Industries of Central Florida Shipping=Estimate Shipping End Date=12/3/2017 6:21:00 PM Last Update=12/03/2017 21:20:28 
+2017.12.03.21.19.47: Save images to database
+ImagesForItemNum=46259125 65972532810363ey-thumb.jpg 54713072810368ey-thumb.jpg 915645628103614ey-thumb.jpg 970363628103621ey-thumb.jpg 88192128103639ey-thumb.jpg 
+2017.12.03.21.19.47: Write to database
+ItemNumber=46259344 Title=Coach Ladies Black Gray Metallic Wool Logo Scarf CurrentPrice=11.00 Num of Bids=2 Seller=Goodwill Industries of Central Texas Shipping=Estimate Shipping End Date=12/3/2017 6:21:00 PM Last Update=12/03/2017 21:20:29 
+2017.12.03.21.19.47: Save images to database
+ImagesForItemNum=46259344 23357528104347ks-thumb.jpg 498420328104347ks-thumb.jpg 360982228104348ks-thumb.jpg 376430728104348ks-thumb.jpg 
+2017.12.03.21.19.47: Write to database
+ItemNumber=46259862 Title=Lot of 5 NIB Xmods RC Car Nissan Body &amp; Parts CurrentPrice=9.99 Num of Bids=1 Seller= Shipping=Estimate Shipping End Date=12/3/2017 6:21:00 PM Last Update=12/03/2017 21:20:29 
+2017.12.03.21.19.47: Save images to database
+ImagesForItemNum=46259862 375591428105358io-thumb.jpg 40534628105358io-thumb.jpg 554692528105358io-thumb.jpg 822338228105358io-thumb.jpg 919867828105359io-thumb.jpg 
+2017.12.03.21.19.47: Write to database
+ItemNumber=46260179 Title=Framed &quot;Winter Sun Wolves&quot; by Persis Clayton Weirs CurrentPrice=16.00 Num of Bids=5 Seller= Shipping=Pickup Only End Date=12/3/2017 6:21:00 PM Last Update=12/03/2017 21:20:30 
+2017.12.03.21.19.47: Save images to database
+ImagesForItemNum=46260179 91878892811651hA-thumb.jpg 64604902811651hA-thumb.jpg 17651872811651hA-thumb.jpg 31953062811651hA-thumb.jpg 94695212811651hA-thumb.jpg 51721742811651hA-thumb.jpg 
+2017.12.03.21.19.47: Write to database
+ItemNumber=46260332 Title=Burberry London Red Short Sleeve Polo Shirt Sz XL CurrentPrice=41.00 Num of Bids=11 Seller=Goodwill Industries of Central Texas Shipping=Estimate Shipping End Date=12/3/2017 6:21:00 PM Last Update=12/03/2017 21:20:31 
+2017.12.03.21.19.47: Save images to database
+ImagesForItemNum=46260332 70605092811615ks-thumb.jpg 51851612811616ks-thumb.jpg 17068982811616ks-thumb.jpg 62528622811616ks-thumb.jpg 18746122811616ks-thumb.jpg 
+2017.12.03.21.19.47: Write to database
+ItemNumber=46260594 Title=UGG Bellvue Black Boots. Women&#39;s 6 CurrentPrice=30.00 Num of Bids=10 Seller= Shipping=Estimate Shipping End Date=12/3/2017 6:21:00 PM Last Update=12/03/2017 21:20:32 
+2017.12.03.21.19.47: Save images to database
+ImagesForItemNum=46260594 138652928111354ma-thumb.jpg 803596028111354ma-thumb.jpg 396382528111354ma-thumb.jpg 601711428111354ma-thumb.jpg 229133028111354ma-thumb.jpg 799398228111354ma-thumb.jpg 
+2017.12.03.21.19.47: Write to database
+ItemNumber=46261311 Title=iRobot Roomba Vacuum Cleaner CurrentPrice=62.00 Num of Bids=11 Seller=Goodwill Columbus Shipping=Estimate Shipping End Date=12/3/2017 6:21:00 PM Last Update=12/03/2017 21:20:33 
+2017.12.03.21.19.47: Save images to database
+ImagesForItemNum=46261311 38018432811285er-thumb.jpg 60597952811285er-thumb.jpg 63498422811285er-thumb.jpg 34470762811285er-thumb.jpg 34603062811285er-thumb.jpg 
+2017.12.03.21.19.47: Write to database
+ItemNumber=46263229 Title=3 Special Edition Barbies Native &amp; Indian CurrentPrice=21.00 Num of Bids=5 Seller= Shipping=Estimate Shipping End Date=12/3/2017 6:21:00 PM Last Update=12/03/2017 21:20:34 
+2017.12.03.21.19.47: Save images to database
+ImagesForItemNum=46263229 67463312812265os-thumb.jpg 77872422812265os-thumb.jpg 74248242812265os-thumb.jpg 32464232812265os-thumb.jpg 76511322812265os-thumb.jpg 83391362812265os-thumb.jpg 35021452812265os-thumb.jpg 73899502812265os-thumb.jpg 
+2017.12.03.21.19.47: Write to database
+ItemNumber=46264751 Title=Nintendo Wii console CurrentPrice=43.00 Num of Bids=6 Seller=Goodwill Industries of Central Texas Shipping=Estimate Shipping End Date=12/3/2017 6:21:00 PM Last Update=12/03/2017 21:20:34 
+2017.12.03.21.19.47: Save images to database
+ImagesForItemNum=46264751 45154962813935dm-thumb.jpg 48453482813935dm-thumb.jpg 15666702813936dm-thumb.jpg 36199582813936dm-thumb.jpg 113622813937dm-thumb.jpg 91687562813938dm-thumb.jpg 
+2017.12.03.21.19.47: Write to database
+ItemNumber=46265831 Title=EVO VR Virtual Reality Headset CurrentPrice=8.99 Num of Bids=0 Seller=Goodwill Industries of Central Florida Shipping=Estimate Shipping End Date=12/3/2017 6:21:00 PM Last Update=12/03/2017 21:20:36 
+2017.12.03.21.19.47: Save images to database
+ImagesForItemNum=46265831 693248828132612nd-thumb.jpg 272945528132615nd-thumb.jpg 939113728132621nd-thumb.jpg 872722728132625nd-thumb.jpg 
+2017.12.03.21.19.47: Write to database
+ItemNumber=46266367 Title=Porter Cable Electric Belt Sander Model 351 CurrentPrice=21.00 Num of Bids=7 Seller= Shipping=Estimate Shipping End Date=12/3/2017 6:21:00 PM Last Update=12/03/2017 21:20:36 
+2017.12.03.21.19.47: Save images to database
+ImagesForItemNum=46266367 544277328133057ob-thumb.jpg 229728328133058ob-thumb.jpg 760197828133058ob-thumb.jpg 843822628133058ob-thumb.jpg 153800428133058ob-thumb.jpg 664678328133058ob-thumb.jpg 682444028133058ob-thumb.jpg 
+2017.12.03.21.19.47: Write to database
+ItemNumber=46266869 Title=Nike Tiger Woods Collection Men&#39;s Shirt Size S NWT CurrentPrice=10.00 Num of Bids=2 Seller= Shipping=Estimate Shipping End Date=12/3/2017 6:21:00 PM Last Update=12/03/2017 21:20:37 
+2017.12.03.21.19.47: Save images to database
+ImagesForItemNum=46266869 16144952813478N2-thumb.jpg 1920282813478N2-thumb.jpg 79015082813478N2-thumb.jpg 
+2017.12.03.21.19.47: Write to database
+ItemNumber=46267881 Title=Lego Creator Highway Cruiser UNOPENED CurrentPrice=5.99 Num of Bids=1 Seller= Shipping=Estimate Shipping End Date=12/3/2017 6:21:00 PM Last Update=12/03/2017 21:20:38 
+2017.12.03.21.19.47: Save images to database
+ImagesForItemNum=46267881 589061828142027ns-thumb.jpg 755469828142027ns-thumb.jpg 96059128142027ns-thumb.jpg 
+2017.12.03.21.19.47: Program exits.
+2017.12.03.21.27.46: New system session, Log starts here.
+2017.12.03.21.27.46: Write to database
+ItemNumber=46261845 Title=Binder of Pokemon Cards, Holographics, Energy CurrentPrice=20.00 Num of Bids=5 Seller= Shipping=Estimate Shipping End Date=12/5/2017 9:00:00 PM Last Update=12/03/2017 21:27:58 
+2017.12.03.21.27.46: Save images to database
+ImagesForItemNum=46261845 55535512811462an-thumb.jpg 86397502811463an-thumb.jpg 32919812811463an-thumb.jpg 61735172811464an-thumb.jpg 53125702811464an-thumb.jpg 57455992811465an-thumb.jpg 
+2017.12.03.21.27.46: Write to database
+ItemNumber=46283744 Title=EVGA GeForce GTX560Ti Graphics Card CurrentPrice=17.16 Num of Bids=5 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/6/2017 5:15:00 PM Last Update=12/03/2017 21:28:00 
+2017.12.03.21.27.46: Save images to database
+ImagesForItemNum=46283744 2754937298522842-thumb.jpg 6092143298522942-thumb.jpg 8770343298522942-thumb.jpg 1505396298522942-thumb.jpg 2171091298522942-thumb.jpg 4092768298522942-thumb.jpg 
+2017.12.03.21.27.46: Write to database
+ItemNumber=46364542 Title=(2) ATI Radeon [R7750] Graphics Card (2GB) DDR3 CurrentPrice=42.00 Num of Bids=9 Seller= Shipping=Estimate Shipping End Date=12/6/2017 6:24:00 PM Last Update=12/03/2017 21:28:00 
+2017.12.03.21.27.46: Save images to database
+ImagesForItemNum=46364542 629070317115rt-thumb.jpg 549140517115rt-thumb.jpg 456441117115rt-thumb.jpg 979213817115rt-thumb.jpg 897712017115rt-thumb.jpg 847738017115rt-thumb.jpg 
+2017.12.03.21.27.46: Write to database
+ItemNumber=46331207 Title=Power Color R9380 4GBD5-PPDHE Graphics Card CurrentPrice=136.00 Num of Bids=18 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/7/2017 5:30:00 PM Last Update=12/03/2017 21:28:01 
+2017.12.03.21.27.46: Save images to database
+ImagesForItemNum=46331207 840694530934542-thumb.jpg 256370130934542-thumb.jpg 371129230934642-thumb.jpg 327190630934642-thumb.jpg 577781030934642-thumb.jpg 85729430934642-thumb.jpg 
+2017.12.03.21.27.46: Write to database
+ItemNumber=46384864 Title=EVGA GeForce GTX 560 Ti Graphics Card CurrentPrice=29.70 Num of Bids=0 Seller=Goodwill Industries of the Columbia Willamette Shipping=$0.01 End Date=12/8/2017 7:00:00 PM Last Update=12/03/2017 21:28:01 
+2017.12.03.21.27.46: Save images to database
+ImagesForItemNum=46384864 91813283194645to-thumb.jpg 33380853194645to-thumb.jpg 38625073194646to-thumb.jpg 84377683194646to-thumb.jpg 96973353194646to-thumb.jpg 4146373194646to-thumb.jpg 
+2017.12.03.21.36.06: New system session, Log starts here.
+2017.12.03.21.36.06: Program exits.
+2017.12.03.21.49.25: New system session, Log starts here.
+2017.12.03.21.49.25: Program exits.
+2017.12.03.21.58.09: New system session, Log starts here.
+2017.12.03.21.58.09: Program exits.

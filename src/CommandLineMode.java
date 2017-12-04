@@ -25,14 +25,15 @@ public class CommandLineMode {
 
 
 
-    CommandLineMode(String inInfileName, String inOutfileName, CustomizedHashMap in_hashMap, LogRecorder in_logger){
+    CommandLineMode(String inInfileName, String inOutfileName, CustomizedHashMap in_hashMap, LogRecorder in_logger, PrintWriter in_outDebug){
         System.out.println("* * * Command Line Mode * * *");
         logger = in_logger;
         hashMap = in_hashMap;
+        outDebug = in_outDebug;
         try {
             infile = new Scanner(new FileReader(inInfileName));
             outfile= new PrintWriter(inOutfileName);
-            outDebug = new PrintWriter("debug.txt");
+           // outDebug = new PrintWriter("debug.txt");
 
         } catch (FileNotFoundException e){
             System.out.println("Can not open input/output files. or debug.txt is missing");

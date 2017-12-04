@@ -1,5 +1,6 @@
 import java.io.FileReader;
 import java.io.IOException;
+import java.io.PrintWriter;
 import java.util.Scanner;
 
 import Database.CustomizedHashMap;
@@ -13,8 +14,16 @@ public class ProcurementHelper {
         String infileName=null;
         String outfileName=null;
         Scanner inPermanentData = null;
+        PrintWriter outDebug=null;
         //instantiate logging module
         LogRecorder logger = new LogRecorder("logFile.txt");
+        
+        try {
+			outDebug = new PrintWriter("debug.txt");
+		} catch (Exception e) {
+			System.out.println("unable to open debug.txt");
+			System.exit(1);
+		}
 
         //opening the permanent data file.
         try {
@@ -26,13 +35,14 @@ public class ProcurementHelper {
         //instantiate storage
         CustomizedHashMap hashMap =null;
         hashMap = IOManager.readToHashMap(inPermanentData); //read all data to the hashMap
+        
         inPermanentData.close();
         
         if (args.length==0){
             // GUI Mode
             // call main GUI
         	System.out.println("Entering GUI Mode");
-        	GUI guiMode = new GUI(hashMap, "PermanentData.txt", logger, "normal Mode");
+        	GUI guiMode = new GUI(hashMap, "PermanentData.txt", logger, "normal Mode", outDebug);
         	guiMode.setVisible(true);
         }
         else {
@@ -62,7 +72,7 @@ public class ProcurementHelper {
                     throw new IllegalArgumentException("no flags recognizable.");
             }
             // instantiate the main class for the CommandLineMode
-            CommandLineMode cmdMode = new CommandLineMode(infileName, outfileName, hashMap, logger);
+            CommandLineMode cmdMode = new CommandLineMode(infileName, outfileName, hashMap, logger, outDebug);
             cmdMode.start();
         }
     }

@@ -1,6 +1,9 @@
 package GUI;
 import javax.swing.JFrame;
 import Database.*;
+import URL_Processor.Item2Data;
+import URL_Processor.OnlineSearch2ItemsList;
+
 import javax.swing.JMenuBar;
 import java.awt.Dimension;
 import javax.swing.JRadioButton;
@@ -62,12 +65,13 @@ public class GUI extends JFrame {
 	private JTextField txtMin;
 	private JTextField txtMax;
 	private GUIAssistant guiAssistant;
-	
+	private PrintWriter outDebug;
 	/**
 	 * Create the panel.
 	 * @throws IOException 
 	 */
-	public GUI(CustomizedHashMap inCusMap, String inDumpfileName, LogRecorder inLog, String inSelector) throws IOException {
+	public GUI(CustomizedHashMap inCusMap, String inDumpfileName, LogRecorder inLog, String inSelector, PrintWriter in_outDebug) throws IOException {
+		outDebug=in_outDebug;
 		guiAssistant = new GUIAssistant();
 		getContentPane().setName("");
 		setTitle("Inventory Management");
@@ -184,6 +188,11 @@ public class GUI extends JFrame {
 						System.out.println("");
 					}
 				});
+				//Setup button groups for online, offline radio buttons.
+				ButtonGroup buttonGroup_ModeSelect = new ButtonGroup();
+				buttonGroup_ModeSelect.add(rdbtnOnlineSearch);
+				buttonGroup_ModeSelect.add(rdbtnOfflineSearch);
+				
 				txtEnterKeyWord.setText("enter key word here");
 				GridBagConstraints gbc_txtEnterKeyWord = new GridBagConstraints();
 				gbc_txtEnterKeyWord.gridwidth = 3;
@@ -214,7 +223,78 @@ public class GUI extends JFrame {
 				Button button = new Button("Search");
 				button.addActionListener(new ActionListener() {
 					public void actionPerformed(ActionEvent e) {
-						
+						String URL;
+						ArrayList<String> returnedItemsList=null;
+						ArrayList<String> itemDataList=null;
+						ArrayList <String>itemImageNamesList=null;
+						String [][] allReturnedDataEntries4Table=null;
+						if (rdbtnOnlineSearch.isSelected()) {
+							System.out.println("online search");
+						//for on-line search
+							//step1 generate URL with current URL configuration
+							URL = guiAssistant.buildURL();
+							System.out.println("Generated URL: \r\n "+URL);
+							//step2 search shopgoodwill using the URL and analyze the returned page
+							//returnedItemList <-- get item#s for each item
+							OnlineSearch2ItemsList os2il = new OnlineSearch2ItemsList(URL, outDebug);
+							try {
+								os2il.start();
+							} catch (IOException e1) {
+								System.out.println("Problem with OnlineSearch2ItemList.start() from online search button");
+								e1.printStackTrace();
+							}
+							returnedItemsList = os2il.getItemsList();
+				            //for debugging
+				            for (String item:returnedItemsList) {
+				                System.out.println("returnedItemsList: "+item);
+				                outDebug.println("returnedItemsList: "+item);
+				            } //for debugging ends
+				            //dynamically allocate a string[][] for displaying data in table later
+				            allReturnedDataEntries4Table = new String[returnedItemsList.size()][header.length];
+				            int counter=0;
+							for (String s:returnedItemsList) {
+								System.out.println("Getting data for item# "+s);
+								//step3 Data entry <-- data mine each item in the itemslist
+								Item2Data item2Data = new Item2Data(s, outDebug);
+								try {
+									item2Data.start();
+								} catch (IOException e1) {
+									System.out.println("Problem with item2data.start() from online search button");
+									e1.printStackTrace();
+								}
+								itemDataList = item2Data.getItemDataList();
+								itemImageNamesList = item2Data.getItemImageNamesList();								
+								//step4 database <-- enter Data entry
+					               CustomizedHashMap.appendList2Header(header, itemDataList);//give each element a header
+					               cusMap.putList(itemDataList);
+					               CustomizedHashMap.appendList2Header("ImagesForItemNum", itemImageNamesList);
+					               cusMap.putList(itemImageNamesList);
+								//step5 log <-- write to log
+					               logger.writeInfo("Write to database", itemDataList);
+					               logger.writeInfo("Save images to database", itemImageNamesList);
+								//step6 String[][] tableList <-- add each data entry to
+					               allReturnedDataEntries4Table[counter++]= CHMAssistant.removeHeadersFromListThenToArray(header, itemDataList);
+							}//step7 repeat step3,4,5,6 until no more items in returndItemsList.
+							
+							//step7 table displays the result returned
+							int rowCount= myTableModel.getRowCount();
+							for (int i=0; i<rowCount;i++) {
+								myTableModel.removeRow(0);
+							}
+							for (int i=0; i<allReturnedDataEntries4Table.length;i++) {
+								myTableModel.addRow(allReturnedDataEntries4Table[i]);
+							}	
+							//for off-line search
+						}
+						else {
+							System.out.println("offline search");
+						//for off-line search
+							//step1
+							
+							//step2
+							
+							//
+						}
 					}
 				});
 				GridBagConstraints gbc_button = new GridBagConstraints();
@@ -229,7 +309,12 @@ public class GUI extends JFrame {
 					public void actionPerformed(ActionEvent arg0) {
 						String temp = (String) comboBox_categories.getSelectedItem();
 						System.out.println(temp);
-						guiAssistant.c_category=temp.substring(0, temp.indexOf(" "));
+						if (!temp.equals("All Categories")) {
+							guiAssistant.c_category=temp.substring(0, temp.indexOf(" "));
+						}
+						else {
+							guiAssistant.c_category="";
+						}
 						System.out.println(guiAssistant.c_category);
 					}
 				});
@@ -244,9 +329,14 @@ public class GUI extends JFrame {
 				JComboBox comboBox_sellers = new JComboBox(GUIAssistant.getSellersParametersFromFile());
 				comboBox_sellers.addActionListener(new ActionListener() {
 					public void actionPerformed(ActionEvent arg0) {
-						String temp = (String) comboBox_categories.getSelectedItem();
+						String temp = (String) comboBox_sellers.getSelectedItem();
 						System.out.println(temp);
-						guiAssistant.s_seller=temp.substring(0, temp.indexOf(" "));
+						if (!temp.equals("All Sellers")) {
+							guiAssistant.s_seller=temp.substring(0, temp.indexOf(" "));
+						}
+						else {
+							guiAssistant.s_seller="";
+						}
 						System.out.println(guiAssistant.s_seller);
 					}
 				});

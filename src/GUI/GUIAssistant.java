@@ -33,6 +33,7 @@ public class GUIAssistant {
     String desc_inDescOrder;
     String ss;
     String useBuyerPrefs;
+    String inventoryFileName;
 	
 	public GUIAssistant() {
 	    urlBase = "https://www.shopgoodwill.com/Listings?";
@@ -61,6 +62,7 @@ public class GUIAssistant {
 	    desc_inDescOrder="false";
 	    ss="0";
 	    useBuyerPrefs="true";  
+	    inventoryFileName="";
 	}
 	
 	public String buildURL () {
@@ -97,5 +99,6 @@ public class GUIAssistant {
 		tempList.toArray(tempStringAry);
 		return tempStringAry;
 	}
+	
 	
 }

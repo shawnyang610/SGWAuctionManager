@@ -1,8 +1,10 @@
 package GUI;
 import javax.swing.JFrame;
 import Database.*;
+import IOManager.IOManager;
 import URL_Processor.Item2Data;
 import URL_Processor.OnlineSearch2ItemsList;
+import URL_Processor.URLBuilder;
 
 import javax.swing.JMenuBar;
 import java.awt.Dimension;
@@ -17,11 +19,14 @@ import javax.swing.ButtonGroup;
 import javax.swing.JButton;
 import java.awt.event.ActionListener;
 import java.io.FileNotFoundException;
+import java.io.FileReader;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Date;
+import java.util.Scanner;
+import java.util.regex.Pattern;
 import java.awt.event.ActionEvent;
 import java.awt.Font;
 import javax.swing.JTextField;
@@ -32,6 +37,8 @@ import java.awt.event.WindowEvent;
 import java.awt.event.ItemEvent;
 import java.awt.Scrollbar;
 import javax.swing.JComboBox;
+import javax.swing.JFileChooser;
+
 import java.awt.Button;
 import javax.swing.JMenu;
 import javax.swing.JCheckBoxMenuItem;
@@ -298,11 +305,15 @@ public class GUI extends JFrame {
 						else {
 							System.out.println("offline search");
 						//for off-line search
-							//step1
+							//step1 gather keywords for the search; item#, title, price, bids, seller, shipping, end date, last update.
 							
-							//step2
-							
-							//
+							//step2 search in the database, return a list that fufills all requirements of the search(title, price, seller... etc)
+							//step2.1 for title, get all list and match the keyword using regex, return all the list that has matching title.
+							//step2.2 return all list has matching price
+							//step2.3 return all list has matching bids
+							//step2.4 return all list has matching seller
+							//step2.5 return all list with specified ending date (by comparing end date and current date)
+							//step2.6 do an intersection of all steps from 2.1-2.5. return the list that survived
 						}
 					}
 				});
@@ -444,13 +455,109 @@ public class GUI extends JFrame {
 				gbc_progressBar.gridy = 7;
 				getContentPane().add(progressBar, gbc_progressBar);
 				
-				Button button_2 = new Button("Open Inv.");
-				GridBagConstraints gbc_button_2 = new GridBagConstraints();
-				gbc_button_2.fill = GridBagConstraints.HORIZONTAL;
-				gbc_button_2.insets = new Insets(0, 0, 5, 5);
-				gbc_button_2.gridx = 8;
-				gbc_button_2.gridy = 7;
-				getContentPane().add(button_2, gbc_button_2);
+				Button button_OpenInv = new Button("Open Inv.");
+				button_OpenInv.addActionListener(new ActionListener() {
+					public void actionPerformed(ActionEvent arg0) {
+						//step0
+						//step0.1 setup Jfilechooser to choose an input file
+						JFileChooser fc = new JFileChooser();
+						int response = fc.showOpenDialog(null);
+						if (response == JFileChooser.APPROVE_OPTION) {
+							guiAssistant.inventoryFileName=fc.getSelectedFile().toString();		
+						}
+						//step0.2:if filename not empty, open the file
+						if (!guiAssistant.inventoryFileName.equals("")){
+							Scanner infile=null;
+							String url;
+							ArrayList <String> returnedItemsList;
+							String[][] allReturnedDataEntries4Table = null;
+							ArrayList <String> itemDataList, itemImageNamesList;
+							ArrayList<ArrayList<String>> allReturnedList= new ArrayList<>();
+							try {
+								infile = new Scanner(new FileReader(guiAssistant.inventoryFileName));
+							} catch (IOException e) {
+								System.out.println("Problem opening selected file: "+guiAssistant.inventoryFileName+"error: "+e);
+							}
+							//step1: keywordsList <- read all keywords from input file (2nd data on every row, starting from 2nd row)
+							ArrayList<String> keywordsList;
+					        Pattern pattern = Pattern.compile("(?<=\\d{1,10}\\s\\|\\s)(.{0,50})(?=\\s\\|\\s\\d*\\s\\|.*\\|.*\\|.*)");//this pattern matches 2nd col. in input.txt
+					        keywordsList = IOManager.getKeywordsList(pattern,infile);
+							//step1 ends
+					        while (!keywordsList.isEmpty()) {
+					        	//step2, generate URL with each keyword read from step1
+					            url = URLBuilder.buildURL(keywordsList.get(0));
+					            keywordsList.remove(0);
+					            System.out.println(url);//debug use
+					        	
+					    		//step3 search shopgoodwill using the URL and analyze the returned page
+								//returnedItemList <-- get item#s for each item
+								OnlineSearch2ItemsList os2il = new OnlineSearch2ItemsList(url, outDebug);
+								try {
+									os2il.start();
+								} catch (IOException e1) {
+									System.out.println("Problem with OnlineSearch2ItemList.start() from inventory file select button");
+									e1.printStackTrace();
+								}
+								returnedItemsList = os2il.getItemsList();
+					            //for debugging
+					            for (String item:returnedItemsList) {
+					                System.out.println("returnedItemsList: "+item);
+					                outDebug.println("returnedItemsList: "+item);
+					            } //for debugging ends
+					            //dynamically allocate a string[][] for displaying data in table later
+					            //allReturnedDataEntries4Table = new String[returnedItemsList.size()][header.length];
+					            int counter=0;
+								for (String s:returnedItemsList) {
+									System.out.println("Getting data for item# "+s);
+									//step4 Data entry <-- data mine each item in the itemslist
+									Item2Data item2Data = new Item2Data(s, outDebug);
+									try {
+										item2Data.start(enableImage);
+									} catch (IOException e1) {
+										System.out.println("Problem with item2data.start() from online search button");
+										e1.printStackTrace();
+									}
+									itemDataList = item2Data.getItemDataList();
+									itemImageNamesList = item2Data.getItemImageNamesList();								
+									//step5 database <-- enter Data entry
+									   allReturnedList.add(itemDataList);//step5.1 gather all data entries to an list, so it can be used to display in table later
+						               CustomizedHashMap.appendList2Header(header, itemDataList);//give each element a header
+						               cusMap.putList(itemDataList);
+						               CustomizedHashMap.appendList2Header("ImagesForItemNum", itemImageNamesList);
+						               cusMap.putList(itemImageNamesList);
+									//step6 log <-- write to log
+						               logger.writeInfo("Write to database", itemDataList);
+						               logger.writeInfo("Save images to database", itemImageNamesList);
+									//step7 skip
+						               
+								}//step8 repeat step4,5,6 7until no more items in returndItemsList.
+					        }//while keywordlist is not empty
+					        //step9.0 convert list to String[][]
+					        allReturnedDataEntries4Table = new String[allReturnedList.size()][header.length];
+					        int counter=0;
+					        for (ArrayList<String> list: allReturnedList) {
+					        	allReturnedDataEntries4Table[counter++]= CHMAssistant.removeHeadersFromListThenToArray(header, list);
+					        }
+							//step9.1 table displays the result returned
+							int rowCount= myTableModel.getRowCount();
+							for (int i=0; i<rowCount;i++) {
+								myTableModel.removeRow(0);
+							}
+							for (int i=0; i<allReturnedDataEntries4Table.length;i++) {
+								myTableModel.addRow(allReturnedDataEntries4Table[i]);
+							}	
+						}
+					}
+					
+					
+					
+				});
+				GridBagConstraints gbc_button_OpenInv = new GridBagConstraints();
+				gbc_button_OpenInv.fill = GridBagConstraints.HORIZONTAL;
+				gbc_button_OpenInv.insets = new Insets(0, 0, 5, 5);
+				gbc_button_OpenInv.gridx = 8;
+				gbc_button_OpenInv.gridy = 7;
+				getContentPane().add(button_OpenInv, gbc_button_OpenInv);
 				
 				JCheckBox chckbxBuyItNow = new JCheckBox("Buy it now only");
 				chckbxBuyItNow.addChangeListener(new ChangeListener() {

@@ -5532,3 +5532,391 @@ ImagesForItemNum=46437933
 2017.12.05.03.31.08: Program exits.
 2017.12.05.03.38.27: New system session, Log starts here.
 2017.12.05.03.38.27: Program exits.
+2017.12.05.13.23.17: New system session, Log starts here.
+2017.12.05.13.23.17: Program exits.
+2017.12.05.14.14.47: New system session, Log starts here.
+2017.12.05.14.15.41: New system session, Log starts here.
+2017.12.05.14.15.41: Program exits.
+2017.12.05.14.22.16: New system session, Log starts here.
+2017.12.05.14.23.43: New system session, Log starts here.
+2017.12.05.14.24.08: New system session, Log starts here.
+2017.12.05.14.24.23: New system session, Log starts here.
+2017.12.05.15.31.34: New system session, Log starts here.
+2017.12.05.15.31.34: Program exits.
+2017.12.05.15.33.28: New system session, Log starts here.
+2017.12.05.15.33.28: Write to database
+ItemNumber=46436979 Title=Thomson Military Multi Rails Concepts BB Guns CurrentPrice=21.00 Num of Bids=5 Seller=Goodwill of Orange County Shipping=Estimate Shipping End Date=12/8/2017 7:14:00 PM Last Update=12/05/2017 15:33:51 PM 
+2017.12.05.15.33.28: Save images to database
+ImagesForItemNum=46436979 
+2017.12.05.15.33.28: Write to database
+ItemNumber=46437933 Title=2 .177 Caliber 4.5mm BB Guns CurrentPrice=4.99 Num of Bids=1 Seller= Shipping=Estimate Shipping End Date=12/9/2017 6:01:00 PM Last Update=12/05/2017 15:33:51 PM 
+2017.12.05.15.33.28: Save images to database
+ImagesForItemNum=46437933 
+2017.12.05.15.33.28: Write to database
+ItemNumber=46264646 Title=Black &amp; Decker U-153 Utility Jigsaw CurrentPrice=9.99 Num of Bids=0 Seller=Goodwill of Greater Grand Rapids Shipping=Estimate Shipping End Date=12/5/2017 6:00:00 PM Last Update=12/05/2017 15:35:04 PM 
+2017.12.05.15.33.28: Save images to database
+ImagesForItemNum=46264646 6431542209721es-thumb.jpg 4950481209721es-thumb.jpg 5240528209721es-thumb.jpg 1062128209721es-thumb.jpg 2321695209721es-thumb.jpg 3038996209721es-thumb.jpg 
+2017.12.05.15.33.28: Write to database
+ItemNumber=46234448 Title=Denver Broncos Jigsaw Puzzle CurrentPrice=9.99 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/5/2017 6:09:00 PM Last Update=12/05/2017 15:35:05 PM 
+2017.12.05.15.33.28: Save images to database
+ImagesForItemNum=46234448 16773622864139na-thumb.jpg 46170762864139na-thumb.jpg 47147102864139na-thumb.jpg 24351142864139na-thumb.jpg 41713652864139na-thumb.jpg 74106382864139na-thumb.jpg 
+2017.12.05.15.33.28: Write to database
+ItemNumber=46263517 Title=Springbok Star Trek 1000 Piece Jigsaw Puzzle NEW CurrentPrice=9.99 Num of Bids=1 Seller=Goodwill Industries of Northern Illinois Shipping=Estimate Shipping End Date=12/5/2017 6:30:00 PM Last Update=12/05/2017 15:35:07 PM 
+2017.12.05.15.33.28: Save images to database
+ImagesForItemNum=46263517 911556328123043d8-thumb.jpg 911521428123044d8-thumb.jpg 626012028123044d8-thumb.jpg 392193028123044d8-thumb.jpg 79001828123044d8-thumb.jpg 856725428123045d8-thumb.jpg 
+2017.12.05.15.33.28: Write to database
+ItemNumber=46235959 Title=Great Grey Owl Family Metalic Jigsaw Puzzle 550pc CurrentPrice=9.95 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/5/2017 7:00:00 PM Last Update=12/05/2017 15:35:08 PM 
+2017.12.05.15.33.28: Save images to database
+ImagesForItemNum=46235959 82429132123029it-thumb.jpg 
+2017.12.05.15.33.28: Write to database
+ItemNumber=46228531 Title=TWO &#39;STARWARS&quot; JIGSAW 140 PCS INTERLOCKING PUZZEL CurrentPrice=9.99 Num of Bids=1 Seller= Shipping=Estimate Shipping End Date=12/5/2017 7:13:00 PM Last Update=12/05/2017 15:35:08 PM 
+2017.12.05.15.33.28: Save images to database
+ImagesForItemNum=46228531 75951772861053wn-thumb.jpg 77579452861054wn-thumb.jpg 17577102861054wn-thumb.jpg 10340522861055wn-thumb.jpg 97162562861056wn-thumb.jpg 31899052861057wn-thumb.jpg 
+2017.12.05.15.33.28: Write to database
+ItemNumber=46337882 Title=Ryobi Variable Speed Jigsaw CurrentPrice=11.01 Num of Bids=2 Seller=Goodwill Industries of Greater New York and Northern New Jersey Shipping=Estimate Shipping End Date=12/5/2017 9:00:00 PM Last Update=12/05/2017 15:35:09 PM 
+2017.12.05.15.33.28: Save images to database
+ImagesForItemNum=46337882 994518330123136os-thumb.jpg 984427930123136os-thumb.jpg 373952130123136os-thumb.jpg 
+2017.12.05.15.33.28: Write to database
+ItemNumber=46290242 Title=Jigsaw Black Tote Bag Purse W/ Pearls Stones CurrentPrice=7.99 Num of Bids=0 Seller=Goodwill Industries of the Inland Northwest Shipping=Estimate Shipping End Date=12/6/2017 11:11:44 AM Last Update=12/05/2017 15:35:09 PM 
+2017.12.05.15.33.28: Save images to database
+ImagesForItemNum=46290242 378078629104917bs-thumb.jpg 354606229104917bs-thumb.jpg 256047529104917bs-thumb.jpg 87475029104917bs-thumb.jpg 735404329104918bs-thumb.jpg 351674829104918bs-thumb.jpg 
+2017.12.05.15.33.28: Write to database
+ItemNumber=46382357 Title=Old Disney&#39;s BAND CONCERT 3D Jigsaw Puzzle Cardbo CurrentPrice=21.99 Num of Bids=0 Seller=Gulfstream Goodwill Industries Shipping=Estimate Shipping End Date=12/6/2017 5:00:00 PM Last Update=12/05/2017 15:35:10 PM 
+2017.12.05.15.33.28: Save images to database
+ImagesForItemNum=46382357 9538384113856am-thumb.jpg 8379588113858am-thumb.jpg 4366047113859am-thumb.jpg 611843211391am-thumb.jpg 210837711393am-thumb.jpg 415441311394am-thumb.jpg 
+2017.12.05.15.33.28: Write to database
+ItemNumber=46282914 Title=Vintage Jigsaw &amp; Vintage Weller Sander Model 700 CurrentPrice=9.99 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/6/2017 6:30:00 PM Last Update=12/05/2017 15:35:11 PM 
+2017.12.05.15.33.28: Save images to database
+ImagesForItemNum=46282914 80135732983027id-thumb.jpg 95604662983027id-thumb.jpg 24017832983027id-thumb.jpg 13978212983027id-thumb.jpg 29448642983028id-thumb.jpg 88692262983028id-thumb.jpg 3225182983028id-thumb.jpg 83967242983028id-thumb.jpg 
+2017.12.05.15.33.28: Write to database
+ItemNumber=46367297 Title=Black and Decker 7552 Jigsaw CurrentPrice=9.99 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/6/2017 6:30:00 PM Last Update=12/05/2017 15:35:12 PM 
+2017.12.05.15.33.28: Save images to database
+ImagesForItemNum=46367297 8962975174539en-thumb.jpg 5198283174539en-thumb.jpg 4329884174539en-thumb.jpg 1714594174540en-thumb.jpg 
+2017.12.05.15.33.28: Write to database
+ItemNumber=46378061 Title=Thomas Kinkade 3 Full Size Jigsaw Puzzles NIB CurrentPrice=9.99 Num of Bids=1 Seller= Shipping=Estimate Shipping End Date=12/6/2017 6:30:00 PM Last Update=12/05/2017 15:35:13 PM 
+2017.12.05.15.33.28: Save images to database
+ImagesForItemNum=46378061 91097641112733ll-thumb.jpg 69762371112733ll-thumb.jpg 74127691112734ll-thumb.jpg 599311112734ll-thumb.jpg 79486781112735ll-thumb.jpg 35927371112735ll-thumb.jpg 
+2017.12.05.15.33.28: Write to database
+ItemNumber=46393470 Title=Cubic Fun, Big Ben 3-D Jigsaw Puzzle CurrentPrice=4.99 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/7/2017 6:00:00 PM Last Update=12/05/2017 15:35:14 PM 
+2017.12.05.15.33.28: Save images to database
+ImagesForItemNum=46393470 50049981542447kw-thumb.jpg 870471542448kw-thumb.jpg 54922981542448kw-thumb.jpg 41787351542448kw-thumb.jpg 50328761542449kw-thumb.jpg 
+2017.12.05.15.33.28: Write to database
+ItemNumber=46330794 Title=Star Wars BB-8 Jigsaw Puzzle 1000 Pieces NEW CurrentPrice=9.99 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/7/2017 6:13:00 PM Last Update=12/05/2017 15:35:15 PM 
+2017.12.05.15.33.28: Save images to database
+ImagesForItemNum=46330794 98499683092040wn-thumb.jpg 74372493092046wn-thumb.jpg 89338313092053wn-thumb.jpg 86567313092056wn-thumb.jpg 
+2017.12.05.15.33.28: Write to database
+ItemNumber=46340651 Title=Pomegranate Kids Charley Harper Jigsaw Puzzle CurrentPrice=7.99 Num of Bids=0 Seller=Discover Goodwill of Southern and Western Colorado Shipping=Estimate Shipping End Date=12/7/2017 7:19:00 PM Last Update=12/05/2017 15:35:15 PM 
+2017.12.05.15.33.28: Save images to database
+ImagesForItemNum=46340651 76401913014954er-thumb.jpg 43482163014954er-thumb.jpg 2467853014954er-thumb.jpg 91256343014954er-thumb.jpg 10083713014954er-thumb.jpg 49001103014954er-thumb.jpg 
+2017.12.05.15.33.28: Write to database
+ItemNumber=46398506 Title=1989 Bat Man 200 Piee Jigsaw Puzzle CurrentPrice=4.99 Num of Bids=0 Seller=Goodwill Industries of Greater New York and Northern New Jersey Shipping=Estimate Shipping End Date=12/7/2017 9:00:00 PM Last Update=12/05/2017 15:35:16 PM 
+2017.12.05.15.33.28: Save images to database
+ImagesForItemNum=46398506 432582925134543in-thumb.jpg 972892325134543in-thumb.jpg 
+2017.12.05.15.33.28: Write to database
+ItemNumber=46379166 Title=New John Deere Jigsaw Puzzle and Playing Cards CurrentPrice=4.50 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/8/2017 11:49:36 AM Last Update=12/05/2017 15:35:17 PM 
+2017.12.05.15.33.28: Save images to database
+ImagesForItemNum=46379166 9484063992850on-thumb.jpg 1118847992850on-thumb.jpg 7874958992851on-thumb.jpg 2420923992851on-thumb.jpg 
+2017.12.05.15.33.28: Write to database
+ItemNumber=46392720 Title=GMC 6 Amp Jigsaw W/ Case R700UL CurrentPrice=6.99 Num of Bids=0 Seller=Land of Lincoln Goodwill Shipping=Estimate Shipping End Date=12/8/2017 7:00:00 PM Last Update=12/05/2017 15:35:18 PM 
+2017.12.05.15.33.28: Save images to database
+ImagesForItemNum=46392720 925411324112217rB-thumb.jpg 904868624112217rB-thumb.jpg 868626824112217rB-thumb.jpg 468364924112218rB-thumb.jpg 
+2017.12.05.15.33.28: Write to database
+ItemNumber=46371310 Title=Masterforce 18V Jigsaw Tool CurrentPrice=9.99 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/8/2017 7:37:00 PM Last Update=12/05/2017 15:35:18 PM 
+2017.12.05.15.33.28: Save images to database
+ImagesForItemNum=46371310 3078881193453en-thumb.jpg 2455364193454en-thumb.jpg 6024372193454en-thumb.jpg 2929193193454en-thumb.jpg 4188760193454en-thumb.jpg 8021905193454en-thumb.jpg 
+2017.12.05.15.33.28: Write to database
+ItemNumber=46442294 Title=550 Pc Collector’s Series #2 Jigsaw Puzzle 18x24&quot; CurrentPrice=7.99 Num of Bids=0 Seller=Goodwill Industries of Central Florida Shipping=Estimate Shipping End Date=12/9/2017 5:00:00 PM Last Update=12/05/2017 15:35:19 PM 
+2017.12.05.15.33.28: Save images to database
+ImagesForItemNum=46442294 475978920123315nd-thumb.jpg 828579020123318nd-thumb.jpg 97805120123320nd-thumb.jpg 696743120123323nd-thumb.jpg 
+2017.12.05.15.33.28: Write to database
+ItemNumber=46430659 Title=Jigsaw Crush Velvet Crop Jacket Sz 12 CurrentPrice=7.99 Num of Bids=0 Seller=Goodwill of North Florida Shipping=Estimate Shipping End Date=12/9/2017 7:00:00 PM Last Update=12/05/2017 15:35:19 PM 
+2017.12.05.15.33.28: Save images to database
+ImagesForItemNum=46430659 1350170111292dy-thumb.jpg 6825219111291dy-thumb.jpg 5943806111292dy-thumb.jpg 
+2017.12.05.15.33.28: Write to database
+ItemNumber=46470848 Title=Signature Collection The Dolomites Jigsaw Puzzle CurrentPrice=8.99 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/10/2017 5:05:00 AM Last Update=12/05/2017 15:35:20 PM 
+2017.12.05.15.33.28: Save images to database
+ImagesForItemNum=46470848 797176465146ks-thumb.jpg 947272865146ks-thumb.jpg 502843165146ks-thumb.jpg 131008365146ks-thumb.jpg 709494965146ks-thumb.jpg 
+2017.12.05.15.33.28: Write to database
+ItemNumber=46470849 Title=Water for Lizzie 550 Piece Jigsaw Puzzle CurrentPrice=8.99 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/10/2017 7:01:00 AM Last Update=12/05/2017 15:35:21 PM 
+2017.12.05.15.33.28: Save images to database
+ImagesForItemNum=46470849 7488213665528ks-thumb.jpg 427929665528ks-thumb.jpg 7008259665528ks-thumb.jpg 5962335665528ks-thumb.jpg 
+2017.12.05.15.33.28: Write to database
+ItemNumber=46470851 Title=Eurographics Elvis 1000 Piece Jigsaw Puzzle CurrentPrice=8.99 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/10/2017 8:21:00 AM Last Update=12/05/2017 15:35:21 PM 
+2017.12.05.15.33.28: Save images to database
+ImagesForItemNum=46470851 6552087681710ks-thumb.jpg 3230815681710ks-thumb.jpg 1057484681710ks-thumb.jpg 2341120681710ks-thumb.jpg 
+2017.12.05.15.33.28: Write to database
+ItemNumber=46471074 Title=Buffalo Games Vegas, Baby! Jigsaw Puzzle CurrentPrice=8.99 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/10/2017 12:17:00 PM Last Update=12/05/2017 15:35:22 PM 
+2017.12.05.15.33.28: Save images to database
+ImagesForItemNum=46471074 63393795121334ks-thumb.jpg 13243825121335ks-thumb.jpg 16144305121335ks-thumb.jpg 68421575121335ks-thumb.jpg 74785555121335ks-thumb.jpg 
+2017.12.05.15.33.28: Write to database
+ItemNumber=46447600 Title=NEW Flutterby Jigsaw Puzzle CurrentPrice=6.99 Num of Bids=0 Seller=Land of Lincoln Goodwill Shipping= End Date=12/11/2017 7:15:00 PM Last Update=12/05/2017 15:35:23 PM 
+2017.12.05.15.33.28: Save images to database
+ImagesForItemNum=46447600 65971004133636rD-thumb.jpg 63623764133636rD-thumb.jpg 
+2017.12.05.15.33.28: Write to database
+ItemNumber=46478841 Title=Vintage Michael Jackson Jigsaw Puzzle Sealed CurrentPrice=3.99 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/12/2017 8:42:00 AM Last Update=12/05/2017 15:35:23 PM 
+2017.12.05.15.33.28: Save images to database
+ImagesForItemNum=46478841 627742867245th-thumb.jpg 414390167245th-thumb.jpg 481480867246th-thumb.jpg 986675467246th-thumb.jpg 456443267247th-thumb.jpg 
+2017.12.05.15.33.28: Write to database
+ItemNumber=46482066 Title=Vintage Jigsaw Puzzle CurrentPrice=5.99 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/12/2017 9:23:47 AM Last Update=12/05/2017 15:35:24 PM 
+2017.12.05.15.33.28: Save images to database
+ImagesForItemNum=46482066 10429012875333on-thumb.jpg 30292472875334on-thumb.jpg 59291572875334on-thumb.jpg 84591302875334on-thumb.jpg 
+2017.12.05.15.33.28: Write to database
+ItemNumber=46482067 Title=Vintage Guild Jigsaw Puzzle CurrentPrice=5.99 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/12/2017 9:23:48 AM Last Update=12/05/2017 15:35:25 PM 
+2017.12.05.15.33.28: Save images to database
+ImagesForItemNum=46482067 41636282875711on-thumb.jpg 56519272875711on-thumb.jpg 86856572875711on-thumb.jpg 85630432875712on-thumb.jpg 
+2017.12.05.15.33.28: Write to database
+ItemNumber=46482069 Title=Vintage Guild Jigsaw Puzzle CurrentPrice=5.99 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/12/2017 9:23:48 AM Last Update=12/05/2017 15:35:26 PM 
+2017.12.05.15.33.28: Save images to database
+ImagesForItemNum=46482069 13827142875913on-thumb.jpg 29003102875913on-thumb.jpg 33495072875914on-thumb.jpg 86065302875914on-thumb.jpg 
+2017.12.05.15.40.10: New system session, Log starts here.
+2017.12.05.15.40.10: Write to database
+ItemNumber=46264646 Title=Black &amp; Decker U-153 Utility Jigsaw CurrentPrice=9.99 Num of Bids=0 Seller=Goodwill of Greater Grand Rapids Shipping=Estimate Shipping End Date=12/5/2017 6:00:00 PM Last Update=12/05/2017 15:40:23 PM 
+2017.12.05.15.40.10: Save images to database
+ImagesForItemNum=46264646 6431542209721es-thumb.jpg 4950481209721es-thumb.jpg 5240528209721es-thumb.jpg 1062128209721es-thumb.jpg 2321695209721es-thumb.jpg 3038996209721es-thumb.jpg 
+2017.12.05.15.40.10: Write to database
+ItemNumber=46234448 Title=Denver Broncos Jigsaw Puzzle CurrentPrice=9.99 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/5/2017 6:09:00 PM Last Update=12/05/2017 15:40:24 PM 
+2017.12.05.15.40.10: Save images to database
+ImagesForItemNum=46234448 16773622864139na-thumb.jpg 46170762864139na-thumb.jpg 47147102864139na-thumb.jpg 24351142864139na-thumb.jpg 41713652864139na-thumb.jpg 74106382864139na-thumb.jpg 
+2017.12.05.15.40.10: Write to database
+ItemNumber=46263517 Title=Springbok Star Trek 1000 Piece Jigsaw Puzzle NEW CurrentPrice=9.99 Num of Bids=1 Seller=Goodwill Industries of Northern Illinois Shipping=Estimate Shipping End Date=12/5/2017 6:30:00 PM Last Update=12/05/2017 15:40:24 PM 
+2017.12.05.15.40.10: Save images to database
+ImagesForItemNum=46263517 911556328123043d8-thumb.jpg 911521428123044d8-thumb.jpg 626012028123044d8-thumb.jpg 392193028123044d8-thumb.jpg 79001828123044d8-thumb.jpg 856725428123045d8-thumb.jpg 
+2017.12.05.15.40.10: Write to database
+ItemNumber=46235959 Title=Great Grey Owl Family Metalic Jigsaw Puzzle 550pc CurrentPrice=9.95 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/5/2017 7:00:00 PM Last Update=12/05/2017 15:40:25 PM 
+2017.12.05.15.40.10: Save images to database
+ImagesForItemNum=46235959 82429132123029it-thumb.jpg 
+2017.12.05.15.40.10: Write to database
+ItemNumber=46228531 Title=TWO &#39;STARWARS&quot; JIGSAW 140 PCS INTERLOCKING PUZZEL CurrentPrice=9.99 Num of Bids=1 Seller= Shipping=Estimate Shipping End Date=12/5/2017 7:13:00 PM Last Update=12/05/2017 15:40:26 PM 
+2017.12.05.15.40.10: Save images to database
+ImagesForItemNum=46228531 75951772861053wn-thumb.jpg 77579452861054wn-thumb.jpg 17577102861054wn-thumb.jpg 10340522861055wn-thumb.jpg 97162562861056wn-thumb.jpg 31899052861057wn-thumb.jpg 
+2017.12.05.15.40.10: Write to database
+ItemNumber=46337882 Title=Ryobi Variable Speed Jigsaw CurrentPrice=11.01 Num of Bids=2 Seller=Goodwill Industries of Greater New York and Northern New Jersey Shipping=Estimate Shipping End Date=12/5/2017 9:00:00 PM Last Update=12/05/2017 15:40:26 PM 
+2017.12.05.15.40.10: Save images to database
+ImagesForItemNum=46337882 994518330123136os-thumb.jpg 984427930123136os-thumb.jpg 373952130123136os-thumb.jpg 
+2017.12.05.15.40.10: Write to database
+ItemNumber=46290242 Title=Jigsaw Black Tote Bag Purse W/ Pearls Stones CurrentPrice=7.99 Num of Bids=0 Seller=Goodwill Industries of the Inland Northwest Shipping=Estimate Shipping End Date=12/6/2017 11:11:44 AM Last Update=12/05/2017 15:40:27 PM 
+2017.12.05.15.40.10: Save images to database
+ImagesForItemNum=46290242 378078629104917bs-thumb.jpg 354606229104917bs-thumb.jpg 256047529104917bs-thumb.jpg 87475029104917bs-thumb.jpg 735404329104918bs-thumb.jpg 351674829104918bs-thumb.jpg 
+2017.12.05.15.40.10: Write to database
+ItemNumber=46382357 Title=Old Disney&#39;s BAND CONCERT 3D Jigsaw Puzzle Cardbo CurrentPrice=21.99 Num of Bids=0 Seller=Gulfstream Goodwill Industries Shipping=Estimate Shipping End Date=12/6/2017 5:00:00 PM Last Update=12/05/2017 15:40:27 PM 
+2017.12.05.15.40.10: Save images to database
+ImagesForItemNum=46382357 9538384113856am-thumb.jpg 8379588113858am-thumb.jpg 4366047113859am-thumb.jpg 611843211391am-thumb.jpg 210837711393am-thumb.jpg 415441311394am-thumb.jpg 
+2017.12.05.15.40.10: Write to database
+ItemNumber=46282914 Title=Vintage Jigsaw &amp; Vintage Weller Sander Model 700 CurrentPrice=9.99 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/6/2017 6:30:00 PM Last Update=12/05/2017 15:40:28 PM 
+2017.12.05.15.40.10: Save images to database
+ImagesForItemNum=46282914 80135732983027id-thumb.jpg 95604662983027id-thumb.jpg 24017832983027id-thumb.jpg 13978212983027id-thumb.jpg 29448642983028id-thumb.jpg 88692262983028id-thumb.jpg 3225182983028id-thumb.jpg 83967242983028id-thumb.jpg 
+2017.12.05.15.40.10: Write to database
+ItemNumber=46367297 Title=Black and Decker 7552 Jigsaw CurrentPrice=9.99 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/6/2017 6:30:00 PM Last Update=12/05/2017 15:40:28 PM 
+2017.12.05.15.40.10: Save images to database
+ImagesForItemNum=46367297 8962975174539en-thumb.jpg 5198283174539en-thumb.jpg 4329884174539en-thumb.jpg 1714594174540en-thumb.jpg 
+2017.12.05.15.40.10: Write to database
+ItemNumber=46378061 Title=Thomas Kinkade 3 Full Size Jigsaw Puzzles NIB CurrentPrice=9.99 Num of Bids=1 Seller= Shipping=Estimate Shipping End Date=12/6/2017 6:30:00 PM Last Update=12/05/2017 15:40:29 PM 
+2017.12.05.15.40.10: Save images to database
+ImagesForItemNum=46378061 91097641112733ll-thumb.jpg 69762371112733ll-thumb.jpg 74127691112734ll-thumb.jpg 599311112734ll-thumb.jpg 79486781112735ll-thumb.jpg 35927371112735ll-thumb.jpg 
+2017.12.05.15.40.10: Write to database
+ItemNumber=46393470 Title=Cubic Fun, Big Ben 3-D Jigsaw Puzzle CurrentPrice=4.99 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/7/2017 6:00:00 PM Last Update=12/05/2017 15:40:30 PM 
+2017.12.05.15.40.10: Save images to database
+ImagesForItemNum=46393470 50049981542447kw-thumb.jpg 870471542448kw-thumb.jpg 54922981542448kw-thumb.jpg 41787351542448kw-thumb.jpg 50328761542449kw-thumb.jpg 
+2017.12.05.15.40.10: Write to database
+ItemNumber=46330794 Title=Star Wars BB-8 Jigsaw Puzzle 1000 Pieces NEW CurrentPrice=9.99 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/7/2017 6:13:00 PM Last Update=12/05/2017 15:40:31 PM 
+2017.12.05.15.40.10: Save images to database
+ImagesForItemNum=46330794 98499683092040wn-thumb.jpg 74372493092046wn-thumb.jpg 89338313092053wn-thumb.jpg 86567313092056wn-thumb.jpg 
+2017.12.05.15.40.10: Write to database
+ItemNumber=46340651 Title=Pomegranate Kids Charley Harper Jigsaw Puzzle CurrentPrice=7.99 Num of Bids=0 Seller=Discover Goodwill of Southern and Western Colorado Shipping=Estimate Shipping End Date=12/7/2017 7:19:00 PM Last Update=12/05/2017 15:40:32 PM 
+2017.12.05.15.40.10: Save images to database
+ImagesForItemNum=46340651 76401913014954er-thumb.jpg 43482163014954er-thumb.jpg 2467853014954er-thumb.jpg 91256343014954er-thumb.jpg 10083713014954er-thumb.jpg 49001103014954er-thumb.jpg 
+2017.12.05.15.40.10: Write to database
+ItemNumber=46398506 Title=1989 Bat Man 200 Piee Jigsaw Puzzle CurrentPrice=4.99 Num of Bids=0 Seller=Goodwill Industries of Greater New York and Northern New Jersey Shipping=Estimate Shipping End Date=12/7/2017 9:00:00 PM Last Update=12/05/2017 15:40:32 PM 
+2017.12.05.15.40.10: Save images to database
+ImagesForItemNum=46398506 432582925134543in-thumb.jpg 972892325134543in-thumb.jpg 
+2017.12.05.15.40.10: Write to database
+ItemNumber=46379166 Title=New John Deere Jigsaw Puzzle and Playing Cards CurrentPrice=4.50 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/8/2017 11:49:36 AM Last Update=12/05/2017 15:40:33 PM 
+2017.12.05.15.40.10: Save images to database
+ImagesForItemNum=46379166 9484063992850on-thumb.jpg 1118847992850on-thumb.jpg 7874958992851on-thumb.jpg 2420923992851on-thumb.jpg 
+2017.12.05.15.40.10: Write to database
+ItemNumber=46392720 Title=GMC 6 Amp Jigsaw W/ Case R700UL CurrentPrice=6.99 Num of Bids=0 Seller=Land of Lincoln Goodwill Shipping=Estimate Shipping End Date=12/8/2017 7:00:00 PM Last Update=12/05/2017 15:40:33 PM 
+2017.12.05.15.40.10: Save images to database
+ImagesForItemNum=46392720 925411324112217rB-thumb.jpg 904868624112217rB-thumb.jpg 868626824112217rB-thumb.jpg 468364924112218rB-thumb.jpg 
+2017.12.05.15.40.10: Write to database
+ItemNumber=46371310 Title=Masterforce 18V Jigsaw Tool CurrentPrice=9.99 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/8/2017 7:37:00 PM Last Update=12/05/2017 15:40:34 PM 
+2017.12.05.15.40.10: Save images to database
+ImagesForItemNum=46371310 3078881193453en-thumb.jpg 2455364193454en-thumb.jpg 6024372193454en-thumb.jpg 2929193193454en-thumb.jpg 4188760193454en-thumb.jpg 8021905193454en-thumb.jpg 
+2017.12.05.15.40.10: Write to database
+ItemNumber=46442294 Title=550 Pc Collector’s Series #2 Jigsaw Puzzle 18x24&quot; CurrentPrice=7.99 Num of Bids=0 Seller=Goodwill Industries of Central Florida Shipping=Estimate Shipping End Date=12/9/2017 5:00:00 PM Last Update=12/05/2017 15:40:34 PM 
+2017.12.05.15.40.10: Save images to database
+ImagesForItemNum=46442294 475978920123315nd-thumb.jpg 828579020123318nd-thumb.jpg 97805120123320nd-thumb.jpg 696743120123323nd-thumb.jpg 
+2017.12.05.15.40.10: Write to database
+ItemNumber=46430659 Title=Jigsaw Crush Velvet Crop Jacket Sz 12 CurrentPrice=7.99 Num of Bids=0 Seller=Goodwill of North Florida Shipping=Estimate Shipping End Date=12/9/2017 7:00:00 PM Last Update=12/05/2017 15:40:35 PM 
+2017.12.05.15.40.10: Save images to database
+ImagesForItemNum=46430659 1350170111292dy-thumb.jpg 6825219111291dy-thumb.jpg 5943806111292dy-thumb.jpg 
+2017.12.05.15.40.10: Write to database
+ItemNumber=46470848 Title=Signature Collection The Dolomites Jigsaw Puzzle CurrentPrice=8.99 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/10/2017 5:05:00 AM Last Update=12/05/2017 15:40:36 PM 
+2017.12.05.15.40.10: Save images to database
+ImagesForItemNum=46470848 797176465146ks-thumb.jpg 947272865146ks-thumb.jpg 502843165146ks-thumb.jpg 131008365146ks-thumb.jpg 709494965146ks-thumb.jpg 
+2017.12.05.15.40.10: Write to database
+ItemNumber=46470849 Title=Water for Lizzie 550 Piece Jigsaw Puzzle CurrentPrice=8.99 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/10/2017 7:01:00 AM Last Update=12/05/2017 15:40:36 PM 
+2017.12.05.15.40.10: Save images to database
+ImagesForItemNum=46470849 7488213665528ks-thumb.jpg 427929665528ks-thumb.jpg 7008259665528ks-thumb.jpg 5962335665528ks-thumb.jpg 
+2017.12.05.15.40.10: Write to database
+ItemNumber=46470851 Title=Eurographics Elvis 1000 Piece Jigsaw Puzzle CurrentPrice=8.99 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/10/2017 8:21:00 AM Last Update=12/05/2017 15:40:37 PM 
+2017.12.05.15.40.10: Save images to database
+ImagesForItemNum=46470851 6552087681710ks-thumb.jpg 3230815681710ks-thumb.jpg 1057484681710ks-thumb.jpg 2341120681710ks-thumb.jpg 
+2017.12.05.15.40.10: Write to database
+ItemNumber=46471074 Title=Buffalo Games Vegas, Baby! Jigsaw Puzzle CurrentPrice=8.99 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/10/2017 12:17:00 PM Last Update=12/05/2017 15:40:38 PM 
+2017.12.05.15.40.10: Save images to database
+ImagesForItemNum=46471074 63393795121334ks-thumb.jpg 13243825121335ks-thumb.jpg 16144305121335ks-thumb.jpg 68421575121335ks-thumb.jpg 74785555121335ks-thumb.jpg 
+2017.12.05.15.40.10: Write to database
+ItemNumber=46447600 Title=NEW Flutterby Jigsaw Puzzle CurrentPrice=6.99 Num of Bids=0 Seller=Land of Lincoln Goodwill Shipping= End Date=12/11/2017 7:15:00 PM Last Update=12/05/2017 15:40:38 PM 
+2017.12.05.15.40.10: Save images to database
+ImagesForItemNum=46447600 65971004133636rD-thumb.jpg 63623764133636rD-thumb.jpg 
+2017.12.05.15.40.10: Write to database
+ItemNumber=46478841 Title=Vintage Michael Jackson Jigsaw Puzzle Sealed CurrentPrice=3.99 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/12/2017 8:42:00 AM Last Update=12/05/2017 15:40:39 PM 
+2017.12.05.15.40.10: Save images to database
+ImagesForItemNum=46478841 627742867245th-thumb.jpg 414390167245th-thumb.jpg 481480867246th-thumb.jpg 986675467246th-thumb.jpg 456443267247th-thumb.jpg 
+2017.12.05.15.40.10: Write to database
+ItemNumber=46482066 Title=Vintage Jigsaw Puzzle CurrentPrice=5.99 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/12/2017 9:23:47 AM Last Update=12/05/2017 15:40:40 PM 
+2017.12.05.15.40.10: Save images to database
+ImagesForItemNum=46482066 10429012875333on-thumb.jpg 30292472875334on-thumb.jpg 59291572875334on-thumb.jpg 84591302875334on-thumb.jpg 
+2017.12.05.15.40.10: Write to database
+ItemNumber=46482067 Title=Vintage Guild Jigsaw Puzzle CurrentPrice=5.99 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/12/2017 9:23:48 AM Last Update=12/05/2017 15:40:40 PM 
+2017.12.05.15.40.10: Save images to database
+ImagesForItemNum=46482067 41636282875711on-thumb.jpg 56519272875711on-thumb.jpg 86856572875711on-thumb.jpg 85630432875712on-thumb.jpg 
+2017.12.05.15.40.10: Write to database
+ItemNumber=46482069 Title=Vintage Guild Jigsaw Puzzle CurrentPrice=5.99 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/12/2017 9:23:48 AM Last Update=12/05/2017 15:40:41 PM 
+2017.12.05.15.40.10: Save images to database
+ImagesForItemNum=46482069 13827142875913on-thumb.jpg 29003102875913on-thumb.jpg 33495072875914on-thumb.jpg 86065302875914on-thumb.jpg 
+2017.12.05.15.41.07: New system session, Log starts here.
+2017.12.05.15.41.07: Program exits.
+2017.12.05.15.43.22: New system session, Log starts here.
+2017.12.05.15.43.22: Write to database
+ItemNumber=46264646 Title=Black &amp; Decker U-153 Utility Jigsaw CurrentPrice=9.99 Num of Bids=0 Seller=Goodwill of Greater Grand Rapids Shipping=Estimate Shipping End Date=12/5/2017 6:00:00 PM Last Update=12/05/2017 15:43:36 PM 
+2017.12.05.15.43.22: Save images to database
+ImagesForItemNum=46264646 6431542209721es-thumb.jpg 4950481209721es-thumb.jpg 5240528209721es-thumb.jpg 1062128209721es-thumb.jpg 2321695209721es-thumb.jpg 3038996209721es-thumb.jpg 
+2017.12.05.15.43.22: Write to database
+ItemNumber=46234448 Title=Denver Broncos Jigsaw Puzzle CurrentPrice=9.99 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/5/2017 6:09:00 PM Last Update=12/05/2017 15:43:36 PM 
+2017.12.05.15.43.22: Save images to database
+ImagesForItemNum=46234448 16773622864139na-thumb.jpg 46170762864139na-thumb.jpg 47147102864139na-thumb.jpg 24351142864139na-thumb.jpg 41713652864139na-thumb.jpg 74106382864139na-thumb.jpg 
+2017.12.05.15.43.22: Write to database
+ItemNumber=46263517 Title=Springbok Star Trek 1000 Piece Jigsaw Puzzle NEW CurrentPrice=9.99 Num of Bids=1 Seller=Goodwill Industries of Northern Illinois Shipping=Estimate Shipping End Date=12/5/2017 6:30:00 PM Last Update=12/05/2017 15:43:37 PM 
+2017.12.05.15.43.22: Save images to database
+ImagesForItemNum=46263517 911556328123043d8-thumb.jpg 911521428123044d8-thumb.jpg 626012028123044d8-thumb.jpg 392193028123044d8-thumb.jpg 79001828123044d8-thumb.jpg 856725428123045d8-thumb.jpg 
+2017.12.05.15.43.22: Write to database
+ItemNumber=46235959 Title=Great Grey Owl Family Metalic Jigsaw Puzzle 550pc CurrentPrice=9.95 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/5/2017 7:00:00 PM Last Update=12/05/2017 15:43:37 PM 
+2017.12.05.15.43.22: Save images to database
+ImagesForItemNum=46235959 82429132123029it-thumb.jpg 
+2017.12.05.15.43.22: Write to database
+ItemNumber=46228531 Title=TWO &#39;STARWARS&quot; JIGSAW 140 PCS INTERLOCKING PUZZEL CurrentPrice=9.99 Num of Bids=1 Seller= Shipping=Estimate Shipping End Date=12/5/2017 7:13:00 PM Last Update=12/05/2017 15:43:38 PM 
+2017.12.05.15.43.22: Save images to database
+ImagesForItemNum=46228531 75951772861053wn-thumb.jpg 77579452861054wn-thumb.jpg 17577102861054wn-thumb.jpg 10340522861055wn-thumb.jpg 97162562861056wn-thumb.jpg 31899052861057wn-thumb.jpg 
+2017.12.05.15.43.22: Write to database
+ItemNumber=46337882 Title=Ryobi Variable Speed Jigsaw CurrentPrice=11.01 Num of Bids=2 Seller=Goodwill Industries of Greater New York and Northern New Jersey Shipping=Estimate Shipping End Date=12/5/2017 9:00:00 PM Last Update=12/05/2017 15:43:39 PM 
+2017.12.05.15.43.22: Save images to database
+ImagesForItemNum=46337882 994518330123136os-thumb.jpg 984427930123136os-thumb.jpg 373952130123136os-thumb.jpg 
+2017.12.05.15.43.22: Write to database
+ItemNumber=46290242 Title=Jigsaw Black Tote Bag Purse W/ Pearls Stones CurrentPrice=7.99 Num of Bids=0 Seller=Goodwill Industries of the Inland Northwest Shipping=Estimate Shipping End Date=12/6/2017 11:11:44 AM Last Update=12/05/2017 15:43:39 PM 
+2017.12.05.15.43.22: Save images to database
+ImagesForItemNum=46290242 378078629104917bs-thumb.jpg 354606229104917bs-thumb.jpg 256047529104917bs-thumb.jpg 87475029104917bs-thumb.jpg 735404329104918bs-thumb.jpg 351674829104918bs-thumb.jpg 
+2017.12.05.15.43.22: Write to database
+ItemNumber=46382357 Title=Old Disney&#39;s BAND CONCERT 3D Jigsaw Puzzle Cardbo CurrentPrice=21.99 Num of Bids=0 Seller=Gulfstream Goodwill Industries Shipping=Estimate Shipping End Date=12/6/2017 5:00:00 PM Last Update=12/05/2017 15:43:40 PM 
+2017.12.05.15.43.22: Save images to database
+ImagesForItemNum=46382357 9538384113856am-thumb.jpg 8379588113858am-thumb.jpg 4366047113859am-thumb.jpg 611843211391am-thumb.jpg 210837711393am-thumb.jpg 415441311394am-thumb.jpg 
+2017.12.05.15.43.22: Write to database
+ItemNumber=46282914 Title=Vintage Jigsaw &amp; Vintage Weller Sander Model 700 CurrentPrice=9.99 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/6/2017 6:30:00 PM Last Update=12/05/2017 15:43:40 PM 
+2017.12.05.15.43.22: Save images to database
+ImagesForItemNum=46282914 80135732983027id-thumb.jpg 95604662983027id-thumb.jpg 24017832983027id-thumb.jpg 13978212983027id-thumb.jpg 29448642983028id-thumb.jpg 88692262983028id-thumb.jpg 3225182983028id-thumb.jpg 83967242983028id-thumb.jpg 
+2017.12.05.15.43.22: Write to database
+ItemNumber=46367297 Title=Black and Decker 7552 Jigsaw CurrentPrice=9.99 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/6/2017 6:30:00 PM Last Update=12/05/2017 15:43:41 PM 
+2017.12.05.15.43.22: Save images to database
+ImagesForItemNum=46367297 8962975174539en-thumb.jpg 5198283174539en-thumb.jpg 4329884174539en-thumb.jpg 1714594174540en-thumb.jpg 
+2017.12.05.15.43.22: Write to database
+ItemNumber=46378061 Title=Thomas Kinkade 3 Full Size Jigsaw Puzzles NIB CurrentPrice=9.99 Num of Bids=1 Seller= Shipping=Estimate Shipping End Date=12/6/2017 6:30:00 PM Last Update=12/05/2017 15:43:41 PM 
+2017.12.05.15.43.22: Save images to database
+ImagesForItemNum=46378061 91097641112733ll-thumb.jpg 69762371112733ll-thumb.jpg 74127691112734ll-thumb.jpg 599311112734ll-thumb.jpg 79486781112735ll-thumb.jpg 35927371112735ll-thumb.jpg 
+2017.12.05.15.43.22: Write to database
+ItemNumber=46393470 Title=Cubic Fun, Big Ben 3-D Jigsaw Puzzle CurrentPrice=4.99 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/7/2017 6:00:00 PM Last Update=12/05/2017 15:43:42 PM 
+2017.12.05.15.43.22: Save images to database
+ImagesForItemNum=46393470 50049981542447kw-thumb.jpg 870471542448kw-thumb.jpg 54922981542448kw-thumb.jpg 41787351542448kw-thumb.jpg 50328761542449kw-thumb.jpg 
+2017.12.05.15.43.22: Write to database
+ItemNumber=46330794 Title=Star Wars BB-8 Jigsaw Puzzle 1000 Pieces NEW CurrentPrice=9.99 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/7/2017 6:13:00 PM Last Update=12/05/2017 15:43:42 PM 
+2017.12.05.15.43.22: Save images to database
+ImagesForItemNum=46330794 98499683092040wn-thumb.jpg 74372493092046wn-thumb.jpg 89338313092053wn-thumb.jpg 86567313092056wn-thumb.jpg 
+2017.12.05.15.43.22: Write to database
+ItemNumber=46340651 Title=Pomegranate Kids Charley Harper Jigsaw Puzzle CurrentPrice=7.99 Num of Bids=0 Seller=Discover Goodwill of Southern and Western Colorado Shipping=Estimate Shipping End Date=12/7/2017 7:19:00 PM Last Update=12/05/2017 15:43:43 PM 
+2017.12.05.15.43.22: Save images to database
+ImagesForItemNum=46340651 76401913014954er-thumb.jpg 43482163014954er-thumb.jpg 2467853014954er-thumb.jpg 91256343014954er-thumb.jpg 10083713014954er-thumb.jpg 49001103014954er-thumb.jpg 
+2017.12.05.15.43.22: Write to database
+ItemNumber=46398506 Title=1989 Bat Man 200 Piee Jigsaw Puzzle CurrentPrice=4.99 Num of Bids=0 Seller=Goodwill Industries of Greater New York and Northern New Jersey Shipping=Estimate Shipping End Date=12/7/2017 9:00:00 PM Last Update=12/05/2017 15:43:43 PM 
+2017.12.05.15.43.22: Save images to database
+ImagesForItemNum=46398506 432582925134543in-thumb.jpg 972892325134543in-thumb.jpg 
+2017.12.05.15.43.22: Write to database
+ItemNumber=46379166 Title=New John Deere Jigsaw Puzzle and Playing Cards CurrentPrice=4.50 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/8/2017 11:49:36 AM Last Update=12/05/2017 15:43:43 PM 
+2017.12.05.15.43.22: Save images to database
+ImagesForItemNum=46379166 9484063992850on-thumb.jpg 1118847992850on-thumb.jpg 7874958992851on-thumb.jpg 2420923992851on-thumb.jpg 
+2017.12.05.15.43.22: Write to database
+ItemNumber=46392720 Title=GMC 6 Amp Jigsaw W/ Case R700UL CurrentPrice=6.99 Num of Bids=0 Seller=Land of Lincoln Goodwill Shipping=Estimate Shipping End Date=12/8/2017 7:00:00 PM Last Update=12/05/2017 15:43:44 PM 
+2017.12.05.15.43.22: Save images to database
+ImagesForItemNum=46392720 925411324112217rB-thumb.jpg 904868624112217rB-thumb.jpg 868626824112217rB-thumb.jpg 468364924112218rB-thumb.jpg 
+2017.12.05.15.43.22: Write to database
+ItemNumber=46371310 Title=Masterforce 18V Jigsaw Tool CurrentPrice=9.99 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/8/2017 7:37:00 PM Last Update=12/05/2017 15:43:44 PM 
+2017.12.05.15.43.22: Save images to database
+ImagesForItemNum=46371310 3078881193453en-thumb.jpg 2455364193454en-thumb.jpg 6024372193454en-thumb.jpg 2929193193454en-thumb.jpg 4188760193454en-thumb.jpg 8021905193454en-thumb.jpg 
+2017.12.05.15.43.22: Write to database
+ItemNumber=46442294 Title=550 Pc Collector’s Series #2 Jigsaw Puzzle 18x24&quot; CurrentPrice=7.99 Num of Bids=0 Seller=Goodwill Industries of Central Florida Shipping=Estimate Shipping End Date=12/9/2017 5:00:00 PM Last Update=12/05/2017 15:43:45 PM 
+2017.12.05.15.43.22: Save images to database
+ImagesForItemNum=46442294 475978920123315nd-thumb.jpg 828579020123318nd-thumb.jpg 97805120123320nd-thumb.jpg 696743120123323nd-thumb.jpg 
+2017.12.05.15.43.22: Write to database
+ItemNumber=46430659 Title=Jigsaw Crush Velvet Crop Jacket Sz 12 CurrentPrice=7.99 Num of Bids=0 Seller=Goodwill of North Florida Shipping=Estimate Shipping End Date=12/9/2017 7:00:00 PM Last Update=12/05/2017 15:43:45 PM 
+2017.12.05.15.43.22: Save images to database
+ImagesForItemNum=46430659 1350170111292dy-thumb.jpg 6825219111291dy-thumb.jpg 5943806111292dy-thumb.jpg 
+2017.12.05.15.43.22: Write to database
+ItemNumber=46470848 Title=Signature Collection The Dolomites Jigsaw Puzzle CurrentPrice=8.99 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/10/2017 5:05:00 AM Last Update=12/05/2017 15:43:45 PM 
+2017.12.05.15.43.22: Save images to database
+ImagesForItemNum=46470848 797176465146ks-thumb.jpg 947272865146ks-thumb.jpg 502843165146ks-thumb.jpg 131008365146ks-thumb.jpg 709494965146ks-thumb.jpg 
+2017.12.05.15.43.22: Write to database
+ItemNumber=46470849 Title=Water for Lizzie 550 Piece Jigsaw Puzzle CurrentPrice=8.99 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/10/2017 7:01:00 AM Last Update=12/05/2017 15:43:46 PM 
+2017.12.05.15.43.22: Save images to database
+ImagesForItemNum=46470849 7488213665528ks-thumb.jpg 427929665528ks-thumb.jpg 7008259665528ks-thumb.jpg 5962335665528ks-thumb.jpg 
+2017.12.05.15.43.22: Write to database
+ItemNumber=46470851 Title=Eurographics Elvis 1000 Piece Jigsaw Puzzle CurrentPrice=8.99 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/10/2017 8:21:00 AM Last Update=12/05/2017 15:43:46 PM 
+2017.12.05.15.43.22: Save images to database
+ImagesForItemNum=46470851 6552087681710ks-thumb.jpg 3230815681710ks-thumb.jpg 1057484681710ks-thumb.jpg 2341120681710ks-thumb.jpg 
+2017.12.05.15.43.22: Write to database
+ItemNumber=46471074 Title=Buffalo Games Vegas, Baby! Jigsaw Puzzle CurrentPrice=8.99 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/10/2017 12:17:00 PM Last Update=12/05/2017 15:43:47 PM 
+2017.12.05.15.43.22: Save images to database
+ImagesForItemNum=46471074 63393795121334ks-thumb.jpg 13243825121335ks-thumb.jpg 16144305121335ks-thumb.jpg 68421575121335ks-thumb.jpg 74785555121335ks-thumb.jpg 
+2017.12.05.15.43.22: Write to database
+ItemNumber=46447600 Title=NEW Flutterby Jigsaw Puzzle CurrentPrice=6.99 Num of Bids=0 Seller=Land of Lincoln Goodwill Shipping= End Date=12/11/2017 7:15:00 PM Last Update=12/05/2017 15:43:47 PM 
+2017.12.05.15.43.22: Save images to database
+ImagesForItemNum=46447600 65971004133636rD-thumb.jpg 63623764133636rD-thumb.jpg 
+2017.12.05.15.43.22: Write to database
+ItemNumber=46478841 Title=Vintage Michael Jackson Jigsaw Puzzle Sealed CurrentPrice=3.99 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/12/2017 8:42:00 AM Last Update=12/05/2017 15:43:48 PM 
+2017.12.05.15.43.22: Save images to database
+ImagesForItemNum=46478841 627742867245th-thumb.jpg 414390167245th-thumb.jpg 481480867246th-thumb.jpg 986675467246th-thumb.jpg 456443267247th-thumb.jpg 
+2017.12.05.15.43.22: Write to database
+ItemNumber=46482066 Title=Vintage Jigsaw Puzzle CurrentPrice=5.99 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/12/2017 9:23:47 AM Last Update=12/05/2017 15:43:48 PM 
+2017.12.05.15.43.22: Save images to database
+ImagesForItemNum=46482066 10429012875333on-thumb.jpg 30292472875334on-thumb.jpg 59291572875334on-thumb.jpg 84591302875334on-thumb.jpg 
+2017.12.05.15.43.22: Write to database
+ItemNumber=46482067 Title=Vintage Guild Jigsaw Puzzle CurrentPrice=5.99 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/12/2017 9:23:48 AM Last Update=12/05/2017 15:43:49 PM 
+2017.12.05.15.43.22: Save images to database
+ImagesForItemNum=46482067 41636282875711on-thumb.jpg 56519272875711on-thumb.jpg 86856572875711on-thumb.jpg 85630432875712on-thumb.jpg 
+2017.12.05.15.43.22: Write to database
+ItemNumber=46482069 Title=Vintage Guild Jigsaw Puzzle CurrentPrice=5.99 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/12/2017 9:23:48 AM Last Update=12/05/2017 15:43:49 PM 
+2017.12.05.15.43.22: Save images to database
+ImagesForItemNum=46482069 13827142875913on-thumb.jpg 29003102875913on-thumb.jpg 33495072875914on-thumb.jpg 86065302875914on-thumb.jpg 
+2017.12.05.15.43.22: Data dumped to: PermanentData.txt
+2017.12.05.15.47.35: New system session, Log starts here.
+2017.12.05.15.48.38: New system session, Log starts here.
+2017.12.05.15.51.13: New system session, Log starts here.
+2017.12.05.15.52.34: New system session, Log starts here.
+2017.12.05.15.53.23: New system session, Log starts here.
+2017.12.05.15.54.01: New system session, Log starts here.
+2017.12.05.15.56.14: New system session, Log starts here.
+2017.12.05.15.57.43: New system session, Log starts here.
+2017.12.05.15.58.15: New system session, Log starts here.
+2017.12.05.15.58.58: New system session, Log starts here.
+2017.12.05.16.07.32: New system session, Log starts here.
+2017.12.05.16.07.48: New system session, Log starts here.
+2017.12.05.16.18.32: New system session, Log starts here.
+2017.12.05.16.19.59: New system session, Log starts here.
+2017.12.05.16.19.59: Program exits.

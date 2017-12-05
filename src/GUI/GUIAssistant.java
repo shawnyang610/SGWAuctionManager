@@ -45,6 +45,8 @@ public class GUIAssistant {
     String offline_shipping;
     boolean offline_fuzzySearch;
     boolean offline_showLiveItems;
+    String[] imageNamesList;
+    int imageIndex;
 
 	
 	public GUIAssistant() {
@@ -78,6 +80,8 @@ public class GUIAssistant {
 	    reportFileName="";
 	    offline_fuzzySearch=false;
 	    offline_showLiveItems=false;
+	    imageNamesList=null;
+	    imageIndex = 0;
 	}
 	
 	public String buildURL () {

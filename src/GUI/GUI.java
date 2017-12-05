@@ -194,6 +194,164 @@ public class GUI extends JFrame {
 			}
 		});
 		
+				Button button_OpenInv = new Button("Open Inv.");
+				button_OpenInv.addActionListener(new ActionListener() {
+					public void actionPerformed(ActionEvent arg0) {
+						// step0
+						// step0.1 setup Jfilechooser to choose an input file
+						JFileChooser fc = new JFileChooser();
+						int response = fc.showOpenDialog(null);
+						if (response == JFileChooser.APPROVE_OPTION) {
+							guiAssistant.inventoryFileName = fc.getSelectedFile().toString();
+						}
+						// step0.2:if filename not empty, open the file
+						if (!guiAssistant.inventoryFileName.equals("")) {
+							Scanner infile = null;
+							String url;
+							ArrayList<String> returnedItemsList;
+							String[][] allReturnedDataEntries4Table = null;
+							ArrayList<String> itemDataList, itemImageNamesList;
+							ArrayList<ArrayList<String>> allReturnedList = new ArrayList<>();
+							try {
+								infile = new Scanner(new FileReader(guiAssistant.inventoryFileName));
+							} catch (IOException e) {
+								System.out.println(
+										"Problem opening selected file: " + guiAssistant.inventoryFileName + "error: " + e);
+							}
+							// step1: keywordsList <- read all keywords from input file (2nd data on every
+							// row, starting from 2nd row)
+							ArrayList<String> keywordsList;
+							Pattern pattern = Pattern
+									.compile("(?<=\\d{1,10}\\s\\|\\s)(.{0,50})(?=\\s\\|\\s\\d*\\s\\|.*\\|.*\\|.*)");// this
+																													// pattern
+																													// matches
+																													// 2nd col.
+																													// in
+																													// input.txt
+							keywordsList = IOManager.getKeywordsList(pattern, infile);
+							// step1 ends
+							while (!keywordsList.isEmpty()) {
+								// step2, generate URL with each keyword read from step1
+								url = URLBuilder.buildURL(keywordsList.get(0));
+								keywordsList.remove(0);
+								System.out.println(url);// debug use
+
+								// step3 search shopgoodwill using the URL and analyze the returned page
+								// returnedItemList <-- get item#s for each item
+								OnlineSearch2ItemsList os2il = new OnlineSearch2ItemsList(url, outDebug);
+								try {
+									os2il.start();
+								} catch (IOException e1) {
+									System.out.println(
+											"Problem with OnlineSearch2ItemList.start() from inventory file select button");
+									e1.printStackTrace();
+								}
+								returnedItemsList = os2il.getItemsList();
+								// for debugging
+								for (String item : returnedItemsList) {
+									System.out.println("returnedItemsList: " + item);
+									outDebug.println("returnedItemsList: " + item);
+								} // for debugging ends
+									// dynamically allocate a string[][] for displaying data in table later
+									// allReturnedDataEntries4Table = new
+									// String[returnedItemsList.size()][header.length];
+								int counter = 0;
+								for (String s : returnedItemsList) {
+									System.out.println("Getting data for item# " + s);
+									// step4 Data entry <-- data mine each item in the itemslist
+									Item2Data item2Data = new Item2Data(s, outDebug);
+									try {
+										item2Data.start(enableImage);
+									} catch (IOException e1) {
+										System.out.println("Problem with item2data.start() from online search button");
+										e1.printStackTrace();
+									}
+									itemDataList = item2Data.getItemDataList();
+									itemImageNamesList = item2Data.getItemImageNamesList();
+									// step5 database <-- enter Data entry
+									allReturnedList.add(itemDataList);// step5.1 gather all data entries to an list, so it can
+																		// be used to display in table later
+									CustomizedHashMap.appendList2Header(header, itemDataList);// give each element a header
+									cusMap.putList(itemDataList);
+									CustomizedHashMap.appendList2Header("ImagesForItemNum", itemImageNamesList);
+									cusMap.putList(itemImageNamesList);
+									// step6 log <-- write to log
+									logger.writeInfo("Write to database", itemDataList);
+									logger.writeInfo("Save images to database", itemImageNamesList);
+									// step7 skip
+
+								} // step8 repeat step4,5,6 7until no more items in returndItemsList.
+							} // while keywordlist is not empty
+								// step9.0 convert list to String[][]
+							allReturnedDataEntries4Table = new String[allReturnedList.size()][header.length];
+							int counter = 0;
+							for (ArrayList<String> list : allReturnedList) {
+								allReturnedDataEntries4Table[counter++] = CHMAssistant.removeHeadersFromListThenToArray(header,
+										list);
+							}
+							// step9.1 table displays the result returned
+							int rowCount = myTableModel.getRowCount();
+							for (int i = 0; i < rowCount; i++) {
+								myTableModel.removeRow(0);
+							}
+							for (int i = 0; i < allReturnedDataEntries4Table.length; i++) {
+								myTableModel.addRow(allReturnedDataEntries4Table[i]);
+							}
+						}
+					}
+
+				});
+				GridBagConstraints gbc_button_OpenInv = new GridBagConstraints();
+				gbc_button_OpenInv.fill = GridBagConstraints.HORIZONTAL;
+				gbc_button_OpenInv.insets = new Insets(0, 0, 5, 5);
+				gbc_button_OpenInv.gridx = 8;
+				gbc_button_OpenInv.gridy = 7;
+				getContentPane().add(button_OpenInv, gbc_button_OpenInv);
+		
+				Button button_1 = new Button("Report");
+				button_1.addActionListener(new ActionListener() {
+					public void actionPerformed(ActionEvent arg0) {
+						// step1 get selected file name
+						JFileChooser fc = new JFileChooser();
+						int response = fc.showSaveDialog(null);
+						if (response == JFileChooser.APPROVE_OPTION) {
+							guiAssistant.reportFileName = fc.getSelectedFile().toString();
+						}
+
+						// step2.0 execute if the filename is not empty
+						if (!guiAssistant.reportFileName.equals("")) {
+							// step2.1 allTableData[][] <-- if current table is not empty then get all data
+							// from table
+							int rowCount = myTableModel.getRowCount();
+							int colCount = myTableModel.getColumnCount();
+							String[][] tableData = new String[rowCount][colCount];
+							if (rowCount > 0) {
+								for (int r = 0; r < rowCount; r++) {
+									for (int c = 0; c < colCount; c++) {
+										tableData[r][c] = (String) myTableModel.getValueAt(r, c);
+									}
+								}
+							}
+							PrintWriter outfileReport = null;
+							// step3 write the header and String ary to outfile
+							try {
+								outfileReport = new PrintWriter(guiAssistant.reportFileName);
+							} catch (IOException e) {
+								System.out.println("unable to open report file: " + e);
+							}
+							IOManager.reportHeaderWriter(outfileReport, header);
+							IOManager.reportDataWriter(outfileReport, tableData);
+						}
+
+					}
+				});
+				GridBagConstraints gbc_button_1 = new GridBagConstraints();
+				gbc_button_1.fill = GridBagConstraints.HORIZONTAL;
+				gbc_button_1.insets = new Insets(0, 0, 5, 5);
+				gbc_button_1.gridx = 8;
+				gbc_button_1.gridy = 8;
+				getContentPane().add(button_1, gbc_button_1);
+		
 		chckbxShowLiveItems = new JCheckBox("Live items only      ");
 		chckbxShowLiveItems.setEnabled(false);
 		GridBagConstraints gbc_chckbxShowLiveItems = new GridBagConstraints();
@@ -529,120 +687,6 @@ public class GUI extends JFrame {
 		gbc_progressBar.gridy = 7;
 		getContentPane().add(progressBar, gbc_progressBar);
 
-		Button button_OpenInv = new Button("Open Inv.");
-		button_OpenInv.addActionListener(new ActionListener() {
-			public void actionPerformed(ActionEvent arg0) {
-				// step0
-				// step0.1 setup Jfilechooser to choose an input file
-				JFileChooser fc = new JFileChooser();
-				int response = fc.showOpenDialog(null);
-				if (response == JFileChooser.APPROVE_OPTION) {
-					guiAssistant.inventoryFileName = fc.getSelectedFile().toString();
-				}
-				// step0.2:if filename not empty, open the file
-				if (!guiAssistant.inventoryFileName.equals("")) {
-					Scanner infile = null;
-					String url;
-					ArrayList<String> returnedItemsList;
-					String[][] allReturnedDataEntries4Table = null;
-					ArrayList<String> itemDataList, itemImageNamesList;
-					ArrayList<ArrayList<String>> allReturnedList = new ArrayList<>();
-					try {
-						infile = new Scanner(new FileReader(guiAssistant.inventoryFileName));
-					} catch (IOException e) {
-						System.out.println(
-								"Problem opening selected file: " + guiAssistant.inventoryFileName + "error: " + e);
-					}
-					// step1: keywordsList <- read all keywords from input file (2nd data on every
-					// row, starting from 2nd row)
-					ArrayList<String> keywordsList;
-					Pattern pattern = Pattern
-							.compile("(?<=\\d{1,10}\\s\\|\\s)(.{0,50})(?=\\s\\|\\s\\d*\\s\\|.*\\|.*\\|.*)");// this
-																											// pattern
-																											// matches
-																											// 2nd col.
-																											// in
-																											// input.txt
-					keywordsList = IOManager.getKeywordsList(pattern, infile);
-					// step1 ends
-					while (!keywordsList.isEmpty()) {
-						// step2, generate URL with each keyword read from step1
-						url = URLBuilder.buildURL(keywordsList.get(0));
-						keywordsList.remove(0);
-						System.out.println(url);// debug use
-
-						// step3 search shopgoodwill using the URL and analyze the returned page
-						// returnedItemList <-- get item#s for each item
-						OnlineSearch2ItemsList os2il = new OnlineSearch2ItemsList(url, outDebug);
-						try {
-							os2il.start();
-						} catch (IOException e1) {
-							System.out.println(
-									"Problem with OnlineSearch2ItemList.start() from inventory file select button");
-							e1.printStackTrace();
-						}
-						returnedItemsList = os2il.getItemsList();
-						// for debugging
-						for (String item : returnedItemsList) {
-							System.out.println("returnedItemsList: " + item);
-							outDebug.println("returnedItemsList: " + item);
-						} // for debugging ends
-							// dynamically allocate a string[][] for displaying data in table later
-							// allReturnedDataEntries4Table = new
-							// String[returnedItemsList.size()][header.length];
-						int counter = 0;
-						for (String s : returnedItemsList) {
-							System.out.println("Getting data for item# " + s);
-							// step4 Data entry <-- data mine each item in the itemslist
-							Item2Data item2Data = new Item2Data(s, outDebug);
-							try {
-								item2Data.start(enableImage);
-							} catch (IOException e1) {
-								System.out.println("Problem with item2data.start() from online search button");
-								e1.printStackTrace();
-							}
-							itemDataList = item2Data.getItemDataList();
-							itemImageNamesList = item2Data.getItemImageNamesList();
-							// step5 database <-- enter Data entry
-							allReturnedList.add(itemDataList);// step5.1 gather all data entries to an list, so it can
-																// be used to display in table later
-							CustomizedHashMap.appendList2Header(header, itemDataList);// give each element a header
-							cusMap.putList(itemDataList);
-							CustomizedHashMap.appendList2Header("ImagesForItemNum", itemImageNamesList);
-							cusMap.putList(itemImageNamesList);
-							// step6 log <-- write to log
-							logger.writeInfo("Write to database", itemDataList);
-							logger.writeInfo("Save images to database", itemImageNamesList);
-							// step7 skip
-
-						} // step8 repeat step4,5,6 7until no more items in returndItemsList.
-					} // while keywordlist is not empty
-						// step9.0 convert list to String[][]
-					allReturnedDataEntries4Table = new String[allReturnedList.size()][header.length];
-					int counter = 0;
-					for (ArrayList<String> list : allReturnedList) {
-						allReturnedDataEntries4Table[counter++] = CHMAssistant.removeHeadersFromListThenToArray(header,
-								list);
-					}
-					// step9.1 table displays the result returned
-					int rowCount = myTableModel.getRowCount();
-					for (int i = 0; i < rowCount; i++) {
-						myTableModel.removeRow(0);
-					}
-					for (int i = 0; i < allReturnedDataEntries4Table.length; i++) {
-						myTableModel.addRow(allReturnedDataEntries4Table[i]);
-					}
-				}
-			}
-
-		});
-		GridBagConstraints gbc_button_OpenInv = new GridBagConstraints();
-		gbc_button_OpenInv.fill = GridBagConstraints.HORIZONTAL;
-		gbc_button_OpenInv.insets = new Insets(0, 0, 5, 5);
-		gbc_button_OpenInv.gridx = 8;
-		gbc_button_OpenInv.gridy = 7;
-		getContentPane().add(button_OpenInv, gbc_button_OpenInv);
-
 		chckbxBuyItNow = new JCheckBox("Buy it now only");
 		chckbxBuyItNow.addChangeListener(new ChangeListener() {
 			public void stateChanged(ChangeEvent e) {
@@ -732,50 +776,40 @@ public class GUI extends JFrame {
 		gbc_chckbxOutsideOfUs.gridx = 6;
 		gbc_chckbxOutsideOfUs.gridy = 8;
 		getContentPane().add(chckbxOutsideOfUs, gbc_chckbxOutsideOfUs);
-
-		Button button_1 = new Button("Report");
-		button_1.addActionListener(new ActionListener() {
+		
+		JButton btnShowImage = new JButton("Show Image");
+		btnShowImage.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent arg0) {
-				// step1 get selected file name
-				JFileChooser fc = new JFileChooser();
-				int response = fc.showSaveDialog(null);
-				if (response == JFileChooser.APPROVE_OPTION) {
-					guiAssistant.reportFileName = fc.getSelectedFile().toString();
-				}
-
-				// step2.0 execute if the filename is not empty
-				if (!guiAssistant.reportFileName.equals("")) {
-					// step2.1 allTableData[][] <-- if current table is not empty then get all data
-					// from table
-					int rowCount = myTableModel.getRowCount();
-					int colCount = myTableModel.getColumnCount();
-					String[][] tableData = new String[rowCount][colCount];
-					if (rowCount > 0) {
-						for (int r = 0; r < rowCount; r++) {
-							for (int c = 0; c < colCount; c++) {
-								tableData[r][c] = (String) myTableModel.getValueAt(r, c);
+				if (!table.getSelectionModel().isSelectionEmpty()) {
+					
+					ImageWindow imageWindow = new ImageWindow(guiAssistant);
+					imageWindow.setVisible(true);
+					int selectedRow = table.getSelectedRow();
+					String selectedItemNum = (String) myTableModel.getValueAt(selectedRow, 0);
+					ArrayList<ArrayList<String>> temp = cusMap.getList("PrimaryKey=ImagesForItemNum="+selectedItemNum);
+					if (!temp.isEmpty() && !temp.get(0).get(0).equals("EMPTY")&&!temp.get(0).get(0).equals("")) {
+						//ArrayList<String> imageNames <-- search for image names and save
+						if (temp.get(0).size()>1) {
+							//guiAssistant.imageIndex=0;
+							String[] str_imageNames = new String[temp.get(0).size()-1];
+							for (int i=1; i<temp.get(0).size(); i++) {
+								str_imageNames[i-1] = temp.get(0).get(i);
+								System.out.println(temp.get(0).get(i)+" ");
 							}
+							guiAssistant.imageNamesList = str_imageNames;
 						}
 					}
-					PrintWriter outfileReport = null;
-					// step3 write the header and String ary to outfile
-					try {
-						outfileReport = new PrintWriter(guiAssistant.reportFileName);
-					} catch (IOException e) {
-						System.out.println("unable to open report file: " + e);
-					}
-					IOManager.reportHeaderWriter(outfileReport, header);
-					IOManager.reportDataWriter(outfileReport, tableData);
+					else {
+						System.out.println("no images");
+					};
 				}
-
 			}
 		});
-		GridBagConstraints gbc_button_1 = new GridBagConstraints();
-		gbc_button_1.fill = GridBagConstraints.HORIZONTAL;
-		gbc_button_1.insets = new Insets(0, 0, 5, 5);
-		gbc_button_1.gridx = 8;
-		gbc_button_1.gridy = 8;
-		getContentPane().add(button_1, gbc_button_1);
+		GridBagConstraints gbc_btnShowImage = new GridBagConstraints();
+		gbc_btnShowImage.insets = new Insets(0, 0, 5, 5);
+		gbc_btnShowImage.gridx = 8;
+		gbc_btnShowImage.gridy = 9;
+		getContentPane().add(btnShowImage, gbc_btnShowImage);
 
 		JLabel lblNewLabel = new JLabel("Editing Database:");
 		GridBagConstraints gbc_lblNewLabel = new GridBagConstraints();

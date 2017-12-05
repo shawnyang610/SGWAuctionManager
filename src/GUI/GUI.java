@@ -24,6 +24,7 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
+import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Date;
@@ -79,6 +80,7 @@ public class GUI extends JFrame {
 	JComboBox comboBox_categories;
 	JCheckBox chckbxSearchDescriptions;
 	JCheckBox chckbxBuyItNow;
+	JCheckBox chckbxShowLiveItems;
 	/**
 	 * Create the panel.
 	 * 
@@ -191,6 +193,14 @@ public class GUI extends JFrame {
 				}
 			}
 		});
+		
+		chckbxShowLiveItems = new JCheckBox("Live items only      ");
+		chckbxShowLiveItems.setEnabled(false);
+		GridBagConstraints gbc_chckbxShowLiveItems = new GridBagConstraints();
+		gbc_chckbxShowLiveItems.insets = new Insets(0, 0, 5, 5);
+		gbc_chckbxShowLiveItems.gridx = 5;
+		gbc_chckbxShowLiveItems.gridy = 9;
+		getContentPane().add(chckbxShowLiveItems, gbc_chckbxShowLiveItems);
 		chckbxFuzzySearch.setEnabled(false);
 		GridBagConstraints gbc_chckbxFuzzySearch = new GridBagConstraints();
 		gbc_chckbxFuzzySearch.insets = new Insets(0, 0, 5, 5);
@@ -206,6 +216,7 @@ public class GUI extends JFrame {
 				comboBox_categories.setEnabled(true);
 				chckbxSearchDescriptions.setEnabled(true);
 				chckbxBuyItNow.setEnabled(true);
+				chckbxShowLiveItems.setEnabled(false);
 			}
 		});
 		rdbtnOnlineSearch.setSelected(true);
@@ -222,6 +233,7 @@ public class GUI extends JFrame {
 				comboBox_categories.setEnabled(false);
 				chckbxSearchDescriptions.setEnabled(false);
 				chckbxBuyItNow.setEnabled(false);
+				chckbxShowLiveItems.setEnabled(true);
 			}
 		});
 		GridBagConstraints gbc_rdbtnOfflineSearch = new GridBagConstraints();
@@ -338,6 +350,11 @@ public class GUI extends JFrame {
 					// for off-line search
 				} else {
 					System.out.println("offline search");
+					if (chckbxShowLiveItems.isSelected()) {
+						guiAssistant.offline_showLiveItems = true;
+					} else
+						guiAssistant.offline_showLiveItems = false;
+
 					// for off-line search
 					// step1 gather keywords for the search; item#, title, price, bids, seller(need
 					// to match number to correct seller company name), shipping, end date, last
@@ -354,10 +371,15 @@ public class GUI extends JFrame {
 					// current date)
 					// step2.6 do an intersection of all steps from 2.1-2.5. return the list that
 					// survived
-					ArrayList<ArrayList<String>> tempAryList;
-					tempAryList=CHMAssistant.offlineSearch(cusMap, guiAssistant.offline_fuzzySearch, guiAssistant.st_keyWord,
-							guiAssistant.s_seller, guiAssistant.lp_lowPrice, guiAssistant.hp_highPrice,
-							guiAssistant.offline_shipping, guiAssistant.offline_endDate);
+					ArrayList<ArrayList<String>> tempAryList = null;
+					try {
+						tempAryList=CHMAssistant.offlineSearch(cusMap, guiAssistant.offline_fuzzySearch,guiAssistant.offline_showLiveItems , guiAssistant.st_keyWord,
+								guiAssistant.s_seller, guiAssistant.lp_lowPrice, guiAssistant.hp_highPrice,
+								guiAssistant.offline_shipping, guiAssistant.offline_endDate);
+					} catch (ParseException e1) {
+						
+						e1.printStackTrace();
+					}
 					allReturnedDataEntries4Table = new String[tempAryList.size()][header.length];
 					allReturnedDataEntries4Table = CHMAssistant.listTo2DStringAry(header, CHMAssistant.filterLists(header, tempAryList));
 					// display in the table

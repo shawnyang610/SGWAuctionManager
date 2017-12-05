@@ -44,6 +44,7 @@ public class GUIAssistant {
     String offline_endDate;
     String offline_shipping;
     boolean offline_fuzzySearch;
+    boolean offline_showLiveItems;
 
 	
 	public GUIAssistant() {
@@ -75,6 +76,8 @@ public class GUIAssistant {
 	    useBuyerPrefs="true";  
 	    inventoryFileName="";
 	    reportFileName="";
+	    offline_fuzzySearch=false;
+	    offline_showLiveItems=false;
 	}
 	
 	public String buildURL () {

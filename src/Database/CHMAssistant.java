@@ -1,6 +1,10 @@
 package Database;
 
+import java.text.DateFormat;
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
 import java.util.ArrayList;
+import java.util.Date;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -40,8 +44,8 @@ public class CHMAssistant {
 		return tempAry;
 	}
 	
-	public static ArrayList<ArrayList<String>> offlineSearch (CustomizedHashMap in_cusMap, boolean in_fuzzySearch, String in_keyWord, String in_s_seller
-			, String in_lp_lowprice, String in_hp_highprice, String in_offline_shipping, String in_offline_enddate){
+	public static ArrayList<ArrayList<String>> offlineSearch (CustomizedHashMap in_cusMap, boolean in_fuzzySearch,boolean in_showLiveItems , String in_keyWord, String in_s_seller
+			, String in_lp_lowprice, String in_hp_highprice, String in_offline_shipping, String in_offline_enddate) throws ParseException{
 		
 		ArrayList<ArrayList<String>> finalAryList = new ArrayList<>();
 		ArrayList <ArrayList<String>> tempArrayList=null; 
@@ -78,7 +82,7 @@ public class CHMAssistant {
 				ArrayList<ArrayList<String>> toBeDeletedList = new ArrayList<>();
 				for (ArrayList<String> a : finalAryList) {
 					matcher=pattern.matcher(a.get(2));
-					if ((!matcher.find()) || Double.parseDouble(matcher.group(1))<lowPrice || Double.parseDouble(matcher.group(1))>highPrice) {
+					if ((!matcher.find()) || matcher.group(1).equals("") || Double.parseDouble(matcher.group(1))<lowPrice || Double.parseDouble(matcher.group(1))>highPrice) {
 						toBeDeletedList.add(a);
 					}
 				}
@@ -92,7 +96,31 @@ public class CHMAssistant {
 		
 		//step2.4 filter out ones without specified ending date (by comparing end date and current date)
 
-		
+		//step2.5 filter out show live items if selected
+		if (in_showLiveItems) {
+			Date currentDate = new Date();
+			Date compareWithDate=null;
+			DateFormat dateFormat = new SimpleDateFormat("MM/dd/yyyy HH:mm:ss a");
+			Pattern pattern = Pattern.compile("(?<=\\QEnd Date=\\E)(.*)");
+			Matcher matcher = null;
+			if (!finalAryList.isEmpty() && !finalAryList.get(0).get(0).equals("") && !finalAryList.get(0).get(0).equals("EMPTY")) {
+				ArrayList<ArrayList<String>> toBeDeletedList = new ArrayList<>();
+				for (ArrayList<String> a : finalAryList) {
+					matcher=pattern.matcher(a.get(6));
+					if (matcher.find()) {
+						compareWithDate = dateFormat.parse(matcher.group(1));
+						long diff = compareWithDate.getTime() - currentDate.getTime();
+						if ((diff / (60*60*1000))<-3) {
+							toBeDeletedList.add(a);
+						}
+					}
+				}
+				for (ArrayList<String> a: toBeDeletedList) {
+					finalAryList.remove(a);
+				}
+				
+			}
+		}
 		
 		
 		return finalAryList;

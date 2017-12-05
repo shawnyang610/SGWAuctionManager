@@ -49,7 +49,7 @@ public class Item2Data {
         itemEndDateFinished=false;
         itemSellerInfoFinished=false;
         itemShippingPolicyFinished=false;
-        currentDate = new SimpleDateFormat("MM/dd/yyyy HH:mm:ss").format(new Date());
+        currentDate = new SimpleDateFormat("MM/dd/yyyy HH:mm:ss a").format(new Date());
         //alove line referenced https://stackoverflow.com/questions/23068676/how-to-get-current-timestamp-in-string-format-in-java-yyyy-mm-dd-hh-mm-ss
     }
 

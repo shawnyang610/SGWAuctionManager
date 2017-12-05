@@ -35,6 +35,16 @@ public class GUIAssistant {
     String useBuyerPrefs;
     String inventoryFileName;
     String reportFileName;
+    
+    String offline_itemNum;
+    String offline_keyword;
+    String offline_seller;
+    String offline_lowPrice;
+    String offline_highPrice;
+    String offline_endDate;
+    String offline_shipping;
+    boolean offline_fuzzySearch;
+
 	
 	public GUIAssistant() {
 	    urlBase = "https://www.shopgoodwill.com/Listings?";

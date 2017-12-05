@@ -4672,3 +4672,838 @@ ItemNumber=46421893 Title=Daisy 25 BB Gun Rifle CurrentPrice=9.99 Num of Bids=0 
 ImagesForItemNum=46421893 
 2017.12.04.18.17.10: Dump hashMap Data to PermanentData.txt
 2017.12.04.18.17.10: connection to log closes.
+2017.12.04.18.27.38: New system session, Log starts here.
+2017.12.04.18.27.38: Write to database
+ItemNumber=46404524 Title=A Guide Book of United States Coins 34th Ed 1981 CurrentPrice=9.99 Num of Bids=0 Seller= Shipping=$0.01 End Date=12/4/2017 4:00:00 PM Last Update=12/04/2017 18:27:42 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46404524 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46203723 Title=Confederate States Of America Coins CurrentPrice=9.99 Num of Bids=1 Seller= Shipping=Estimate Shipping End Date=12/4/2017 5:00:00 PM Last Update=12/04/2017 18:27:42 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46203723 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46203832 Title=Costa Rica Collection Coins CurrentPrice=9.99 Num of Bids=1 Seller= Shipping=Estimate Shipping End Date=12/4/2017 5:00:00 PM Last Update=12/04/2017 18:27:42 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46203832 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46283997 Title=Walt Disney Pressed Coin Collection Book &amp; Coins CurrentPrice=6.99 Num of Bids=1 Seller=Gulfstream Goodwill Industries Shipping=Estimate Shipping End Date=12/4/2017 5:00:00 PM Last Update=12/04/2017 18:27:43 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46283997 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46379119 Title=lot of 4 US Navy Support Center Challenge Coins CurrentPrice=9.99 Num of Bids=1 Seller=Goodwill Industries of the Valleys Shipping=Estimate Shipping End Date=12/4/2017 6:03:00 PM Last Update=12/04/2017 18:27:43 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46379119 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46380829 Title=Lot of Old Foreign Coins Dating 1900-1950&#39;s CurrentPrice=11.00 Num of Bids=2 Seller=Goodwill Industries of the Valleys Shipping=Estimate Shipping End Date=12/4/2017 6:04:00 PM Last Update=12/04/2017 18:27:43 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46380829 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46380353 Title=Lot of 11 Foreign Coins from the 1800&#39;s CurrentPrice=13.00 Num of Bids=2 Seller=Goodwill Industries of the Valleys Shipping=Estimate Shipping End Date=12/4/2017 6:08:00 PM Last Update=12/04/2017 18:27:43 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46380353 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46375489 Title=Lot of 10 Old Chinese Coins. 1644-1911 CurrentPrice=9.99 Num of Bids=0 Seller=Goodwill Industries of the Valleys Shipping=Estimate Shipping End Date=12/4/2017 6:10:00 PM Last Update=12/04/2017 18:27:44 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46375489 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46371609 Title=Lot of Old Foreign Coins from 1800&#39;s to 1940&#39;s. CurrentPrice=19.99 Num of Bids=3 Seller=Goodwill Industries of the Valleys Shipping=Estimate Shipping End Date=12/4/2017 6:13:00 PM Last Update=12/04/2017 18:27:44 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46371609 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46376402 Title=Lot of 0.46 lbs Foreign Coins and Paper Money CurrentPrice=9.99 Num of Bids=1 Seller=Goodwill Industries of the Valleys Shipping=Estimate Shipping End Date=12/4/2017 6:13:00 PM Last Update=12/04/2017 18:27:44 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46376402 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46378585 Title=Lot of African Coins and a 50 Rand Bill. CurrentPrice=9.99 Num of Bids=0 Seller=Goodwill Industries of the Valleys Shipping=Estimate Shipping End Date=12/4/2017 6:15:00 PM Last Update=12/04/2017 18:27:44 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46378585 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46370479 Title=Lot of 7 Collectible Coins &amp; Tokens CurrentPrice=9.99 Num of Bids=0 Seller=Goodwill Industries of the Valleys Shipping=Estimate Shipping End Date=12/4/2017 6:19:00 PM Last Update=12/04/2017 18:27:45 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46370479 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46371842 Title=Lot of Antique Centavos Coins from Chile 1916-38 CurrentPrice=9.99 Num of Bids=0 Seller=Goodwill Industries of the Valleys Shipping=Estimate Shipping End Date=12/4/2017 6:20:00 PM Last Update=12/04/2017 18:27:45 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46371842 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46375576 Title=Lot of West African States Coins &amp; Paper Money CurrentPrice=9.99 Num of Bids=0 Seller=Goodwill Industries of the Valleys Shipping=Estimate Shipping End Date=12/4/2017 6:21:00 PM Last Update=12/04/2017 18:27:45 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46375576 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46376136 Title=Lot of 1.87lbs. Foreign Coins &amp; Paper Money CurrentPrice=12.00 Num of Bids=2 Seller=Goodwill Industries of the Valleys Shipping=Estimate Shipping End Date=12/4/2017 6:23:00 PM Last Update=12/04/2017 18:27:46 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46376136 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46378019 Title=Lot of Vintage Foreign Coins CurrentPrice=9.99 Num of Bids=0 Seller=Goodwill Industries of the Valleys Shipping=Estimate Shipping End Date=12/4/2017 6:24:00 PM Last Update=12/04/2017 18:27:46 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46378019 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46380878 Title=lot of 5 Various Challenge Coins CurrentPrice=9.99 Num of Bids=1 Seller=Goodwill Industries of the Valleys Shipping=Estimate Shipping End Date=12/4/2017 6:25:00 PM Last Update=12/04/2017 18:27:46 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46380878 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46292499 Title=Random Collection of Medals, Coins &amp; Tokens CurrentPrice=30.00 Num of Bids=9 Seller=Goodwill Industries of Central Florida Shipping=Estimate Shipping End Date=12/4/2017 6:26:00 PM Last Update=12/04/2017 18:27:46 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46292499 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46215870 Title=55pc Toll Tax Fare Token Coins CurrentPrice=29.99 Num of Bids=0 Seller=Goodwill of the Olympics and Rainier Region Shipping= End Date=12/4/2017 6:30:00 PM Last Update=12/04/2017 18:27:47 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46215870 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46377753 Title=Lot of Foreign Coins and Paper Money CurrentPrice=9.99 Num of Bids=0 Seller=Goodwill Industries of the Valleys Shipping=Estimate Shipping End Date=12/4/2017 6:31:00 PM Last Update=12/04/2017 18:27:47 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46377753 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46371148 Title=8 Commemorative Coins Predators Of North America CurrentPrice=9.99 Num of Bids=1 Seller=Goodwill Industries of the Valleys Shipping=Estimate Shipping End Date=12/4/2017 6:32:00 PM Last Update=12/04/2017 18:27:47 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46371148 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46379898 Title=Lot of 5 US Navy Operations Support Center Coins CurrentPrice=9.99 Num of Bids=0 Seller=Goodwill Industries of the Valleys Shipping=Estimate Shipping End Date=12/4/2017 6:34:00 PM Last Update=12/04/2017 18:27:47 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46379898 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46377493 Title=Lot of 6 Antique US Coins Dating from 1883 - 1942 CurrentPrice=22.01 Num of Bids=10 Seller=Goodwill Industries of the Valleys Shipping=Estimate Shipping End Date=12/4/2017 6:35:00 PM Last Update=12/04/2017 18:27:47 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46377493 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46379558 Title=Lot of 4.71 lbs. Foreign Coins and Paper Money CurrentPrice=45.00 Num of Bids=8 Seller=Goodwill Industries of the Valleys Shipping=Estimate Shipping End Date=12/4/2017 6:35:00 PM Last Update=12/04/2017 18:27:48 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46379558 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46371314 Title=Lot of 10 &amp; 25 Centimes Liberte Egalite Coins CurrentPrice=9.99 Num of Bids=1 Seller=Goodwill Industries of the Valleys Shipping=Estimate Shipping End Date=12/4/2017 6:38:00 PM Last Update=12/04/2017 18:27:48 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46371314 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46371731 Title=Lot of Foreign Coins and Tokens CurrentPrice=9.99 Num of Bids=0 Seller=Goodwill Industries of the Valleys Shipping=Estimate Shipping End Date=12/4/2017 6:38:00 PM Last Update=12/04/2017 18:27:48 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46371731 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46380186 Title=Lot of 7.89 lbs of Foreign Coins and Paper Money CurrentPrice=50.66 Num of Bids=10 Seller=Goodwill Industries of the Valleys Shipping=Estimate Shipping End Date=12/4/2017 6:38:00 PM Last Update=12/04/2017 18:27:49 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46380186 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46379492 Title=Lot of 8 Fabrication Fight Miracles Workers Coins CurrentPrice=9.99 Num of Bids=0 Seller=Goodwill Industries of the Valleys Shipping=Estimate Shipping End Date=12/4/2017 6:39:00 PM Last Update=12/04/2017 18:27:49 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46379492 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46377206 Title=3 Antique US Coins w/ Buffalo Indian Head Nickel CurrentPrice=16.00 Num of Bids=4 Seller=Goodwill Industries of the Valleys Shipping=Estimate Shipping End Date=12/4/2017 6:40:00 PM Last Update=12/04/2017 18:27:49 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46377206 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46381865 Title=Four 2009 Marine Corps Marathon Challenge Coins CurrentPrice=9.99 Num of Bids=0 Seller=Goodwill Industries of the Valleys Shipping=Estimate Shipping End Date=12/4/2017 6:40:00 PM Last Update=12/04/2017 18:27:50 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46381865 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46215616 Title=1921,1922,2000 Collectible Silver Dollar Coins CurrentPrice=81.00 Num of Bids=12 Seller= Shipping= End Date=12/4/2017 6:42:00 PM Last Update=12/04/2017 18:27:50 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46215616 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46374943 Title=Lot of 15 Foreign Coins and Tokens CurrentPrice=9.99 Num of Bids=0 Seller=Goodwill Industries of the Valleys Shipping=Estimate Shipping End Date=12/4/2017 6:42:00 PM Last Update=12/04/2017 18:27:50 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46374943 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46380374 Title=Lot of 5 Washington Army National Guard Coins CurrentPrice=9.99 Num of Bids=0 Seller=Goodwill Industries of the Valleys Shipping=Estimate Shipping End Date=12/4/2017 6:45:00 PM Last Update=12/04/2017 18:27:50 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46380374 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46379320 Title=Lot .26 lb. Foreign Coins and a $20 Jamaican Note CurrentPrice=9.99 Num of Bids=0 Seller=Goodwill Industries of the Valleys Shipping=Estimate Shipping End Date=12/4/2017 6:46:00 PM Last Update=12/04/2017 18:27:51 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46379320 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46372495 Title=Lot of 4 Canadian One Cent Coins from 1800&#39;s CurrentPrice=11.00 Num of Bids=2 Seller=Goodwill Industries of the Valleys Shipping=Estimate Shipping End Date=12/4/2017 6:48:00 PM Last Update=12/04/2017 18:27:51 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46372495 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46381084 Title=Lot of Foreign Coins and Paper Money CurrentPrice=23.00 Num of Bids=6 Seller=Goodwill Industries of the Valleys Shipping=Estimate Shipping End Date=12/4/2017 6:50:00 PM Last Update=12/04/2017 18:27:51 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46381084 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46374895 Title=Lot of Foreign Coins from 1920&#39;s - 1950&#39;s CurrentPrice=9.99 Num of Bids=0 Seller=Goodwill Industries of the Valleys Shipping=Estimate Shipping End Date=12/4/2017 6:53:00 PM Last Update=12/04/2017 18:27:51 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46374895 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46380603 Title=Lot of 1.36 lbs. of Foreign Coins and Paper Money CurrentPrice=9.99 Num of Bids=1 Seller=Goodwill Industries of the Valleys Shipping=Estimate Shipping End Date=12/4/2017 6:56:00 PM Last Update=12/04/2017 18:27:52 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46380603 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46193284 Title=International Assorted Coins/Paper Grab Bag CurrentPrice=7.99 Num of Bids=1 Seller=Goodwill of the Heartland Shipping=Estimate Shipping End Date=12/4/2017 7:30:00 PM Last Update=12/04/2017 18:27:52 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46193284 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46287270 Title=Set of Multiple Coins From Across The World CurrentPrice=9.99 Num of Bids=1 Seller=Goodwill Industries of South Florida Shipping=Estimate Shipping End Date=12/4/2017 8:10:00 PM Last Update=12/04/2017 18:27:52 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46287270 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46365556 Title=2 Mixed Media Art Pieces With Coins CurrentPrice=6.99 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/4/2017 8:15:00 PM Last Update=12/04/2017 18:27:53 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46365556 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46292754 Title=United States and Foreign Coins and Paper Money CurrentPrice=44.00 Num of Bids=7 Seller=Goodwill Industries of South Florida Shipping=Estimate Shipping End Date=12/4/2017 8:58:00 PM Last Update=12/04/2017 18:27:53 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46292754 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46333399 Title=International Coins Mid Century &amp; Vintage CurrentPrice=16.00 Num of Bids=3 Seller=Goodwill Industries of Western New York Shipping=Estimate Shipping End Date=12/5/2017 10:35:23 AM Last Update=12/04/2017 18:27:53 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46333399 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46261155 Title=023 Presidents of the United States Coins 36 CurrentPrice=11.00 Num of Bids=3 Seller= Shipping=Estimate Shipping End Date=12/5/2017 11:29:50 AM Last Update=12/04/2017 18:27:54 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46261155 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46263043 Title=Lot of President Coins CurrentPrice=9.99 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/5/2017 6:07:00 PM Last Update=12/04/2017 18:27:54 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46263043 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46255394 Title=50 America State Quarter Plush Bears &amp;Coins 11-16 CurrentPrice=5.00 Num of Bids=1 Seller= Shipping= End Date=12/5/2017 6:30:00 PM Last Update=12/04/2017 18:27:54 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46255394 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46255685 Title=50 America State Quarter Plush Bears &amp; Coins 1-5 CurrentPrice=5.00 Num of Bids=0 Seller= Shipping= End Date=12/5/2017 6:30:00 PM Last Update=12/04/2017 18:27:55 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46255685 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46255785 Title=50 America State Quarter Plush Bears &amp;Coins 6-10 CurrentPrice=5.00 Num of Bids=0 Seller= Shipping= End Date=12/5/2017 6:30:00 PM Last Update=12/04/2017 18:27:55 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46255785 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46339339 Title=US Proof Set of Coins 1982 CurrentPrice=13.00 Num of Bids=4 Seller= Shipping=Estimate Shipping End Date=12/5/2017 6:30:00 PM Last Update=12/04/2017 18:27:55 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46339339 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46264142 Title=Large Lot of Jello Coins and Holder Vintage 1960s CurrentPrice=11.00 Num of Bids=3 Seller= Shipping=Estimate Shipping End Date=12/5/2017 7:09:00 PM Last Update=12/04/2017 18:27:55 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46264142 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46266207 Title=Penny earrings made from foregin coins CurrentPrice=9.99 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/5/2017 7:13:00 PM Last Update=12/04/2017 18:27:56 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46266207 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46385334 Title=Collection of Silver Cert Bills &amp; Silver US Coins CurrentPrice=86.00 Num of Bids=12 Seller=Goodwill Industries Sacramento Valley Shipping=Estimate Shipping End Date=12/5/2017 7:13:00 PM Last Update=12/04/2017 18:27:56 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46385334 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46331460 Title=047-Foreign &amp; Domestic Currency lot Coins CurrentPrice=9.99 Num of Bids=1 Seller= Shipping=Estimate Shipping End Date=12/5/2017 7:30:00 PM Last Update=12/04/2017 18:27:56 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46331460 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46230647 Title=Pearl Harbor Commemorative Coins,3 Total,Case CurrentPrice=38.97 Num of Bids=9 Seller=Goodwill of Southwestern Pennsylvania Shipping=Estimate Shipping End Date=12/5/2017 7:33:00 PM Last Update=12/04/2017 18:27:57 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46230647 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46335447 Title=Lot of Foreign Coins and Some Tokens CurrentPrice=8.00 Num of Bids=2 Seller= Shipping=Estimate Shipping End Date=12/5/2017 8:34:00 PM Last Update=12/04/2017 18:27:57 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46335447 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46323307 Title=Wooden Log Cabin Bank for Coins CurrentPrice=4.99 Num of Bids=0 Seller=Goodwill Industries of Greater New York and Northern New Jersey Shipping=Estimate Shipping End Date=12/5/2017 9:00:00 PM Last Update=12/04/2017 18:27:57 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46323307 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46323350 Title=1970 A Guide book of United States Coins CurrentPrice=4.99 Num of Bids=0 Seller=Goodwill Industries of Greater New York and Northern New Jersey Shipping=Estimate Shipping End Date=12/5/2017 9:00:00 PM Last Update=12/04/2017 18:27:57 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46323350 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46325908 Title=53 Count of International Coins Collection CurrentPrice=7.00 Num of Bids=2 Seller=Goodwill Industries of Greater New York and Northern New Jersey Shipping=Estimate Shipping End Date=12/5/2017 9:00:00 PM Last Update=12/04/2017 18:27:58 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46325908 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46329126 Title=85 Count International Coins Collection CurrentPrice=4.99 Num of Bids=1 Seller=Goodwill Industries of Greater New York and Northern New Jersey Shipping=Estimate Shipping End Date=12/5/2017 9:00:00 PM Last Update=12/04/2017 18:27:58 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46329126 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46329553 Title=24 Count of International Coins Collection CurrentPrice=4.99 Num of Bids=1 Seller=Goodwill Industries of Greater New York and Northern New Jersey Shipping=Estimate Shipping End Date=12/5/2017 9:00:00 PM Last Update=12/04/2017 18:27:58 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46329553 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46329762 Title=106 Count of International Coins Collection CurrentPrice=5.99 Num of Bids=2 Seller=Goodwill Industries of Greater New York and Northern New Jersey Shipping=Estimate Shipping End Date=12/5/2017 9:00:00 PM Last Update=12/04/2017 18:27:58 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46329762 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46290386 Title=Foreign Coins #4 CurrentPrice=15.01 Num of Bids=4 Seller= Shipping=Estimate Shipping End Date=12/6/2017 11:14:55 AM Last Update=12/04/2017 18:27:59 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46290386 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46290427 Title=Grab Bag of American &amp; Foreign Coins #5 CurrentPrice=31.00 Num of Bids=11 Seller= Shipping=Estimate Shipping End Date=12/6/2017 11:15:49 AM Last Update=12/04/2017 18:28:00 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46290427 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46290481 Title=Grab Bag of American &amp; Foreign Coins #6 CurrentPrice=14.00 Num of Bids=3 Seller= Shipping=Estimate Shipping End Date=12/6/2017 11:16:44 AM Last Update=12/04/2017 18:28:00 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46290481 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46298477 Title=5+ LBS of Assorted Foreign Coins and Paper Money CurrentPrice=31.00 Num of Bids=7 Seller= Shipping=Estimate Shipping End Date=12/6/2017 2:55:52 PM Last Update=12/04/2017 18:28:00 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46298477 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46283524 Title=Collection of Foreign Coins and Paper Money CurrentPrice=6.99 Num of Bids=1 Seller= Shipping= End Date=12/6/2017 5:00:00 PM Last Update=12/04/2017 18:28:01 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46283524 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46285400 Title=Mexico Coins -Set of 4 CurrentPrice=9.99 Num of Bids=1 Seller= Shipping=Estimate Shipping End Date=12/6/2017 5:00:00 PM Last Update=12/04/2017 18:28:01 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46285400 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46296022 Title=Imperial Glass Crystal Coins 1971 Series CurrentPrice=10.00 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/6/2017 5:30:00 PM Last Update=12/04/2017 18:28:01 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46296022 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46370230 Title=American Mint GoldPlated GreatestPresidents Coins CurrentPrice=12.99 Num of Bids=3 Seller=Goodwill Industries of Central Texas Shipping=Estimate Shipping End Date=12/6/2017 6:09:00 PM Last Update=12/04/2017 18:28:02 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46370230 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46371232 Title=PCS American The Beautiful Stamps And Coins CurrentPrice=9.99 Num of Bids=0 Seller=Goodwill Industries of Central Texas Shipping=Estimate Shipping End Date=12/6/2017 6:14:00 PM Last Update=12/04/2017 18:28:02 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46371232 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46288696 Title=3.4 Lbs of Assorted Asian Coins CurrentPrice=13.00 Num of Bids=2 Seller=Goodwill Central Coast Shipping=Estimate Shipping End Date=12/6/2017 6:15:00 PM Last Update=12/04/2017 18:28:02 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46288696 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46370698 Title=American Mint Declaration Of Independence Coins CurrentPrice=9.99 Num of Bids=0 Seller=Goodwill Industries of Central Texas Shipping=Estimate Shipping End Date=12/6/2017 6:17:00 PM Last Update=12/04/2017 18:28:02 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46370698 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46285269 Title=1934 and 1935 Peace Silver Dollars Coins CurrentPrice=124.00 Num of Bids=5 Seller=Goodwill of Greater Grand Rapids Shipping=Estimate Shipping End Date=12/6/2017 6:27:00 PM Last Update=12/04/2017 18:28:03 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46285269 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46296935 Title=6 Sterling &amp; 24K Gold Layered Coins CurrentPrice=21.00 Num of Bids=6 Seller=Goodwill Industries of Southern Arizona Shipping=Estimate Shipping End Date=12/6/2017 6:30:00 PM Last Update=12/04/2017 18:28:03 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46296935 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46297054 Title=1/2oz 22K Gold Eagle US $25 Coins .916 Fine Lot/4 CurrentPrice= Num of Bids=28 Seller= Shipping= End Date=12/6/2017 6:30:00 PM Last Update=12/04/2017 18:28:03 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46297054 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46341155 Title=1921 Morgan &amp; 1922 Peace US Silver Dollars Coins CurrentPrice=61.00 Num of Bids=3 Seller=Goodwill of the Olympics and Rainier Region Shipping=Estimate Shipping End Date=12/6/2017 6:30:00 PM Last Update=12/04/2017 18:28:04 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46341155 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46285198 Title=1927 Peace Dollar &amp; 1942 Walking Liberty Coins CurrentPrice=99.99 Num of Bids=0 Seller=Goodwill of Greater Grand Rapids Shipping=Estimate Shipping End Date=12/6/2017 6:32:00 PM Last Update=12/04/2017 18:28:04 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46285198 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46370482 Title=American MInt Silver Plated Barack Obama Coins CurrentPrice=9.99 Num of Bids=1 Seller=Goodwill Industries of Central Texas Shipping=Estimate Shipping End Date=12/6/2017 6:32:00 PM Last Update=12/04/2017 18:28:04 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46370482 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46371019 Title=Postal Commemorative Society Presidential Coins CurrentPrice=9.99 Num of Bids=0 Seller=Goodwill Industries of Central Texas Shipping=Estimate Shipping End Date=12/6/2017 6:33:00 PM Last Update=12/04/2017 18:28:05 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46371019 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46369384 Title=American Mint Life Of JFK Silver Plated Coins CurrentPrice=9.99 Num of Bids=1 Seller=Goodwill Industries of Central Texas Shipping=Estimate Shipping End Date=12/6/2017 6:37:00 PM Last Update=12/04/2017 18:28:05 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46369384 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46381701 Title=4, September 11, 2001 Memorial Half Dollar Coins CurrentPrice=8.95 Num of Bids=1 Seller= Shipping=Estimate Shipping End Date=12/6/2017 6:38:00 PM Last Update=12/04/2017 18:28:05 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46381701 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46276661 Title=Foreign Paper Money &amp; Coins Lot 324.9g CurrentPrice=9.99 Num of Bids=1 Seller= Shipping= End Date=12/6/2017 6:41:00 PM Last Update=12/04/2017 18:28:06 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46276661 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46289059 Title=Lot Of Religious Jewelry, Key Chains, Coins, Etc. CurrentPrice=9.99 Num of Bids=1 Seller= Shipping=Estimate Shipping End Date=12/6/2017 6:45:00 PM Last Update=12/04/2017 18:28:06 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46289059 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46365381 Title=Lot of Gold Plated/Silver Plated Famous US Coins CurrentPrice=46.00 Num of Bids=16 Seller=Goodwill Industries of Central Texas Shipping=Estimate Shipping End Date=12/6/2017 6:46:00 PM Last Update=12/04/2017 18:28:06 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46365381 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46383627 Title=Assorted Coins 1939 Nickel, 1971 Dollar +More CurrentPrice=21.00 Num of Bids=4 Seller=Goodwill Industries of Central Texas Shipping=Estimate Shipping End Date=12/6/2017 6:46:00 PM Last Update=12/04/2017 18:28:07 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46383627 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46364354 Title=Bundle of Foreign &amp; Domestic Coins &amp; Paper Money CurrentPrice=9.99 Num of Bids=1 Seller= Shipping=Estimate Shipping End Date=12/6/2017 6:53:00 PM Last Update=12/04/2017 18:28:07 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46364354 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46371378 Title=PCS Lighthouses of the US Stamps And Coins CurrentPrice=9.99 Num of Bids=1 Seller=Goodwill Industries of Central Texas Shipping=Estimate Shipping End Date=12/6/2017 6:55:00 PM Last Update=12/04/2017 18:28:07 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46371378 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46295064 Title=Lot Of Military Themed Pins, Coins, &amp; Medals CurrentPrice=9.99 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/6/2017 7:15:00 PM Last Update=12/04/2017 18:28:08 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46295064 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46295116 Title=Stretched Penny Coin Collector Cases with Coins CurrentPrice=9.99 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/6/2017 7:15:00 PM Last Update=12/04/2017 18:28:08 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46295116 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46288757 Title=84 LA Olympics Coins and 96 Atlanta Olympics Pins CurrentPrice=9.99 Num of Bids=1 Seller=Goodwill Industries of Southern California Shipping=Estimate Shipping End Date=12/6/2017 7:52:00 PM Last Update=12/04/2017 18:28:08 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46288757 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46291019 Title=Collectible Gold Tone Coins CurrentPrice=5.00 Num of Bids=1 Seller=Shopgoodwill of El Paso Shipping=Estimate Shipping End Date=12/6/2017 9:00:00 PM Last Update=12/04/2017 18:28:09 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46291019 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46357702 Title=100+ Old International Coins Collection CurrentPrice=4.99 Num of Bids=1 Seller=Goodwill Industries of Greater New York and Northern New Jersey Shipping=Estimate Shipping End Date=12/6/2017 9:00:00 PM Last Update=12/04/2017 18:28:09 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46357702 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46357704 Title=Roman Coins Reproduction Set IV Rebellion Roman CurrentPrice=4.99 Num of Bids=0 Seller=Goodwill Industries of Greater New York and Northern New Jersey Shipping=Estimate Shipping End Date=12/6/2017 9:00:00 PM Last Update=12/04/2017 18:28:09 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46357704 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46369251 Title=116 Count of International Coins Collection CurrentPrice=9.99 Num of Bids=0 Seller=Goodwill Industries of Greater New York and Northern New Jersey Shipping=Estimate Shipping End Date=12/6/2017 9:00:00 PM Last Update=12/04/2017 18:28:10 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46369251 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46369509 Title=96 Count of International Coins Collection CurrentPrice=4.99 Num of Bids=1 Seller=Goodwill Industries of Greater New York and Northern New Jersey Shipping=Estimate Shipping End Date=12/6/2017 9:00:00 PM Last Update=12/04/2017 18:28:10 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46369509 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46369788 Title=69 Count of International Coins Collection CurrentPrice=4.99 Num of Bids=1 Seller=Goodwill Industries of Greater New York and Northern New Jersey Shipping=Estimate Shipping End Date=12/6/2017 9:00:00 PM Last Update=12/04/2017 18:28:10 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46369788 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46369977 Title=70 Count of International Coins Collection CurrentPrice=4.99 Num of Bids=0 Seller=Goodwill Industries of Greater New York and Northern New Jersey Shipping=Estimate Shipping End Date=12/6/2017 9:00:00 PM Last Update=12/04/2017 18:28:10 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46369977 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46423524 Title=Lot of Japanese Yen Coins, 40&#39;s &amp; 50&#39;s CurrentPrice=9.99 Num of Bids=0 Seller=Goodwill Industries of the Valleys Shipping=Estimate Shipping End Date=12/7/2017 6:00:00 PM Last Update=12/04/2017 18:28:11 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46423524 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46422125 Title=Lot of 4 USMC Run 4 Chance Challenge Coins CurrentPrice=9.99 Num of Bids=0 Seller=Goodwill Industries of the Valleys Shipping=Estimate Shipping End Date=12/7/2017 6:03:00 PM Last Update=12/04/2017 18:28:11 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46422125 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46318717 Title=3 1909-VDB Lincoln Pennies Coins CurrentPrice=63.00 Num of Bids=3 Seller=Goodwill of Greater Grand Rapids Shipping=Estimate Shipping End Date=12/7/2017 6:06:00 PM Last Update=12/04/2017 18:28:11 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46318717 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46326217 Title=Collectible US Coins - Dollar, Half Dollar &amp; Qtr CurrentPrice=21.00 Num of Bids=6 Seller= Shipping= End Date=12/7/2017 6:15:00 PM Last Update=12/04/2017 18:28:12 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46326217 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46335105 Title=5 Lbs Of Mixed International Coins CurrentPrice=13.00 Num of Bids=5 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/7/2017 6:18:00 PM Last Update=12/04/2017 18:28:12 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46335105 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46422619 Title=.29lb. Lot of Foreign Coins &amp; Paper Money CurrentPrice=9.99 Num of Bids=0 Seller=Goodwill Industries of the Valleys Shipping=Estimate Shipping End Date=12/7/2017 6:18:00 PM Last Update=12/04/2017 18:28:12 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46422619 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46422331 Title=Lot  Of Mexican Coins $1037 Pesos $55.55 USD CurrentPrice=9.99 Num of Bids=0 Seller=Goodwill Industries of the Valleys Shipping=Estimate Shipping End Date=12/7/2017 6:20:00 PM Last Update=12/04/2017 18:28:12 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46422331 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46335010 Title=5 Lbs Of Mixed International Coins CurrentPrice=12.50 Num of Bids=3 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/7/2017 6:30:00 PM Last Update=12/04/2017 18:28:13 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46335010 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46422231 Title=1.50 Ilbs Mixed lot of Mexican Coins CurrentPrice=9.99 Num of Bids=1 Seller=Goodwill Industries of the Valleys Shipping=Estimate Shipping End Date=12/7/2017 6:32:00 PM Last Update=12/04/2017 18:28:13 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46422231 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46422179 Title=Lot of 5 Army National Guard Challenge Coins CurrentPrice=9.99 Num of Bids=0 Seller=Goodwill Industries of the Valleys Shipping=Estimate Shipping End Date=12/7/2017 6:34:00 PM Last Update=12/04/2017 18:28:14 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46422179 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46335586 Title=5 Lbs Of Mixed International Coins CurrentPrice=16.00 Num of Bids=5 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/7/2017 6:37:00 PM Last Update=12/04/2017 18:28:14 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46335586 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46335453 Title=30 Great Britain 1 Pound Coins CurrentPrice=15.50 Num of Bids=3 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/7/2017 6:42:00 PM Last Update=12/04/2017 18:28:15 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46335453 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46422486 Title=Lot of Canadian Coins &amp; Paper Money CurrentPrice=14.99 Num of Bids=0 Seller=Goodwill Industries of the Valleys Shipping=Estimate Shipping End Date=12/7/2017 6:43:00 PM Last Update=12/04/2017 18:28:15 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46422486 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46318878 Title=1903 &amp; 1900-O Morgan Silver Dollars Coins CurrentPrice=111.00 Num of Bids=9 Seller=Goodwill of Greater Grand Rapids Shipping=Estimate Shipping End Date=12/7/2017 6:49:00 PM Last Update=12/04/2017 18:28:16 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46318878 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46335953 Title=4.5 Lbs Of Damaged Coins &amp; Bank Notes CurrentPrice=11.00 Num of Bids=4 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/7/2017 6:49:00 PM Last Update=12/04/2017 18:28:16 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46335953 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46422393 Title=Lot of .54lbs.Foreign Coins &amp; Paper Money CurrentPrice=9.99 Num of Bids=0 Seller=Goodwill Industries of the Valleys Shipping=Estimate Shipping End Date=12/7/2017 6:57:00 PM Last Update=12/04/2017 18:28:17 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46422393 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46341451 Title=Collectible History Coins CurrentPrice=5.00 Num of Bids=1 Seller=Shopgoodwill of El Paso Shipping=Estimate Shipping End Date=12/7/2017 9:00:00 PM Last Update=12/04/2017 18:28:17 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46341451 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46378054 Title=021 Coins of the Bible - Two Replica Coins CurrentPrice=8.99 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/8/2017 11:30:29 AM Last Update=12/04/2017 18:28:17 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46378054 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46382166 Title=1LBS of Mix Casino Coins CurrentPrice=9.99 Num of Bids=0 Seller=Goodwill of the Heartland Shipping=Estimate Shipping End Date=12/8/2017 4:00:00 PM Last Update=12/04/2017 18:28:18 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46382166 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46356767 Title=Lot of Foreign Money Coins CurrentPrice=10.00 Num of Bids=3 Seller= Shipping=Estimate Shipping End Date=12/8/2017 5:30:00 PM Last Update=12/04/2017 18:28:18 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46356767 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46400557 Title=International Mixed Coins CurrentPrice=14.99 Num of Bids=1 Seller= Shipping=Estimate Shipping End Date=12/8/2017 6:00:00 PM Last Update=12/04/2017 18:28:19 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46400557 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46358808 Title=9 US Military Challenge Coins CurrentPrice=51.00 Num of Bids=5 Seller=Goodwill Industries of Southern Arizona Shipping=Estimate Shipping End Date=12/8/2017 6:30:00 PM Last Update=12/04/2017 18:28:19 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46358808 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46371544 Title=Presidential Coins &amp; Americana lot/19 coins CurrentPrice=15.00 Num of Bids=4 Seller= Shipping= End Date=12/8/2017 6:30:00 PM Last Update=12/04/2017 18:28:19 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46371544 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46384792 Title=Over 3 Lbs Pokemon Game Cards and 5 Gold Coins CurrentPrice=16.50 Num of Bids=2 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/8/2017 7:00:00 PM Last Update=12/04/2017 18:28:20 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46384792 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46432869 Title=Reproduction Coins CurrentPrice=9.99 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/8/2017 7:00:00 PM Last Update=12/04/2017 18:28:20 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46432869 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46443950 Title=10 sets of 1978 US uncirculated coins CurrentPrice=21.00 Num of Bids=2 Seller= Shipping=Estimate Shipping End Date=12/8/2017 7:06:00 PM Last Update=12/04/2017 18:28:21 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46443950 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46425540 Title=Collectible Coins of America Case CurrentPrice=9.99 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/8/2017 7:40:00 PM Last Update=12/04/2017 18:28:21 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46425540 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46381117 Title=135 Pcs of Coins from Various Countries CurrentPrice=13.00 Num of Bids=4 Seller=Goodwill of Greater Washington Shipping=Estimate Shipping End Date=12/8/2017 9:00:00 PM Last Update=12/04/2017 18:28:21 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46381117 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46381365 Title=113 pcs of Coins from Various Countries CurrentPrice=10.00 Num of Bids=2 Seller=Goodwill of Greater Washington Shipping=Estimate Shipping End Date=12/8/2017 9:00:00 PM Last Update=12/04/2017 18:28:22 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46381365 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46395093 Title=5 Lbs Of Mixed International Coins CurrentPrice=5.00 Num of Bids=1 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/9/2017 5:45:00 PM Last Update=12/04/2017 18:28:22 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46395093 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46395214 Title=5 Lbs Of Mixed International Coins CurrentPrice=9.00 Num of Bids=2 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/9/2017 5:45:00 PM Last Update=12/04/2017 18:28:22 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46395214 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46395222 Title=5 Lbs Of Mixed International Coins CurrentPrice=5.00 Num of Bids=1 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/9/2017 5:45:00 PM Last Update=12/04/2017 18:28:22 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46395222 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46395238 Title=30 1971 And Up Kennedy Half Dollar Coins -337.1g CurrentPrice=8.00 Num of Bids=3 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/9/2017 5:45:00 PM Last Update=12/04/2017 18:28:23 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46395238 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46395260 Title=4 Lbs Of Canadian 1 Cent To 2 Dollar Coins CurrentPrice=5.00 Num of Bids=1 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/9/2017 5:45:00 PM Last Update=12/04/2017 18:28:23 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46395260 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46395325 Title=30 Great Britain 1 Pound Coins CurrentPrice=16.50 Num of Bids=3 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/9/2017 5:45:00 PM Last Update=12/04/2017 18:28:24 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46395325 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46395876 Title=8 Slab Sets Of Uncirculated Mixed Coins CurrentPrice=33.01 Num of Bids=5 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/9/2017 5:45:00 PM Last Update=12/04/2017 18:28:24 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46395876 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46395885 Title=8 Slab Sets Of Uncirculated Mixed Coins CurrentPrice=31.00 Num of Bids=5 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/9/2017 5:45:00 PM Last Update=12/04/2017 18:28:24 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46395885 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46425338 Title=4 Framed Coins &amp; Stamps With Historic Stories CurrentPrice=13.01 Num of Bids=3 Seller=Goodwill Industries of Central Florida Shipping=Estimate Shipping End Date=12/9/2017 6:15:00 PM Last Update=12/04/2017 18:28:25 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46425338 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46439341 Title=Neat wooden serving plate with Argentina coins CurrentPrice=8.99 Num of Bids=0 Seller=Goodwill Industries of the Redwood Empire Shipping=Estimate Shipping End Date=12/9/2017 6:15:00 PM Last Update=12/04/2017 18:28:25 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46439341 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46326861 Title=Collectible Stamp, Wartime Nickels Coins and More CurrentPrice=9.99 Num of Bids=1 Seller= Shipping= End Date=12/9/2017 6:33:00 PM Last Update=12/04/2017 18:28:25 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46326861 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46436323 Title=Hand Carved Wooden Treasure Chest W/Coins/Knife CurrentPrice=5.95 Num of Bids=1 Seller=Chattanooga Goodwill Industries Shipping= End Date=12/9/2017 7:57:00 PM Last Update=12/04/2017 18:28:25 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46436323 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46433871 Title=100 Count of International Coins Collection CurrentPrice=4.99 Num of Bids=0 Seller=Goodwill Industries of Greater New York and Northern New Jersey Shipping=Estimate Shipping End Date=12/9/2017 9:00:00 PM Last Update=12/04/2017 18:28:26 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46433871 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46433982 Title=100 Count of International Coins Collection CurrentPrice=4.99 Num of Bids=0 Seller=Goodwill Industries of Greater New York and Northern New Jersey Shipping=Estimate Shipping End Date=12/9/2017 9:00:00 PM Last Update=12/04/2017 18:28:26 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46433982 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46434224 Title=60 Counts of International Coins Collection CurrentPrice=4.99 Num of Bids=0 Seller=Goodwill Industries of Greater New York and Northern New Jersey Shipping=Estimate Shipping End Date=12/9/2017 9:00:00 PM Last Update=12/04/2017 18:28:26 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46434224 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46434532 Title=62 Count of International Coins Collection CurrentPrice=4.99 Num of Bids=0 Seller=Goodwill Industries of Greater New York and Northern New Jersey Shipping=Estimate Shipping End Date=12/9/2017 9:00:00 PM Last Update=12/04/2017 18:28:27 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46434532 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46440665 Title=Commemorative Decommissioned Coins In Frame CurrentPrice=4.99 Num of Bids=0 Seller=Goodwill Industries of Greater New York and Northern New Jersey Shipping=Estimate Shipping End Date=12/9/2017 9:00:00 PM Last Update=12/04/2017 18:28:27 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46440665 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46419633 Title=10 U.S.A. Eisenhower One Dollar Coins - 226.7g CurrentPrice=7.00 Num of Bids=3 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/10/2017 7:30:00 PM Last Update=12/04/2017 18:28:27 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46419633 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46419675 Title=10 Susan B. Anthony One Dollar Coins - 80.8g CurrentPrice=8.50 Num of Bids=3 Seller=Goodwill Industries of the Columbia Willamette Shipping=Estimate Shipping End Date=12/10/2017 7:30:00 PM Last Update=12/04/2017 18:28:28 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46419675 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46434622 Title=Foreign Money/Coins 1.92LBS CurrentPrice=9.99 Num of Bids=0 Seller= Shipping= End Date=12/11/2017 6:13:00 PM Last Update=12/04/2017 18:28:28 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46434622 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46442848 Title=Presidential Hall of Fame Coins CurrentPrice=9.99 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/11/2017 6:30:00 PM Last Update=12/04/2017 18:28:28 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46442848 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46443552 Title=United States 24 Karat Collector Coins CurrentPrice=4.99 Num of Bids=0 Seller=Goodwill Industries of the Southern Piedmont Shipping=Estimate Shipping End Date=12/11/2017 7:00:00 PM Last Update=12/04/2017 18:28:28 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46443552 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46444009 Title=Lot of Military &amp; Americana Collectible Coins CurrentPrice=27.99 Num of Bids=2 Seller=Goodwill of Greater Washington Shipping=Estimate Shipping End Date=12/11/2017 9:00:00 PM Last Update=12/04/2017 18:28:29 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46444009 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46444647 Title=Lot of Military &amp; Americana Collectible Coins CurrentPrice=7.99 Num of Bids=1 Seller=Goodwill of Greater Washington Shipping=Estimate Shipping End Date=12/11/2017 9:00:00 PM Last Update=12/04/2017 18:28:29 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46444647 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46292255 Title=Dolce&amp;Gabbana Women&#39;s Rectangular Gunmetal Frames CurrentPrice=9.99 Num of Bids=0 Seller=Goodwill Industries of Northwest Texas Shipping=Estimate Shipping End Date=12/4/2017 6:00:00 PM Last Update=12/04/2017 18:28:30 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46292255 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46396442 Title=Black BB Gun CurrentPrice=7.99 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/5/2017 6:00:00 PM Last Update=12/04/2017 18:28:30 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46396442 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46263071 Title=Coach Burgundy Pebble Leather Backpack 098 CurrentPrice=112.00 Num of Bids=2 Seller=Goodwill Easter Seals Miami Valley Shipping=Estimate Shipping End Date=12/5/2017 6:08:00 PM Last Update=12/04/2017 18:28:31 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46263071 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46287211 Title=027 Daisy BB Gun CurrentPrice=8.99 Num of Bids=1 Seller= Shipping=Estimate Shipping End Date=12/6/2017 10:17:52 AM Last Update=12/04/2017 18:28:31 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46287211 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46287728 Title=011 Daisy Model 880 BB Gun CurrentPrice=55.63 Num of Bids=9 Seller= Shipping=Estimate Shipping End Date=12/6/2017 10:23:23 AM Last Update=12/04/2017 18:28:31 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46287728 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46283800 Title=Coach Burgundy Pebble Leather Wallet NWT 098 CurrentPrice=38.00 Num of Bids=5 Seller=Goodwill Easter Seals Miami Valley Shipping=Estimate Shipping End Date=12/6/2017 6:32:00 PM Last Update=12/04/2017 18:28:32 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46283800 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46391354 Title=Crosman R71 BB Gun CurrentPrice=9.99 Num of Bids=1 Seller=Goodwill Industries of South Texas Shipping=Estimate Shipping End Date=12/8/2017 6:12:54 PM Last Update=12/04/2017 18:28:32 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46391354 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46436979 Title=Thomson Military Multi Rails Concepts BB Guns CurrentPrice=14.00 Num of Bids=3 Seller=Goodwill of Orange County Shipping=Estimate Shipping End Date=12/8/2017 7:14:00 PM Last Update=12/04/2017 18:28:32 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46436979 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46437933 Title=2 .177 Caliber 4.5mm BB Guns CurrentPrice=4.99 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/9/2017 6:01:00 PM Last Update=12/04/2017 18:28:32 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46437933 
+2017.12.04.18.27.38: Write to database
+ItemNumber=46421893 Title=Daisy 25 BB Gun Rifle CurrentPrice=9.99 Num of Bids=0 Seller=Goodwill of Greater Grand Rapids Shipping=Estimate Shipping End Date=12/11/2017 6:06:00 PM Last Update=12/04/2017 18:28:33 
+2017.12.04.18.27.38: Save images to database
+ImagesForItemNum=46421893 
+2017.12.04.18.27.38: Dump hashMap Data to PermanentData.txt
+2017.12.04.18.27.38: connection to log closes.
+2017.12.04.18.28.55: New system session, Log starts here.
+2017.12.04.18.28.55: Program exits.
+2017.12.04.18.39.01: New system session, Log starts here.
+2017.12.04.18.39.01: Write to database
+ItemNumber=46217097 Title=Fender Elite Precision Bass Guitar Tested W/ Case CurrentPrice= Num of Bids=37 Seller=Goodwill Industries of the Inland Northwest Shipping=Estimate Shipping End Date=12/4/2017 3:48:24 PM Last Update=12/04/2017 18:47:39 
+2017.12.04.18.39.01: Save images to database
+ImagesForItemNum=46217097 
+2017.12.04.18.39.01: Write to database
+ItemNumber=46217102 Title=Framed Picture of Mountain Scene by Orin CurrentPrice=7.99 Num of Bids=0 Seller=Goodwill Industries of the Inland Northwest Shipping=Estimate Shipping End Date=12/4/2017 3:48:58 PM Last Update=12/04/2017 18:47:39 
+2017.12.04.18.39.01: Save images to database
+ImagesForItemNum=46217102 
+2017.12.04.18.39.01: Write to database
+ItemNumber=46217108 Title=Women Lululemon Seafoam Green&amp;Black Long Sleeve 10 CurrentPrice=61.00 Num of Bids=8 Seller=Goodwill Industries of the Inland Northwest Shipping=Estimate Shipping End Date=12/4/2017 3:49:38 PM Last Update=12/04/2017 18:47:40 
+2017.12.04.18.39.01: Save images to database
+ImagesForItemNum=46217108 
+2017.12.04.18.39.01: Write to database
+ItemNumber=46217127 Title=Starbucks Barista White Espresso Machine #SIN 006 CurrentPrice=51.88 Num of Bids=5 Seller=Goodwill Industries of the Inland Northwest Shipping=Estimate Shipping End Date=12/4/2017 3:51:53 PM Last Update=12/04/2017 18:47:40 
+2017.12.04.18.39.01: Save images to database
+ImagesForItemNum=46217127 
+2017.12.04.18.39.01: Write to database
+ItemNumber=46217136 Title=Womens Banana Republic Pink Wool Blend Sweater Lg CurrentPrice=17.00 Num of Bids=5 Seller=Goodwill Industries of the Inland Northwest Shipping=Estimate Shipping End Date=12/4/2017 3:52:54 PM Last Update=12/04/2017 18:47:40 
+2017.12.04.18.39.01: Save images to database
+ImagesForItemNum=46217136 
+2017.12.04.18.39.01: Write to database
+ItemNumber=46217157 Title=Women&#39;s Chico&#39;s Barely Boot Blue Jeans Size 00 CurrentPrice=13.36 Num of Bids=4 Seller=Goodwill Industries of the Inland Northwest Shipping=Estimate Shipping End Date=12/4/2017 3:55:30 PM Last Update=12/04/2017 18:47:41 
+2017.12.04.18.39.01: Save images to database
+ImagesForItemNum=46217157 
+2017.12.04.18.39.01: Write to database
+ItemNumber=46217166 Title=Vizio 55&quot; LED LCD HD WiFi TV Tested Works PUO CurrentPrice=301.50 Num of Bids=25 Seller=Goodwill Industries of the Inland Northwest Shipping=Estimate Shipping End Date=12/4/2017 3:57:03 PM Last Update=12/04/2017 18:47:41 
+2017.12.04.18.39.01: Save images to database
+ImagesForItemNum=46217166 
+2017.12.04.18.39.01: Write to database
+ItemNumber=46217173 Title=Women&#39;s Chico&#39;s Barley Boot Blue Jeans Size 00 CurrentPrice=13.99 Num of Bids=3 Seller=Goodwill Industries of the Inland Northwest Shipping=Estimate Shipping End Date=12/4/2017 3:58:04 PM Last Update=12/04/2017 18:47:41 
+2017.12.04.18.39.01: Save images to database
+ImagesForItemNum=46217173 
+2017.12.04.18.39.01: Write to database
+ItemNumber=46047909 Title=3.45 lbs Grab Bag of WATCHES CurrentPrice=34.00 Num of Bids=5 Seller=Goodwill Industries of the Southern Piedmont Shipping=Estimate Shipping End Date=12/4/2017 4:00:00 PM Last Update=12/04/2017 18:47:42 
+2017.12.04.18.39.01: Save images to database
+ImagesForItemNum=46047909 
+2017.12.04.18.39.01: Write to database
+ItemNumber=46048054 Title=6.13 lbs Grab Bag of MIXED FASHION JEWELRY CurrentPrice=7.99 Num of Bids=1 Seller=Goodwill Industries of the Southern Piedmont Shipping=Estimate Shipping End Date=12/4/2017 4:00:00 PM Last Update=12/04/2017 18:47:42 
+2017.12.04.18.39.01: Save images to database
+ImagesForItemNum=46048054 
+2017.12.04.18.39.01: Write to database
+ItemNumber=46192313 Title=Cool Spot Portable Ice Maker CurrentPrice=26.99 Num of Bids=7 Seller=Goodwill of the Heartland Shipping=Estimate Shipping End Date=12/4/2017 4:00:00 PM Last Update=12/04/2017 18:47:42 
+2017.12.04.18.39.01: Save images to database
+ImagesForItemNum=46192313 
+2017.12.04.18.39.01: Write to database
+ItemNumber=46192315 Title=8.2Lbs Jewelry/Accessories Grab Bag CurrentPrice=14.99 Num of Bids=4 Seller=Goodwill of the Heartland Shipping=Estimate Shipping End Date=12/4/2017 4:00:00 PM Last Update=12/04/2017 18:47:42 
+2017.12.04.18.39.01: Save images to database
+ImagesForItemNum=46192315 
+2017.12.04.18.39.01: Write to database
+ItemNumber=46192316 Title=Pentax SF10 35MM Film Camera w/ Takumar Lens CurrentPrice=13.00 Num of Bids=3 Seller=Goodwill of the Heartland Shipping=Estimate Shipping End Date=12/4/2017 4:00:00 PM Last Update=12/04/2017 18:47:43 
+2017.12.04.18.39.01: Save images to database
+ImagesForItemNum=46192316 
+2017.12.04.18.39.01: Write to database
+ItemNumber=46192342 Title=Vintage BrassTone Music Stand CurrentPrice=25.00 Num of Bids=8 Seller=Goodwill of the Heartland Shipping=Estimate Shipping End Date=12/4/2017 4:00:00 PM Last Update=12/04/2017 18:47:43 
+2017.12.04.18.39.01: Save images to database
+ImagesForItemNum=46192342 
+2017.12.04.18.39.01: Write to database
+ItemNumber=46192405 Title=Vintage Lot Of 5-45 RPM Records CurrentPrice=8.99 Num of Bids=0 Seller=Marion Goodwill Industries Shipping=Estimate Shipping End Date=12/4/2017 4:00:00 PM Last Update=12/04/2017 18:47:43 
+2017.12.04.18.39.01: Save images to database
+ImagesForItemNum=46192405 
+2017.12.04.18.39.01: Write to database
+ItemNumber=46192743 Title=45 RPM Records Vintage Lot Of 4 CurrentPrice=8.99 Num of Bids=0 Seller=Marion Goodwill Industries Shipping=Estimate Shipping End Date=12/4/2017 4:00:00 PM Last Update=12/04/2017 18:47:43 
+2017.12.04.18.39.01: Save images to database
+ImagesForItemNum=46192743 
+2017.12.04.18.39.01: Write to database
+ItemNumber=46194634 Title=Lot of 9 Nintendo DS Games CurrentPrice=51.00 Num of Bids=11 Seller=Goodwill of the Heartland Shipping=Estimate Shipping End Date=12/4/2017 4:00:00 PM Last Update=12/04/2017 18:47:44 
+2017.12.04.18.39.01: Save images to database
+ImagesForItemNum=46194634 
+2017.12.04.18.39.01: Write to database
+ItemNumber=46194836 Title=3.95Lbs Grab bag of Todd McFarlane Spawn Toys CurrentPrice=10.99 Num of Bids=2 Seller=Goodwill of the Heartland Shipping=Estimate Shipping End Date=12/4/2017 4:00:00 PM Last Update=12/04/2017 18:47:44 
+2017.12.04.18.39.01: Save images to database
+ImagesForItemNum=46194836 
+2017.12.04.18.39.01: Write to database
+ItemNumber=46194866 Title=7.13 lbs Bag of MIXED FASHION JEWELRY CurrentPrice=22.00 Num of Bids=2 Seller=Goodwill Industries of the Southern Piedmont Shipping=Estimate Shipping End Date=12/4/2017 4:00:00 PM Last Update=12/04/2017 18:47:44 
+2017.12.04.18.39.01: Save images to database
+ImagesForItemNum=46194866 
+2017.12.04.18.39.01: Write to database
+ItemNumber=46194988 Title=Two Breyer Horses Painted/Mustang CurrentPrice=9.99 Num of Bids=0 Seller=Goodwill of the Heartland Shipping=Estimate Shipping End Date=12/4/2017 4:00:00 PM Last Update=12/04/2017 18:47:45 
+2017.12.04.18.39.01: Save images to database
+ImagesForItemNum=46194988 
+2017.12.04.18.39.01: Write to database
+ItemNumber=46195495 Title=Vintage Swiss Cowbell Brass Tone. CurrentPrice=9.99 Num of Bids=0 Seller=Goodwill of the Heartland Shipping=Estimate Shipping End Date=12/4/2017 4:00:00 PM Last Update=12/04/2017 18:47:45 
+2017.12.04.18.39.01: Save images to database
+ImagesForItemNum=46195495 
+2017.12.04.18.39.01: Write to database
+ItemNumber=46195940 Title=Vintage Kodak Signet 35 ( 35MM Film Camera) CurrentPrice=21.00 Num of Bids=6 Seller=Goodwill of the Heartland Shipping=Estimate Shipping End Date=12/4/2017 4:00:00 PM Last Update=12/04/2017 18:47:45 
+2017.12.04.18.39.01: Save images to database
+ImagesForItemNum=46195940 
+2017.12.04.18.39.01: Write to database
+ItemNumber=46196124 Title=2.16 lbs Bag of ASSORTED WATCHES CurrentPrice=31.00 Num of Bids=4 Seller=Goodwill Industries of the Southern Piedmont Shipping=Estimate Shipping End Date=12/4/2017 4:00:00 PM Last Update=12/04/2017 18:47:45 
+2017.12.04.18.39.01: Save images to database
+ImagesForItemNum=46196124 
+2017.12.04.18.39.01: Write to database
+ItemNumber=46196156 Title=Lot of Vintage Barbie/Ken Dolls  Case/Accessories CurrentPrice=66.00 Num of Bids=15 Seller=Goodwill of the Heartland Shipping=Estimate Shipping End Date=12/4/2017 4:00:00 PM Last Update=12/04/2017 18:47:46 
+2017.12.04.18.39.01: Save images to database
+ImagesForItemNum=46196156 
+2017.12.04.18.39.01: Write to database
+ItemNumber=46196433 Title=Johnson A-Model Mandolin MA-120 CurrentPrice=51.00 Num of Bids=18 Seller=Goodwill of the Heartland Shipping=Estimate Shipping End Date=12/4/2017 4:00:00 PM Last Update=12/04/2017 18:47:46 
+2017.12.04.18.39.01: Save images to database
+ImagesForItemNum=46196433 
+2017.12.04.18.39.01: Write to database
+ItemNumber=46196826 Title=Antique Revere US Zone Germany Cornet #5327 CurrentPrice=12.00 Num of Bids=3 Seller=Goodwill of the Heartland Shipping=Estimate Shipping End Date=12/4/2017 4:00:00 PM Last Update=12/04/2017 18:47:46 
+2017.12.04.18.39.01: Save images to database
+ImagesForItemNum=46196826 
+2017.12.04.18.39.01: Write to database
+ItemNumber=46197094 Title=Antique Imperial Cornet 7849 CurrentPrice=18.00 Num of Bids=5 Seller=Goodwill of the Heartland Shipping=Estimate Shipping End Date=12/4/2017 4:00:00 PM Last Update=12/04/2017 18:47:47 
+2017.12.04.18.39.01: Save images to database
+ImagesForItemNum=46197094 
+2017.12.04.18.39.01: Write to database
+ItemNumber=46197200 Title=Elegant White Hager Swan W/ Teal Glaze inside CurrentPrice=9.99 Num of Bids=0 Seller=Goodwill of the Heartland Shipping=Estimate Shipping End Date=12/4/2017 4:00:00 PM Last Update=12/04/2017 18:47:47 
+2017.12.04.18.39.01: Save images to database
+ImagesForItemNum=46197200 
+2017.12.04.18.39.01: Write to database
+ItemNumber=46197582 Title=3 Women’s Hats CurrentPrice=7.99 Num of Bids=1 Seller= Shipping= End Date=12/4/2017 4:00:00 PM Last Update=12/04/2017 18:47:47 
+2017.12.04.18.39.01: Save images to database
+ImagesForItemNum=46197582 
+2017.12.04.18.39.01: Write to database
+ItemNumber=46197983 Title=3Lbs Grab Bag of Foreign Money/Currency CurrentPrice=27.00 Num of Bids=9 Seller=Goodwill of the Heartland Shipping=Estimate Shipping End Date=12/4/2017 4:00:00 PM Last Update=12/04/2017 18:47:48 
+2017.12.04.18.39.01: Save images to database
+ImagesForItemNum=46197983 
+2017.12.04.18.39.01: Write to database
+ItemNumber=46198124 Title=Two Canadian 20 Dollar Bills 1991 CurrentPrice=29.00 Num of Bids=9 Seller=Goodwill of the Heartland Shipping=Estimate Shipping End Date=12/4/2017 4:00:00 PM Last Update=12/04/2017 18:47:48 
+2017.12.04.18.39.01: Save images to database
+ImagesForItemNum=46198124 
+2017.12.04.18.39.01: Write to database
+ItemNumber=46198434 Title=Lot of 4 Various Values/Years of Mexican Paso&#39;s CurrentPrice=37.00 Num of Bids=9 Seller=Goodwill of the Heartland Shipping=Estimate Shipping End Date=12/4/2017 4:00:00 PM Last Update=12/04/2017 18:47:48 
+2017.12.04.18.39.01: Save images to database
+ImagesForItemNum=46198434 
+2017.12.04.18.39.01: Write to database
+ItemNumber=46198503 Title=Wooden 89 Compartment Curio Knick Knack Shelf CurrentPrice=10.00 Num of Bids=3 Seller=Discover Goodwill of Southern and Western Colorado Shipping=Estimate Shipping End Date=12/4/2017 4:00:00 PM Last Update=12/04/2017 18:47:49 
+2017.12.04.18.39.01: Save images to database
+ImagesForItemNum=46198503 
+2017.12.04.18.39.01: Write to database
+ItemNumber=46198677 Title=Bose PM-1 Portable CD Player CurrentPrice=47.99 Num of Bids=7 Seller=Goodwill of the Heartland Shipping=Estimate Shipping End Date=12/4/2017 4:00:00 PM Last Update=12/04/2017 18:47:50 
+2017.12.04.18.39.01: Save images to database
+ImagesForItemNum=46198677 
+2017.12.04.18.39.01: Write to database
+ItemNumber=46198997 Title=Singed First Edition Copy of Tom Brokaw&#39;s Memoir CurrentPrice=9.99 Num of Bids=0 Seller=Goodwill of the Heartland Shipping=Estimate Shipping End Date=12/4/2017 4:00:00 PM Last Update=12/04/2017 18:47:50 
+2017.12.04.18.39.01: Save images to database
+ImagesForItemNum=46198997 
+2017.12.04.18.39.01: Write to database
+ItemNumber=46199230 Title=NIB Casio Prizm FX-CG10 Graphing Calculator CurrentPrice=40.00 Num of Bids=8 Seller=Goodwill of the Heartland Shipping=Estimate Shipping End Date=12/4/2017 4:00:00 PM Last Update=12/04/2017 18:47:51 
+2017.12.04.18.39.01: Save images to database
+ImagesForItemNum=46199230 
+2017.12.04.18.39.01: Write to database
+ItemNumber=46199737 Title=Three Isabel Bloom Figures CurrentPrice=9.99 Num of Bids=0 Seller=Goodwill of the Heartland Shipping=Estimate Shipping End Date=12/4/2017 4:00:00 PM Last Update=12/04/2017 18:47:51 
+2017.12.04.18.39.01: Save images to database
+ImagesForItemNum=46199737 
+2017.12.04.18.39.01: Write to database
+ItemNumber=46199888 Title=Genuine Florida Alligator head / Claw CurrentPrice=9.99 Num of Bids=1 Seller=Goodwill of the Heartland Shipping=Estimate Shipping End Date=12/4/2017 4:00:00 PM Last Update=12/04/2017 18:47:52 
+2017.12.04.18.39.01: Save images to database
+ImagesForItemNum=46199888 
+2017.12.04.18.39.01: Write to database
+ItemNumber=46200358 Title=Dyson Air Multiplier Bladeless 10&quot; Table Fan CurrentPrice=70.00 Num of Bids=15 Seller=Discover Goodwill of Southern and Western Colorado Shipping=Estimate Shipping End Date=12/4/2017 4:00:00 PM Last Update=12/04/2017 18:47:52 
+2017.12.04.18.39.01: Save images to database
+ImagesForItemNum=46200358 
+2017.12.04.18.39.01: Write to database
+ItemNumber=46200422 Title=Two in Box Special Edition Barbie&#39;s CurrentPrice=9.99 Num of Bids=0 Seller=Goodwill of the Heartland Shipping=Estimate Shipping End Date=12/4/2017 4:00:00 PM Last Update=12/04/2017 18:47:53 
+2017.12.04.18.39.01: Save images to database
+ImagesForItemNum=46200422 
+2017.12.04.18.39.01: Program exits.
+2017.12.04.16.43.21: Program exits.
+2017.12.04.23.03.01: New system session, Log starts here.
+2017.12.04.23.03.01: Program exits.
+2017.12.04.23.12.23: New system session, Log starts here.
+2017.12.04.23.12.23: Program exits.
+2017.12.04.23.30.37: New system session, Log starts here.
+2017.12.04.23.30.37: Program exits.
+2017.12.04.23.34.03: New system session, Log starts here.
+2017.12.04.23.34.03: Program exits.
+2017.12.04.23.52.16: New system session, Log starts here.
+2017.12.04.23.52.16: Program exits.
+2017.12.05.00.49.15: New system session, Log starts here.
+2017.12.05.00.49.15: Program exits.
+2017.12.05.01.42.48: New system session, Log starts here.
+2017.12.05.01.42.48: Program exits.
+2017.12.05.01.47.33: New system session, Log starts here.
+2017.12.05.01.47.33: Program exits.
+2017.12.05.01.48.29: New system session, Log starts here.
+2017.12.05.01.48.29: Program exits.
+2017.12.05.01.49.32: New system session, Log starts here.
+2017.12.05.01.49.32: Program exits.
+2017.12.05.01.50.53: New system session, Log starts here.
+2017.12.05.01.50.53: Program exits.
+2017.12.05.01.55.29: New system session, Log starts here.
+2017.12.05.01.55.29: Program exits.
+2017.12.05.01.56.23: New system session, Log starts here.
+2017.12.05.02.04.52: New system session, Log starts here.
+2017.12.05.02.04.52: Program exits.

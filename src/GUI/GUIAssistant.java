@@ -47,6 +47,7 @@ public class GUIAssistant {
     boolean offline_showLiveItems;
     String[] imageNamesList;
     int imageIndex;
+    boolean existImageWindow;
 
 	
 	public GUIAssistant() {
@@ -82,6 +83,7 @@ public class GUIAssistant {
 	    offline_showLiveItems=false;
 	    imageNamesList=null;
 	    imageIndex = 0;
+	    existImageWindow=false;
 	}
 	
 	public String buildURL () {

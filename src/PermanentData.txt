@@ -1,64 +1,18 @@
 ItemNumber | Title | CurrentPrice | Num of Bids | Seller | Shipping | End Date | Last Update
-ImagesForItemNum=46447600 | 65971004133636rD-thumb.jpg | 63623764133636rD-thumb.jpg
-ImagesForItemNum=46378061 | 91097641112733ll-thumb.jpg | 69762371112733ll-thumb.jpg | 74127691112734ll-thumb.jpg | 599311112734ll-thumb.jpg | 79486781112735ll-thumb.jpg | 35927371112735ll-thumb.jpg
-ImagesForItemNum=46374620
-ItemNumber=46371731 | Title=Lot of Foreign Coins and Tokens | CurrentPrice=9.99 | Num of Bids=0 | Seller=Goodwill Industries of the Valleys | Shipping=Estimate Shipping | End Date=12/4/2017 6:38:00 PM | Last Update=12/04/2017 18:27:48
-ImagesForItemNum=46374895 | 62171561103137ld-thumb.jpg | 16202501103137ld-thumb.jpg | 46373481103138ld-thumb.jpg | 4589481103138ld-thumb.jpg | 73270351103138ld-thumb.jpg | 24358161103138ld-thumb.jpg
-ItemNumber=46482066 | Title=Vintage Jigsaw Puzzle | CurrentPrice=5.99 | Num of Bids=0 | Seller= | Shipping=Estimate Shipping | End Date=12/12/2017 9:23:47 AM | Last Update=12/05/2017 15:43:48 PM
-ItemNumber=46380603 | Title=Lot of 1.36 lbs. of Foreign Coins and Paper Money | CurrentPrice=9.99 | Num of Bids=0 | Seller=Goodwill Industries of the Valleys | Shipping=Estimate Shipping | End Date=12/4/2017 6:56:00 PM | Last Update=12/04/2017 01:35:39
-ItemNumber=46382357 | Title=Old Disney&#39;s BAND CONCERT 3D Jigsaw Puzzle Cardbo | CurrentPrice=21.99 | Num of Bids=0 | Seller=Gulfstream Goodwill Industries | Shipping=Estimate Shipping | End Date=12/6/2017 5:00:00 PM | Last Update=12/05/2017 15:43:40 PM
-ItemNumber=46282914 | Title=Vintage Jigsaw &amp; Vintage Weller Sander Model 700 | CurrentPrice=9.99 | Num of Bids=0 | Seller= | Shipping=Estimate Shipping | End Date=12/6/2017 6:30:00 PM | Last Update=12/05/2017 15:43:40 PM
-ItemNumber=46482067 | Title=Vintage Guild Jigsaw Puzzle | CurrentPrice=5.99 | Num of Bids=0 | Seller= | Shipping=Estimate Shipping | End Date=12/12/2017 9:23:48 AM | Last Update=12/05/2017 15:43:49 PM
-ItemNumber=46482069 | Title=Vintage Guild Jigsaw Puzzle | CurrentPrice=5.99 | Num of Bids=0 | Seller= | Shipping=Estimate Shipping | End Date=12/12/2017 9:23:48 AM | Last Update=12/05/2017 15:43:49 PM
-ImagesForItemNum=46263517 | 911556328123043d8-thumb.jpg | 911521428123044d8-thumb.jpg | 626012028123044d8-thumb.jpg | 392193028123044d8-thumb.jpg | 79001828123044d8-thumb.jpg | 856725428123045d8-thumb.jpg
-ItemNumber=46470848 | Title=Signature Collection The Dolomites Jigsaw Puzzle | CurrentPrice=8.99 | Num of Bids=0 | Seller= | Shipping=Estimate Shipping | End Date=12/10/2017 5:05:00 AM | Last Update=12/05/2017 15:43:45 PM
-ImagesForItemNum=46264646 | 6431542209721es-thumb.jpg | 4950481209721es-thumb.jpg | 5240528209721es-thumb.jpg | 1062128209721es-thumb.jpg | 2321695209721es-thumb.jpg | 3038996209721es-thumb.jpg
-ImagesForItemNum=46290242 | 378078629104917bs-thumb.jpg | 354606229104917bs-thumb.jpg | 256047529104917bs-thumb.jpg | 87475029104917bs-thumb.jpg | 735404329104918bs-thumb.jpg | 351674829104918bs-thumb.jpg
-ItemNumber=46264646 | Title=Black &amp; Decker U-153 Utility Jigsaw | CurrentPrice=9.99 | Num of Bids=0 | Seller=Goodwill of Greater Grand Rapids | Shipping=Estimate Shipping | End Date=12/5/2017 6:00:00 PM | Last Update=12/05/2017 15:43:36 PM
-ItemNumber=46234448 | Title=Denver Broncos Jigsaw Puzzle | CurrentPrice=9.99 | Num of Bids=0 | Seller= | Shipping=Estimate Shipping | End Date=12/5/2017 6:09:00 PM | Last Update=12/05/2017 15:43:36 PM
-ItemNumber=46235959 | Title=Great Grey Owl Family Metalic Jigsaw Puzzle 550pc | CurrentPrice=9.95 | Num of Bids=0 | Seller= | Shipping=Estimate Shipping | End Date=12/5/2017 7:00:00 PM | Last Update=12/05/2017 15:43:37 PM
-ItemNumber=46290242 | Title=Jigsaw Black Tote Bag Purse W/ Pearls Stones | CurrentPrice=7.99 | Num of Bids=0 | Seller=Goodwill Industries of the Inland Northwest | Shipping=Estimate Shipping | End Date=12/6/2017 11:11:44 AM | Last Update=12/05/2017 15:43:39 PM
-ItemNumber=46367297 | Title=Black and Decker 7552 Jigsaw | CurrentPrice=9.99 | Num of Bids=0 | Seller= | Shipping=Estimate Shipping | End Date=12/6/2017 6:30:00 PM | Last Update=12/05/2017 15:43:41 PM
-ItemNumber=46393470 | Title=Cubic Fun, Big Ben 3-D Jigsaw Puzzle | CurrentPrice=4.99 | Num of Bids=0 | Seller= | Shipping=Estimate Shipping | End Date=12/7/2017 6:00:00 PM | Last Update=12/05/2017 15:43:42 PM
-ItemNumber=46330794 | Title=Star Wars BB-8 Jigsaw Puzzle 1000 Pieces NEW | CurrentPrice=9.99 | Num of Bids=0 | Seller= | Shipping=Estimate Shipping | End Date=12/7/2017 6:13:00 PM | Last Update=12/05/2017 15:43:42 PM
-ItemNumber=46340651 | Title=Pomegranate Kids Charley Harper Jigsaw Puzzle | CurrentPrice=7.99 | Num of Bids=0 | Seller=Discover Goodwill of Southern and Western Colorado | Shipping=Estimate Shipping | End Date=12/7/2017 7:19:00 PM | Last Update=12/05/2017 15:43:43 PM
-ItemNumber=46398506 | Title=1989 Bat Man 200 Piee Jigsaw Puzzle | CurrentPrice=4.99 | Num of Bids=0 | Seller=Goodwill Industries of Greater New York and Northern New Jersey | Shipping=Estimate Shipping | End Date=12/7/2017 9:00:00 PM | Last Update=12/05/2017 15:43:43 PM
-ItemNumber=46379166 | Title=New John Deere Jigsaw Puzzle and Playing Cards | CurrentPrice=4.50 | Num of Bids=0 | Seller= | Shipping=Estimate Shipping | End Date=12/8/2017 11:49:36 AM | Last Update=12/05/2017 15:43:43 PM
-ItemNumber=46392720 | Title=GMC 6 Amp Jigsaw W/ Case R700UL | CurrentPrice=6.99 | Num of Bids=0 | Seller=Land of Lincoln Goodwill | Shipping=Estimate Shipping | End Date=12/8/2017 7:00:00 PM | Last Update=12/05/2017 15:43:44 PM
-ItemNumber=46371310 | Title=Masterforce 18V Jigsaw Tool | CurrentPrice=9.99 | Num of Bids=0 | Seller= | Shipping=Estimate Shipping | End Date=12/8/2017 7:37:00 PM | Last Update=12/05/2017 15:43:44 PM
-ItemNumber=46442294 | Title=550 Pc Collector’s Series #2 Jigsaw Puzzle 18x24&quot; | CurrentPrice=7.99 | Num of Bids=0 | Seller=Goodwill Industries of Central Florida | Shipping=Estimate Shipping | End Date=12/9/2017 5:00:00 PM | Last Update=12/05/2017 15:43:45 PM
-ItemNumber=46430659 | Title=Jigsaw Crush Velvet Crop Jacket Sz 12 | CurrentPrice=7.99 | Num of Bids=0 | Seller=Goodwill of North Florida | Shipping=Estimate Shipping | End Date=12/9/2017 7:00:00 PM | Last Update=12/05/2017 15:43:45 PM
-ItemNumber=46470849 | Title=Water for Lizzie 550 Piece Jigsaw Puzzle | CurrentPrice=8.99 | Num of Bids=0 | Seller= | Shipping=Estimate Shipping | End Date=12/10/2017 7:01:00 AM | Last Update=12/05/2017 15:43:46 PM
-ItemNumber=46470851 | Title=Eurographics Elvis 1000 Piece Jigsaw Puzzle | CurrentPrice=8.99 | Num of Bids=0 | Seller= | Shipping=Estimate Shipping | End Date=12/10/2017 8:21:00 AM | Last Update=12/05/2017 15:43:46 PM
-ItemNumber=46471074 | Title=Buffalo Games Vegas, Baby! Jigsaw Puzzle | CurrentPrice=8.99 | Num of Bids=0 | Seller= | Shipping=Estimate Shipping | End Date=12/10/2017 12:17:00 PM | Last Update=12/05/2017 15:43:47 PM
-ItemNumber=46447600 | Title=NEW Flutterby Jigsaw Puzzle | CurrentPrice=6.99 | Num of Bids=0 | Seller=Land of Lincoln Goodwill | Shipping= | End Date=12/11/2017 7:15:00 PM | Last Update=12/05/2017 15:43:47 PM
-ItemNumber=46478841 | Title=Vintage Michael Jackson Jigsaw Puzzle Sealed | CurrentPrice=3.99 | Num of Bids=0 | Seller= | Shipping=Estimate Shipping | End Date=12/12/2017 8:42:00 AM | Last Update=12/05/2017 15:43:48 PM
-ItemNumber=46263517 | Title=Springbok Star Trek 1000 Piece Jigsaw Puzzle NEW | CurrentPrice=9.99 | Num of Bids=1 | Seller=Goodwill Industries of Northern Illinois | Shipping=Estimate Shipping | End Date=12/5/2017 6:30:00 PM | Last Update=12/05/2017 15:43:37 PM
-ItemNumber=46228531 | Title=TWO &#39;STARWARS&quot; JIGSAW 140 PCS INTERLOCKING PUZZEL | CurrentPrice=9.99 | Num of Bids=1 | Seller= | Shipping=Estimate Shipping | End Date=12/5/2017 7:13:00 PM | Last Update=12/05/2017 15:43:38 PM
-ItemNumber=46378061 | Title=Thomas Kinkade 3 Full Size Jigsaw Puzzles NIB | CurrentPrice=9.99 | Num of Bids=1 | Seller= | Shipping=Estimate Shipping | End Date=12/6/2017 6:30:00 PM | Last Update=12/05/2017 15:43:41 PM
-ItemNumber=46337882 | Title=Ryobi Variable Speed Jigsaw | CurrentPrice=11.01 | Num of Bids=2 | Seller=Goodwill Industries of Greater New York and Northern New Jersey | Shipping=Estimate Shipping | End Date=12/5/2017 9:00:00 PM | Last Update=12/05/2017 15:43:39 PM
-ImagesForItemNum=46470848 | 797176465146ks-thumb.jpg | 947272865146ks-thumb.jpg | 502843165146ks-thumb.jpg | 131008365146ks-thumb.jpg | 709494965146ks-thumb.jpg
-ImagesForItemNum=46282914 | 80135732983027id-thumb.jpg | 95604662983027id-thumb.jpg | 24017832983027id-thumb.jpg | 13978212983027id-thumb.jpg | 29448642983028id-thumb.jpg | 88692262983028id-thumb.jpg | 3225182983028id-thumb.jpg | 83967242983028id-thumb.jpg
-ImagesForItemNum=46371310 | 3078881193453en-thumb.jpg | 2455364193454en-thumb.jpg | 6024372193454en-thumb.jpg | 2929193193454en-thumb.jpg | 4188760193454en-thumb.jpg | 8021905193454en-thumb.jpg
-ImagesForItemNum=46234448 | 16773622864139na-thumb.jpg | 46170762864139na-thumb.jpg | 47147102864139na-thumb.jpg | 24351142864139na-thumb.jpg | 41713652864139na-thumb.jpg | 74106382864139na-thumb.jpg
-ImagesForItemNum=46392720 | 925411324112217rB-thumb.jpg | 904868624112217rB-thumb.jpg | 868626824112217rB-thumb.jpg | 468364924112218rB-thumb.jpg
-ImagesForItemNum=46471074 | 63393795121334ks-thumb.jpg | 13243825121335ks-thumb.jpg | 16144305121335ks-thumb.jpg | 68421575121335ks-thumb.jpg | 74785555121335ks-thumb.jpg
-ImagesForItemNum=46482067 | 41636282875711on-thumb.jpg | 56519272875711on-thumb.jpg | 86856572875711on-thumb.jpg | 85630432875712on-thumb.jpg
-ImagesForItemNum=46393470 | 50049981542447kw-thumb.jpg | 870471542448kw-thumb.jpg | 54922981542448kw-thumb.jpg | 41787351542448kw-thumb.jpg | 50328761542449kw-thumb.jpg
-ImagesForItemNum=46482066 | 10429012875333on-thumb.jpg | 30292472875334on-thumb.jpg | 59291572875334on-thumb.jpg | 84591302875334on-thumb.jpg
-ImagesForItemNum=46379166 | 9484063992850on-thumb.jpg | 1118847992850on-thumb.jpg | 7874958992851on-thumb.jpg | 2420923992851on-thumb.jpg
-ImagesForItemNum=46478841 | 627742867245th-thumb.jpg | 414390167245th-thumb.jpg | 481480867246th-thumb.jpg | 986675467246th-thumb.jpg | 456443267247th-thumb.jpg
-ImagesForItemNum=46470851 | 6552087681710ks-thumb.jpg | 3230815681710ks-thumb.jpg | 1057484681710ks-thumb.jpg | 2341120681710ks-thumb.jpg
-ImagesForItemNum=46330794 | 98499683092040wn-thumb.jpg | 74372493092046wn-thumb.jpg | 89338313092053wn-thumb.jpg | 86567313092056wn-thumb.jpg
-ImagesForItemNum=46482069 | 13827142875913on-thumb.jpg | 29003102875913on-thumb.jpg | 33495072875914on-thumb.jpg | 86065302875914on-thumb.jpg
-ImagesForItemNum=46340651 | 76401913014954er-thumb.jpg | 43482163014954er-thumb.jpg | 2467853014954er-thumb.jpg | 91256343014954er-thumb.jpg | 10083713014954er-thumb.jpg | 49001103014954er-thumb.jpg
-ImagesForItemNum=46367297 | 8962975174539en-thumb.jpg | 5198283174539en-thumb.jpg | 4329884174539en-thumb.jpg | 1714594174540en-thumb.jpg
-ImagesForItemNum=46228531 | 75951772861053wn-thumb.jpg | 77579452861054wn-thumb.jpg | 17577102861054wn-thumb.jpg | 10340522861055wn-thumb.jpg | 97162562861056wn-thumb.jpg | 31899052861057wn-thumb.jpg
-ImagesForItemNum=46442294 | 475978920123315nd-thumb.jpg | 828579020123318nd-thumb.jpg | 97805120123320nd-thumb.jpg | 696743120123323nd-thumb.jpg
-ImagesForItemNum=46382357 | 9538384113856am-thumb.jpg | 8379588113858am-thumb.jpg | 4366047113859am-thumb.jpg | 611843211391am-thumb.jpg | 210837711393am-thumb.jpg | 415441311394am-thumb.jpg
-ImagesForItemNum=46430659 | 1350170111292dy-thumb.jpg | 6825219111291dy-thumb.jpg | 5943806111292dy-thumb.jpg
-ImagesForItemNum=46337882 | 994518330123136os-thumb.jpg | 984427930123136os-thumb.jpg | 373952130123136os-thumb.jpg
-ImagesForItemNum=46398506 | 432582925134543in-thumb.jpg | 972892325134543in-thumb.jpg
-ImagesForItemNum=46470849 | 7488213665528ks-thumb.jpg | 427929665528ks-thumb.jpg | 7008259665528ks-thumb.jpg | 5962335665528ks-thumb.jpg
-ImagesForItemNum=46235959 | 82429132123029it-thumb.jpg
+ItemNumber=46437933 | Title=2 .177 Caliber 4.5mm BB Guns | CurrentPrice=5.99 | Num of Bids=2 | Seller= | Shipping=Estimate Shipping | End Date=12/9/2017 6:01:00 PM | Last Update=12/06/2017 16:50:38 PM
+ItemNumber=46391354 | Title=Crosman R71 BB Gun | CurrentPrice=9.99 | Num of Bids=1 | Seller=Goodwill Industries of South Texas | Shipping=Estimate Shipping | End Date=12/8/2017 6:12:54 PM | Last Update=12/06/2017 16:50:36 PM
+ImagesForItemNum=46421893 | 704509844251nd-thumb.jpg | 637961944251nd-thumb.jpg | 155049644251nd-thumb.jpg | 292202244251nd-thumb.jpg | 100715044251nd-thumb.jpg | 673909944251nd-thumb.jpg
+ItemNumber=46436979 | Title=Thomson Military Multi Rails Concepts BB Guns | CurrentPrice=28.13 | Num of Bids=7 | Seller=Goodwill of Orange County | Shipping=Estimate Shipping | End Date=12/8/2017 7:14:00 PM | Last Update=12/06/2017 16:50:37 PM
+ItemNumber=46421893 | Title=Daisy 25 BB Gun Rifle | CurrentPrice=18.01 | Num of Bids=4 | Seller=Goodwill of Greater Grand Rapids | Shipping=Estimate Shipping | End Date=12/11/2017 6:06:00 PM | Last Update=12/06/2017 16:50:39 PM
+ItemNumber=46283800 | Title=Coach Burgundy Pebble Leather Wallet NWT 098 | CurrentPrice=38.00 | Num of Bids=5 | Seller=Goodwill Easter Seals Miami Valley | Shipping=Estimate Shipping | End Date=12/6/2017 6:32:00 PM | Last Update=12/06/2017 16:50:35 PM
+ItemNumber=46520389 | Title=FirePower Electric SG 550-Mini BB Gun | CurrentPrice=5.99 | Num of Bids=0 | Seller= | Shipping=Estimate Shipping | End Date=12/9/2017 6:00:00 PM | Last Update=12/06/2017 16:50:37 PM
+ItemNumber=46537405 | Title=66 POWERMASTER BB Gun With Scope | CurrentPrice=6.99 | Num of Bids=0 | Seller=Gulfstream Goodwill Industries | Shipping=Estimate Shipping | End Date=12/11/2017 5:00:00 PM | Last Update=12/06/2017 16:50:38 PM
+ItemNumber=46531084 | Title=Lot of Airsoft &amp; BB Guns with 2 Replica Toys | CurrentPrice=9.99 | Num of Bids=1 | Seller=Goodwill of Greater Grand Rapids | Shipping=Estimate Shipping | End Date=12/13/2017 6:54:00 PM | Last Update=12/06/2017 16:50:39 PM
+ImagesForItemNum=46437933 | 8716240410625od-thumb.jpg | 1149974410626od-thumb.jpg | 2046559410627od-thumb.jpg | 8637811410628od-thumb.jpg | 6928018410629od-thumb.jpg | 2572077410629od-thumb.jpg
+ImagesForItemNum=46531084 | 22260686101721es-thumb.jpg | 70059926101721es-thumb.jpg | 66728716101721es-thumb.jpg | 62334846101721es-thumb.jpg | 99857266101721es-thumb.jpg | 88042236101721es-thumb.jpg
+ImagesForItemNum=46283800 | 7825862985245n3-thumb.jpg | 89713242985246n3-thumb.jpg | 92906682985246n3-thumb.jpg | 24857732985246n3-thumb.jpg | 84630522985246n3-thumb.jpg
+ImagesForItemNum=46391354 | 28605282094223eW-thumb.jpg | 26551012094223eW-thumb.jpg | 48146552094223eW-thumb.jpg
+ImagesForItemNum=46520389 | 279445726132431ac-thumb.jpg | 125480226132431ac-thumb.jpg | 794682726132432ac-thumb.jpg | 765392426132433ac-thumb.jpg | 735358526132434ac-thumb.jpg | 178060326132434ac-thumb.jpg
+ImagesForItemNum=46436979 | 7474022494813ad-thumb.jpg | 3500285494813ad-thumb.jpg | 6517383494814ad-thumb.jpg | 9817010494814ad-thumb.jpg | 5438760494814ad-thumb.jpg
+ImagesForItemNum=46537405 | 636776061346am-thumb.jpg | 4457208613444am-thumb.jpg | 1407586613514am-thumb.jpg | 5683556613547am-thumb.jpg | 7533837613643am-thumb.jpg | 6684685613719am-thumb.jpg
 

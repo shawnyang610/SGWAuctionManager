@@ -81,6 +81,7 @@ public class GUI extends JFrame {
 	JCheckBox chckbxSearchDescriptions;
 	JCheckBox chckbxBuyItNow;
 	JCheckBox chckbxShowLiveItems;
+	ImageWindow  imageWindow;
 	/**
 	 * Create the panel.
 	 * 
@@ -92,7 +93,7 @@ public class GUI extends JFrame {
 		outDebug = in_outDebug;
 		guiAssistant = new GUIAssistant();
 		getContentPane().setName("");
-		setTitle("Inventory Management");
+		setTitle("Procurement Helper");
 		cusMap = inCusMap;
 		header = inCusMap.header;
 		dumpFileName = inDumpfileName;
@@ -108,7 +109,13 @@ public class GUI extends JFrame {
 				System.exit(0);
 			}
 		});
-
+		
+		try {
+			imageWindow = new ImageWindow(guiAssistant);
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 		// Choose database to use
 		if (inSelector.equals("mysql")) {
 
@@ -782,7 +789,8 @@ public class GUI extends JFrame {
 			public void actionPerformed(ActionEvent arg0) {
 				if (!table.getSelectionModel().isSelectionEmpty()) {
 					
-					ImageWindow imageWindow = new ImageWindow(guiAssistant);
+
+					
 					imageWindow.setVisible(true);
 					int selectedRow = table.getSelectedRow();
 					String selectedItemNum = (String) myTableModel.getValueAt(selectedRow, 0);

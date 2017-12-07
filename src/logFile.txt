@@ -6107,3 +6107,186 @@ ImagesForItemNum=46531084 22260686101721es-thumb.jpg 70059926101721es-thumb.jpg 
 2017.12.06.17.31.07: Program exits.
 2017.12.06.18.10.36: New system session, Log starts here.
 2017.12.06.18.10.36: Program exits.
+2017.12.06.21.05.05: New system session, Log starts here.
+2017.12.06.21.05.05: Deleted Entry with key: 46531084
+2017.12.06.21.05.05: Program exits.
+2017.12.06.21.20.05: New system session, Log starts here.
+2017.12.06.21.20.05: Deleted Entry with key: 46537405
+2017.12.06.21.20.05: Deleted Entry with key: 46531084
+2017.12.06.21.20.05: Deleted Entry with key: 46283800
+2017.12.06.21.20.05: Program exits.
+2017.12.06.21.33.49: New system session, Log starts here.
+2017.12.06.21.33.49: Program exits.
+2017.12.06.21.34.05: New system session, Log starts here.
+2017.12.06.21.34.05: Program exits.
+2017.12.06.21.34.17: New system session, Log starts here.
+2017.12.06.21.34.17: Write to database
+ItemNumber=46391354 Title=Crosman R71 BB Gun CurrentPrice=9.99 Num of Bids=1 Seller=Goodwill Industries of South Texas Shipping=Estimate Shipping End Date=12/8/2017 6:12:54 PM Last Update=12/06/2017 21:34:44 PM 
+2017.12.06.21.34.17: Save images to database
+ImagesForItemNum=46391354 
+2017.12.06.21.34.17: Write to database
+ItemNumber=46436979 Title=Thomson Military Multi Rails Concepts BB Guns CurrentPrice=28.13 Num of Bids=7 Seller=Goodwill of Orange County Shipping=Estimate Shipping End Date=12/8/2017 7:14:00 PM Last Update=12/06/2017 21:34:47 PM 
+2017.12.06.21.34.17: Save images to database
+ImagesForItemNum=46436979 
+2017.12.06.21.34.17: Write to database
+ItemNumber=46520389 Title=FirePower Electric SG 550-Mini BB Gun CurrentPrice=5.99 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/9/2017 6:00:00 PM Last Update=12/06/2017 21:34:51 PM 
+2017.12.06.21.34.17: Save images to database
+ImagesForItemNum=46520389 
+2017.12.06.21.34.17: Write to database
+ItemNumber=46437933 Title=2 .177 Caliber 4.5mm BB Guns CurrentPrice=7.00 Num of Bids=3 Seller= Shipping=Estimate Shipping End Date=12/9/2017 6:01:00 PM Last Update=12/06/2017 21:34:52 PM 
+2017.12.06.21.34.17: Save images to database
+ImagesForItemNum=46437933 
+2017.12.06.21.34.17: Write to database
+ItemNumber=46537405 Title=66 POWERMASTER BB Gun With Scope CurrentPrice=6.99 Num of Bids=0 Seller=Gulfstream Goodwill Industries Shipping=Estimate Shipping End Date=12/11/2017 5:00:00 PM Last Update=12/06/2017 21:34:55 PM 
+2017.12.06.21.34.17: Save images to database
+ImagesForItemNum=46537405 
+2017.12.06.21.34.17: Write to database
+ItemNumber=46421893 Title=Daisy 25 BB Gun Rifle CurrentPrice=26.00 Num of Bids=6 Seller=Goodwill of Greater Grand Rapids Shipping=Estimate Shipping End Date=12/11/2017 6:06:00 PM Last Update=12/06/2017 21:34:58 PM 
+2017.12.06.21.34.17: Save images to database
+ImagesForItemNum=46421893 
+2017.12.06.21.34.17: Write to database
+ItemNumber=46531084 Title=Lot of Airsoft &amp; BB Guns with 2 Replica Toys CurrentPrice=9.99 Num of Bids=1 Seller=Goodwill of Greater Grand Rapids Shipping=Estimate Shipping End Date=12/13/2017 6:54:00 PM Last Update=12/06/2017 21:35:02 PM 
+2017.12.06.21.34.17: Save images to database
+ImagesForItemNum=46531084 
+2017.12.06.21.34.17: Write to database
+ItemNumber=46538228 Title=Daisy Red Ryder 70th anniversy BB gun-immaculate CurrentPrice=7.99 Num of Bids=0 Seller=Great Falls Goodwill Shipping=Estimate Shipping End Date=12/13/2017 7:41:00 PM Last Update=12/06/2017 21:35:05 PM 
+2017.12.06.21.34.17: Save images to database
+ImagesForItemNum=46538228 
+2017.12.06.21.34.17: Write to database
+ItemNumber=46391354 Title=Crosman R71 BB Gun CurrentPrice=9.99 Num of Bids=1 Seller=Goodwill Industries of South Texas Shipping=Estimate Shipping End Date=12/8/2017 6:12:54 PM Last Update=12/06/2017 21:40:59 PM 
+2017.12.06.21.34.17: Save images to database
+ImagesForItemNum=46391354 
+2017.12.06.21.34.17: Write to database
+ItemNumber=46436979 Title=Thomson Military Multi Rails Concepts BB Guns CurrentPrice=28.13 Num of Bids=7 Seller=Goodwill of Orange County Shipping=Estimate Shipping End Date=12/8/2017 7:14:00 PM Last Update=12/06/2017 21:41:00 PM 
+2017.12.06.21.34.17: Save images to database
+ImagesForItemNum=46436979 
+2017.12.06.21.34.17: Write to database
+ItemNumber=46520389 Title=FirePower Electric SG 550-Mini BB Gun CurrentPrice=5.99 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/9/2017 6:00:00 PM Last Update=12/06/2017 21:41:01 PM 
+2017.12.06.21.34.17: Save images to database
+ImagesForItemNum=46520389 
+2017.12.06.21.34.17: Write to database
+ItemNumber=46437933 Title=2 .177 Caliber 4.5mm BB Guns CurrentPrice=7.00 Num of Bids=3 Seller= Shipping=Estimate Shipping End Date=12/9/2017 6:01:00 PM Last Update=12/06/2017 21:41:02 PM 
+2017.12.06.21.34.17: Save images to database
+ImagesForItemNum=46437933 
+2017.12.06.21.34.17: Write to database
+ItemNumber=46537405 Title=66 POWERMASTER BB Gun With Scope CurrentPrice=6.99 Num of Bids=0 Seller=Gulfstream Goodwill Industries Shipping=Estimate Shipping End Date=12/11/2017 5:00:00 PM Last Update=12/06/2017 21:41:03 PM 
+2017.12.06.21.34.17: Save images to database
+ImagesForItemNum=46537405 
+2017.12.06.21.34.17: Write to database
+ItemNumber=46421893 Title=Daisy 25 BB Gun Rifle CurrentPrice=26.00 Num of Bids=6 Seller=Goodwill of Greater Grand Rapids Shipping=Estimate Shipping End Date=12/11/2017 6:06:00 PM Last Update=12/06/2017 21:41:04 PM 
+2017.12.06.21.34.17: Save images to database
+ImagesForItemNum=46421893 
+2017.12.06.21.34.17: Write to database
+ItemNumber=46531084 Title=Lot of Airsoft &amp; BB Guns with 2 Replica Toys CurrentPrice=9.99 Num of Bids=1 Seller=Goodwill of Greater Grand Rapids Shipping=Estimate Shipping End Date=12/13/2017 6:54:00 PM Last Update=12/06/2017 21:41:06 PM 
+2017.12.06.21.34.17: Save images to database
+ImagesForItemNum=46531084 
+2017.12.06.21.34.17: Write to database
+ItemNumber=46538228 Title=Daisy Red Ryder 70th anniversy BB gun-immaculate CurrentPrice=7.99 Num of Bids=0 Seller=Great Falls Goodwill Shipping=Estimate Shipping End Date=12/13/2017 7:41:00 PM Last Update=12/06/2017 21:41:07 PM 
+2017.12.06.21.34.17: Save images to database
+ImagesForItemNum=46538228 
+2017.12.06.21.34.17: Program exits.
+2017.12.06.21.57.36: New system session, Log starts here.
+2017.12.06.22.01.22: New system session, Log starts here.
+2017.12.06.22.01.22: Write to database
+ItemNumber=46391354 Title=Crosman R71 BB Gun CurrentPrice=9.99 Num of Bids=1 Seller=Goodwill Industries of South Texas Shipping=Estimate Shipping End Date=12/8/2017 6:12:54 PM Last Update=12/06/2017 22:01:34 PM 
+2017.12.06.22.01.22: Save images to database
+ImagesForItemNum=46391354 
+2017.12.06.22.01.22: Write to database
+ItemNumber=46436979 Title=Thomson Military Multi Rails Concepts BB Guns CurrentPrice=28.13 Num of Bids=7 Seller=Goodwill of Orange County Shipping=Estimate Shipping End Date=12/8/2017 7:14:00 PM Last Update=12/06/2017 22:01:35 PM 
+2017.12.06.22.01.22: Save images to database
+ImagesForItemNum=46436979 
+2017.12.06.22.01.22: Write to database
+ItemNumber=46520389 Title=FirePower Electric SG 550-Mini BB Gun CurrentPrice=5.99 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/9/2017 6:00:00 PM Last Update=12/06/2017 22:01:37 PM 
+2017.12.06.22.01.22: Save images to database
+ImagesForItemNum=46520389 
+2017.12.06.22.01.22: Write to database
+ItemNumber=46437933 Title=2 .177 Caliber 4.5mm BB Guns CurrentPrice=7.00 Num of Bids=3 Seller= Shipping=Estimate Shipping End Date=12/9/2017 6:01:00 PM Last Update=12/06/2017 22:01:38 PM 
+2017.12.06.22.01.22: Save images to database
+ImagesForItemNum=46437933 
+2017.12.06.22.01.22: Write to database
+ItemNumber=46537405 Title=66 POWERMASTER BB Gun With Scope CurrentPrice=6.99 Num of Bids=0 Seller=Gulfstream Goodwill Industries Shipping=Estimate Shipping End Date=12/11/2017 5:00:00 PM Last Update=12/06/2017 22:01:38 PM 
+2017.12.06.22.01.22: Save images to database
+ImagesForItemNum=46537405 
+2017.12.06.22.01.22: Write to database
+ItemNumber=46421893 Title=Daisy 25 BB Gun Rifle CurrentPrice=26.00 Num of Bids=6 Seller=Goodwill of Greater Grand Rapids Shipping=Estimate Shipping End Date=12/11/2017 6:06:00 PM Last Update=12/06/2017 22:01:39 PM 
+2017.12.06.22.01.22: Save images to database
+ImagesForItemNum=46421893 
+2017.12.06.22.01.22: Write to database
+ItemNumber=46531084 Title=Lot of Airsoft &amp; BB Guns with 2 Replica Toys CurrentPrice=9.99 Num of Bids=1 Seller=Goodwill of Greater Grand Rapids Shipping=Estimate Shipping End Date=12/13/2017 6:54:00 PM Last Update=12/06/2017 22:01:39 PM 
+2017.12.06.22.01.22: Save images to database
+ImagesForItemNum=46531084 
+2017.12.06.22.01.22: Write to database
+ItemNumber=46538228 Title=Daisy Red Ryder 70th anniversy BB gun-immaculate CurrentPrice=7.99 Num of Bids=0 Seller=Great Falls Goodwill Shipping=Estimate Shipping End Date=12/13/2017 7:41:00 PM Last Update=12/06/2017 22:01:40 PM 
+2017.12.06.22.01.22: Save images to database
+ImagesForItemNum=46538228 
+2017.12.06.22.01.22: Program exits.
+2017.12.06.22.04.31: New system session, Log starts here.
+2017.12.06.22.04.31: Write to database
+ItemNumber=46391354 Title=Crosman R71 BB Gun CurrentPrice=9.99 Num of Bids=1 Seller=Goodwill Industries of South Texas Shipping=Estimate Shipping End Date=12/8/2017 6:12:54 PM Last Update=12/06/2017 22:04:41 PM 
+2017.12.06.22.04.31: Save images to database
+ImagesForItemNum=46391354 
+2017.12.06.22.04.31: Write to database
+ItemNumber=46436979 Title=Thomson Military Multi Rails Concepts BB Guns CurrentPrice=28.13 Num of Bids=7 Seller=Goodwill of Orange County Shipping=Estimate Shipping End Date=12/8/2017 7:14:00 PM Last Update=12/06/2017 22:04:42 PM 
+2017.12.06.22.04.31: Save images to database
+ImagesForItemNum=46436979 
+2017.12.06.22.04.31: Write to database
+ItemNumber=46520389 Title=FirePower Electric SG 550-Mini BB Gun CurrentPrice=5.99 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/9/2017 6:00:00 PM Last Update=12/06/2017 22:04:42 PM 
+2017.12.06.22.04.31: Save images to database
+ImagesForItemNum=46520389 
+2017.12.06.22.04.31: Write to database
+ItemNumber=46437933 Title=2 .177 Caliber 4.5mm BB Guns CurrentPrice=7.00 Num of Bids=3 Seller= Shipping=Estimate Shipping End Date=12/9/2017 6:01:00 PM Last Update=12/06/2017 22:04:42 PM 
+2017.12.06.22.04.31: Save images to database
+ImagesForItemNum=46437933 
+2017.12.06.22.04.31: Write to database
+ItemNumber=46537405 Title=66 POWERMASTER BB Gun With Scope CurrentPrice=6.99 Num of Bids=0 Seller=Gulfstream Goodwill Industries Shipping=Estimate Shipping End Date=12/11/2017 5:00:00 PM Last Update=12/06/2017 22:04:43 PM 
+2017.12.06.22.04.31: Save images to database
+ImagesForItemNum=46537405 
+2017.12.06.22.04.31: Write to database
+ItemNumber=46421893 Title=Daisy 25 BB Gun Rifle CurrentPrice=26.00 Num of Bids=6 Seller=Goodwill of Greater Grand Rapids Shipping=Estimate Shipping End Date=12/11/2017 6:06:00 PM Last Update=12/06/2017 22:04:43 PM 
+2017.12.06.22.04.31: Save images to database
+ImagesForItemNum=46421893 
+2017.12.06.22.04.31: Write to database
+ItemNumber=46531084 Title=Lot of Airsoft &amp; BB Guns with 2 Replica Toys CurrentPrice=9.99 Num of Bids=1 Seller=Goodwill of Greater Grand Rapids Shipping=Estimate Shipping End Date=12/13/2017 6:54:00 PM Last Update=12/06/2017 22:04:43 PM 
+2017.12.06.22.04.31: Save images to database
+ImagesForItemNum=46531084 
+2017.12.06.22.04.31: Write to database
+ItemNumber=46538228 Title=Daisy Red Ryder 70th anniversy BB gun-immaculate CurrentPrice=7.99 Num of Bids=0 Seller=Great Falls Goodwill Shipping=Estimate Shipping End Date=12/13/2017 7:41:00 PM Last Update=12/06/2017 22:04:43 PM 
+2017.12.06.22.04.31: Save images to database
+ImagesForItemNum=46538228 
+2017.12.06.22.04.31: Program exits.
+2017.12.06.22.08.41: New system session, Log starts here.
+2017.12.06.22.08.41: Write to database
+ItemNumber=46391354 Title=Crosman R71 BB Gun CurrentPrice=9.99 Num of Bids=1 Seller=Goodwill Industries of South Texas Shipping=Estimate Shipping End Date=12/8/2017 6:12:54 PM Last Update=12/06/2017 22:08:55 PM 
+2017.12.06.22.08.41: Save images to database
+ImagesForItemNum=46391354 
+2017.12.06.22.08.41: Write to database
+ItemNumber=46436979 Title=Thomson Military Multi Rails Concepts BB Guns CurrentPrice=28.13 Num of Bids=7 Seller=Goodwill of Orange County Shipping=Estimate Shipping End Date=12/8/2017 7:14:00 PM Last Update=12/06/2017 22:08:55 PM 
+2017.12.06.22.08.41: Save images to database
+ImagesForItemNum=46436979 
+2017.12.06.22.08.41: Write to database
+ItemNumber=46520389 Title=FirePower Electric SG 550-Mini BB Gun CurrentPrice=5.99 Num of Bids=0 Seller= Shipping=Estimate Shipping End Date=12/9/2017 6:00:00 PM Last Update=12/06/2017 22:08:55 PM 
+2017.12.06.22.08.41: Save images to database
+ImagesForItemNum=46520389 
+2017.12.06.22.08.41: Write to database
+ItemNumber=46437933 Title=2 .177 Caliber 4.5mm BB Guns CurrentPrice=7.00 Num of Bids=3 Seller= Shipping=Estimate Shipping End Date=12/9/2017 6:01:00 PM Last Update=12/06/2017 22:08:56 PM 
+2017.12.06.22.08.41: Save images to database
+ImagesForItemNum=46437933 
+2017.12.06.22.08.41: Write to database
+ItemNumber=46537405 Title=66 POWERMASTER BB Gun With Scope CurrentPrice=6.99 Num of Bids=0 Seller=Gulfstream Goodwill Industries Shipping=Estimate Shipping End Date=12/11/2017 5:00:00 PM Last Update=12/06/2017 22:08:56 PM 
+2017.12.06.22.08.41: Save images to database
+ImagesForItemNum=46537405 
+2017.12.06.22.08.41: Write to database
+ItemNumber=46421893 Title=Daisy 25 BB Gun Rifle CurrentPrice=26.00 Num of Bids=6 Seller=Goodwill of Greater Grand Rapids Shipping=Estimate Shipping End Date=12/11/2017 6:06:00 PM Last Update=12/06/2017 22:08:56 PM 
+2017.12.06.22.08.41: Save images to database
+ImagesForItemNum=46421893 
+2017.12.06.22.08.41: Write to database
+ItemNumber=46531084 Title=Lot of Airsoft &amp; BB Guns with 2 Replica Toys CurrentPrice=9.99 Num of Bids=1 Seller=Goodwill of Greater Grand Rapids Shipping=Estimate Shipping End Date=12/13/2017 6:54:00 PM Last Update=12/06/2017 22:08:57 PM 
+2017.12.06.22.08.41: Save images to database
+ImagesForItemNum=46531084 
+2017.12.06.22.08.41: Write to database
+ItemNumber=46538228 Title=Daisy Red Ryder 70th anniversy BB gun-immaculate CurrentPrice=7.99 Num of Bids=0 Seller=Great Falls Goodwill Shipping=Estimate Shipping End Date=12/13/2017 7:41:00 PM Last Update=12/06/2017 22:08:59 PM 
+2017.12.06.22.08.41: Save images to database
+ImagesForItemNum=46538228 
+2017.12.06.22.08.41: Deleted Entry with key: 46421893
+2017.12.06.22.08.41: Deleted Entry with key: 46537405
+2017.12.06.22.08.41: Program exits.

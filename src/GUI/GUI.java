@@ -6,6 +6,7 @@ import IOManager.IOManager;
 import URL_Processor.Item2Data;
 import URL_Processor.OnlineSearch2ItemsList;
 import URL_Processor.URLBuilder;
+import javafx.concurrent.Task;
 
 import javax.swing.JMenuBar;
 import java.awt.Dimension;
@@ -82,6 +83,10 @@ public class GUI extends JFrame {
 	JCheckBox chckbxBuyItNow;
 	JCheckBox chckbxShowLiveItems;
 	ImageWindow  imageWindow;
+	boolean isTaskDone;
+	Task task=null;
+	JProgressBar progressBar;
+	int progressBarValue;
 	/**
 	 * Create the panel.
 	 * 
@@ -89,6 +94,9 @@ public class GUI extends JFrame {
 	 */
 	public GUI(CustomizedHashMap inCusMap, String inDumpfileName, LogRecorder inLog, String inSelector,
 			PrintWriter in_outDebug) throws IOException {
+		isTaskDone=false;
+		progressBar=null;
+		progressBarValue=0;
 		enableImage = false;
 		outDebug = in_outDebug;
 		guiAssistant = new GUIAssistant();
@@ -455,6 +463,12 @@ public class GUI extends JFrame {
 				ArrayList<String> itemDataList = null;
 				ArrayList<String> itemImageNamesList = null;
 				String[][] allReturnedDataEntries4Table = null;
+				//progress bar task
+				progressBar.setValue(1);
+				progressBar.setVisible(true);
+				
+				//end of progress bar task
+				
 				if (rdbtnOnlineSearch.isSelected()) {
 					System.out.println("online search");
 					// for on-line search
@@ -502,6 +516,10 @@ public class GUI extends JFrame {
 						// step6 String[][] tableList <-- add each data entry to
 						allReturnedDataEntries4Table[counter++] = CHMAssistant.removeHeadersFromListThenToArray(header,
 								itemDataList);
+						if (progressBarValue<95)
+							progressBarValue++;
+						progressBar.setValue(progressBarValue);
+						progressBar.setVisible(true);
 					} // step7 repeat step3,4,5,6 until no more items in returndItemsList.
 
 					// step7 table displays the result returned
@@ -555,7 +573,11 @@ public class GUI extends JFrame {
 					for (int i = 0; i < allReturnedDataEntries4Table.length; i++) {
 						myTableModel.addRow(allReturnedDataEntries4Table[i]);
 					}
+					
 				}
+				progressBar.setValue(100);
+				progressBar.setValue(0);
+				progressBar.setVisible(true);
 			}
 		});
 		GridBagConstraints gbc_button = new GridBagConstraints();
@@ -687,8 +709,11 @@ public class GUI extends JFrame {
 		getContentPane().add(txtMax, gbc_txtMax);
 		txtMax.setColumns(10);
 
-		JProgressBar progressBar = new JProgressBar();
+		progressBar = new JProgressBar(0, 100);
+		progressBar.setValue(0);
+		progressBar.setStringPainted(true);
 		GridBagConstraints gbc_progressBar = new GridBagConstraints();
+		gbc_progressBar.fill = GridBagConstraints.HORIZONTAL;
 		gbc_progressBar.insets = new Insets(0, 0, 5, 5);
 		gbc_progressBar.gridx = 6;
 		gbc_progressBar.gridy = 7;
@@ -974,7 +999,7 @@ public class GUI extends JFrame {
 	}
 
 	private void deleteEntry(String inPrimaryKey) {
-		cusMap.deleteList("PrimaryKey=" + header[0] + inPrimaryKey);
+		cusMap.deleteList("PrimaryKey=" + header[0]+"=" + inPrimaryKey);
 		logger.writeInfo("Deleted Entry with key: " + inPrimaryKey);
 
 	}

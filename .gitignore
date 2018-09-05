@@ -1,0 +1,7 @@
+*.iml
+out/
+.idea/
+.DS_Store
+*.jpg
+logFile.txt
+debug.txt

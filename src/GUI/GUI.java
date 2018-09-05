@@ -101,7 +101,7 @@ public class GUI extends JFrame {
 		outDebug = in_outDebug;
 		guiAssistant = new GUIAssistant();
 		getContentPane().setName("");
-		setTitle("Procurement Helper");
+		setTitle("Shopgoodwill Offline Manager");
 		cusMap = inCusMap;
 		header = inCusMap.header;
 		dumpFileName = inDumpfileName;
